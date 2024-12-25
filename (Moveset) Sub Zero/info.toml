@@ -1,0 +1,10 @@
+display_name = "Sub Zero Moveset"
+authors = "Kartoffel"
+version = "1.0.0"
+description = """
+"I am Sub-Zero, Grandmaster of the Lin Kuei!"
+Sub-Zero Arrives in Smash with a FULLY Custom moveset!
+
+(All C80-C87 Slots of Ryu)
+"""
+category = "Fighter"
