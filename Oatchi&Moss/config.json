@@ -1,0 +1,3620 @@
+{
+	"new-dir-infos": [
+		"fighter/pikmin/c08",
+		"fighter/pikmin/camera/c08",
+		"fighter/pikmin/kirbycopy/c08",
+		"fighter/pikmin/movie/c08",
+		"fighter/pikmin/result/c08",
+		"fighter/pikmin/c09",
+		"fighter/pikmin/camera/c09",
+		"fighter/pikmin/kirbycopy/c09",
+		"fighter/pikmin/movie/c09",
+		"fighter/pikmin/result/c09"
+	],
+	"new-dir-infos-base": {
+		"fighter/pikmin/c08/camera": "fighter/pikmin/c01/camera",
+		"fighter/pikmin/kirbycopy/c08/bodymotion": "fighter/pikmin/kirbycopy/c01/bodymotion",
+		"fighter/pikmin/kirbycopy/c08/cmn": "fighter/pikmin/kirbycopy/c01/cmn",
+		"fighter/pikmin/kirbycopy/c08/sound": "fighter/pikmin/kirbycopy/c01/sound",
+		"fighter/pikmin/c08/cmn": "fighter/pikmin/c01/cmn",
+		"fighter/pikmin/c09/camera": "fighter/pikmin/c01/camera",
+		"fighter/pikmin/kirbycopy/c09/bodymotion": "fighter/pikmin/kirbycopy/c01/bodymotion",
+		"fighter/pikmin/kirbycopy/c09/cmn": "fighter/pikmin/kirbycopy/c01/cmn",
+		"fighter/pikmin/kirbycopy/c09/sound": "fighter/pikmin/kirbycopy/c01/sound",
+		"fighter/pikmin/c09/cmn": "fighter/pikmin/c01/cmn"
+	},
+	"share-to-vanilla": {
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/dark_model.numatb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/dark_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/dark_model.numatb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/light_model.numatb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/light_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/light_model.numatb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/metal_copypikmin_001_col.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_col.nutexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/metal_copypikmin_001_nor.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_nor.nutexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/metal_copypikmin_001_prm.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_prm.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_prm.nutexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/metamon_model.numatb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metamon_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metamon_model.numatb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.nuanmb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nuanmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nuanmb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.nuhlpb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nuhlpb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nuhlpb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.numatb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numatb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.numdlb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numdlb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.numshb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numshb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numshb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.numshexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numshexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numshexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.nusktb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nusktb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nusktb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.nusrcmdlb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nusrcmdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nusrcmdlb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/model.xmb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.xmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.xmb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/skin_copypikmin_001_col.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_col.nutexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/skin_copypikmin_001_nor.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_nor.nutexb"
+		],
+		"fighter/kirby/model/copy_pikmin_fitkirby/c01/skin_copypikmin_001_prm.nutexb": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_prm.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/dark_model.numatb": [
+			"fighter/pikmin/model/b/c08/dark_model.numatb",
+			"fighter/pikmin/model/b/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/b/c01/light_model.numatb": [
+			"fighter/pikmin/model/b/c08/light_model.numatb",
+			"fighter/pikmin/model/b/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/b/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/b/c08/metamon_model.numatb",
+			"fighter/pikmin/model/b/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/b/c01/model.nuanmb": [
+			"fighter/pikmin/model/b/c08/model.nuanmb",
+			"fighter/pikmin/model/b/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/b/c01/model.nuhlpb": [
+			"fighter/pikmin/model/b/c08/model.nuhlpb",
+			"fighter/pikmin/model/b/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/b/c01/model.numatb": [
+			"fighter/pikmin/model/b/c08/model.numatb",
+			"fighter/pikmin/model/b/c09/model.numatb"
+		],
+		"fighter/pikmin/model/b/c01/model.numdlb": [
+			"fighter/pikmin/model/b/c08/model.numdlb",
+			"fighter/pikmin/model/b/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/b/c01/model.numshb": [
+			"fighter/pikmin/model/b/c08/model.numshb",
+			"fighter/pikmin/model/b/c09/model.numshb"
+		],
+		"fighter/pikmin/model/b/c01/model.numshexb": [
+			"fighter/pikmin/model/b/c08/model.numshexb",
+			"fighter/pikmin/model/b/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/b/c01/model.nusktb": [
+			"fighter/pikmin/model/b/c08/model.nusktb",
+			"fighter/pikmin/model/b/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/b/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/b/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/b/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/b/c01/model.xmb": [
+			"fighter/pikmin/model/b/c08/model.xmb",
+			"fighter/pikmin/model/b/c09/model.xmb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminb_001_col.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_col.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminb_001_nor.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminb_001_prm.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/b/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/alp_pikmin_002_col.nutexb": [
+			"fighter/pikmin/model/body/c08/alp_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_002_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/alp_pikmin_002_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/alp_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/dark_model.numatb": [
+			"fighter/pikmin/model/body/c08/dark_model.numatb",
+			"fighter/pikmin/model/body/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/body/c01/def_pikmin_001_col.nutexb": [
+			"fighter/pikmin/model/body/c08/def_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/def_pikmin_001_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/def_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/def_pikmin_001_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/def_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/deyes_eye_pikmin_001_d_col.nutexb": [
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_001_d_col.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_001_d_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/deyes_eye_pikmin_d_col.nutexb": [
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_d_col.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_d_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/deyes_eye_pikmin_wd_col.nutexb": [
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_wd_col.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_wd_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_001_b_col.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_001_b_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_nor.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_001_b_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_prm.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_001_g_col.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_g_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_g_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_b_col.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_b_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_b_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_g_col.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_g_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_g_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_w_col.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_w_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_nor.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/eye_pikmin_w_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_prm.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/leyes_eye_pikmin_001_l_col.nutexb": [
+			"fighter/pikmin/model/body/c08/leyes_eye_pikmin_001_l_col.nutexb",
+			"fighter/pikmin/model/body/c09/leyes_eye_pikmin_001_l_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/leyes_eye_pikmin_l_col.nutexb": [
+			"fighter/pikmin/model/body/c08/leyes_eye_pikmin_l_col.nutexb",
+			"fighter/pikmin/model/body/c09/leyes_eye_pikmin_l_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/light_model.numatb": [
+			"fighter/pikmin/model/body/c08/light_model.numatb",
+			"fighter/pikmin/model/body/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/body/c01/metal_pikmin_001_col.nutexb": [
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/metal_pikmin_001_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/metal_pikmin_001_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/body/c08/metamon_model.numatb",
+			"fighter/pikmin/model/body/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/body/c01/model.nuanmb": [
+			"fighter/pikmin/model/body/c08/model.nuanmb",
+			"fighter/pikmin/model/body/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/body/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/body/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/body/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/body/c01/model.xmb": [
+			"fighter/pikmin/model/body/c08/model.xmb",
+			"fighter/pikmin/model/body/c09/model.xmb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_001_col.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_001_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_001_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_002_col.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_002_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_002_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_prm.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_003_col.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_col.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_003_nor.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_nor.nutexb"
+		],
+		"fighter/pikmin/model/body/c01/skin_pikmin_003_prm.nutexb": [
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_prm.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_prm.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/alp_dolfin_001_col.nutexb": [
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_col.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_col.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/alp_dolfin_001_nor.nutexb": [
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_nor.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/alp_dolfin_001_prm.nutexb": [
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/dark_model.numatb": [
+			"fighter/pikmin/model/dolfin/c08/dark_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/dolfin/c01/dolfinbomb_col.nutexb": [
+			"fighter/pikmin/model/dolfin/c08/dolfinbomb_col.nutexb",
+			"fighter/pikmin/model/dolfin/c09/dolfinbomb_col.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/dolfinbomb_prm.nutexb": [
+			"fighter/pikmin/model/dolfin/c08/dolfinbomb_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c09/dolfinbomb_prm.nutexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/light_model.numatb": [
+			"fighter/pikmin/model/dolfin/c08/light_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/dolfin/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/dolfin/c08/metamon_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.nuanmb": [
+			"fighter/pikmin/model/dolfin/c08/model.nuanmb",
+			"fighter/pikmin/model/dolfin/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.nuhlpb": [
+			"fighter/pikmin/model/dolfin/c08/model.nuhlpb",
+			"fighter/pikmin/model/dolfin/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.numatb": [
+			"fighter/pikmin/model/dolfin/c08/model.numatb",
+			"fighter/pikmin/model/dolfin/c09/model.numatb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.numdlb": [
+			"fighter/pikmin/model/dolfin/c08/model.numdlb",
+			"fighter/pikmin/model/dolfin/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.numshb": [
+			"fighter/pikmin/model/dolfin/c08/model.numshb",
+			"fighter/pikmin/model/dolfin/c09/model.numshb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.numshexb": [
+			"fighter/pikmin/model/dolfin/c08/model.numshexb",
+			"fighter/pikmin/model/dolfin/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.nusktb": [
+			"fighter/pikmin/model/dolfin/c08/model.nusktb",
+			"fighter/pikmin/model/dolfin/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/dolfin/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/dolfin/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/dolfin/c01/model.xmb": [
+			"fighter/pikmin/model/dolfin/c08/model.xmb",
+			"fighter/pikmin/model/dolfin/c09/model.xmb"
+		],
+		"fighter/pikmin/model/r/c01/dark_model.numatb": [
+			"fighter/pikmin/model/r/c08/dark_model.numatb",
+			"fighter/pikmin/model/r/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/r/c01/light_model.numatb": [
+			"fighter/pikmin/model/r/c08/light_model.numatb",
+			"fighter/pikmin/model/r/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/r/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/r/c08/metamon_model.numatb",
+			"fighter/pikmin/model/r/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/r/c01/model.nuanmb": [
+			"fighter/pikmin/model/r/c08/model.nuanmb",
+			"fighter/pikmin/model/r/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/r/c01/model.nuhlpb": [
+			"fighter/pikmin/model/r/c08/model.nuhlpb",
+			"fighter/pikmin/model/r/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/r/c01/model.numatb": [
+			"fighter/pikmin/model/r/c08/model.numatb",
+			"fighter/pikmin/model/r/c09/model.numatb"
+		],
+		"fighter/pikmin/model/r/c01/model.numdlb": [
+			"fighter/pikmin/model/r/c08/model.numdlb",
+			"fighter/pikmin/model/r/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/r/c01/model.numshb": [
+			"fighter/pikmin/model/r/c08/model.numshb",
+			"fighter/pikmin/model/r/c09/model.numshb"
+		],
+		"fighter/pikmin/model/r/c01/model.numshexb": [
+			"fighter/pikmin/model/r/c08/model.numshexb",
+			"fighter/pikmin/model/r/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/r/c01/model.nusktb": [
+			"fighter/pikmin/model/r/c08/model.nusktb",
+			"fighter/pikmin/model/r/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/r/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/r/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/r/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/r/c01/model.xmb": [
+			"fighter/pikmin/model/r/c08/model.xmb",
+			"fighter/pikmin/model/r/c09/model.xmb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminr_001_col.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_col.nutexb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminr_001_nor.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminr_001_prm.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/r/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/dark_model.numatb": [
+			"fighter/pikmin/model/v/c08/dark_model.numatb",
+			"fighter/pikmin/model/v/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/v/c01/light_model.numatb": [
+			"fighter/pikmin/model/v/c08/light_model.numatb",
+			"fighter/pikmin/model/v/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/v/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/v/c08/metamon_model.numatb",
+			"fighter/pikmin/model/v/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/v/c01/model.nuanmb": [
+			"fighter/pikmin/model/v/c08/model.nuanmb",
+			"fighter/pikmin/model/v/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/v/c01/model.nuhlpb": [
+			"fighter/pikmin/model/v/c08/model.nuhlpb",
+			"fighter/pikmin/model/v/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/v/c01/model.numatb": [
+			"fighter/pikmin/model/v/c08/model.numatb",
+			"fighter/pikmin/model/v/c09/model.numatb"
+		],
+		"fighter/pikmin/model/v/c01/model.numdlb": [
+			"fighter/pikmin/model/v/c08/model.numdlb",
+			"fighter/pikmin/model/v/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/v/c01/model.numshb": [
+			"fighter/pikmin/model/v/c08/model.numshb",
+			"fighter/pikmin/model/v/c09/model.numshb"
+		],
+		"fighter/pikmin/model/v/c01/model.numshexb": [
+			"fighter/pikmin/model/v/c08/model.numshexb",
+			"fighter/pikmin/model/v/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/v/c01/model.nusktb": [
+			"fighter/pikmin/model/v/c08/model.nusktb",
+			"fighter/pikmin/model/v/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/v/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/v/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/v/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/v/c01/model.xmb": [
+			"fighter/pikmin/model/v/c08/model.xmb",
+			"fighter/pikmin/model/v/c09/model.xmb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_001_col.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_col.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_001_nor.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_001_prm.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_002_col.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_col.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_002_nor.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/v/c01/skin_pikminv_002_prm.nutexb": [
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/dark_model.numatb": [
+			"fighter/pikmin/model/w/c08/dark_model.numatb",
+			"fighter/pikmin/model/w/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/w/c01/light_model.numatb": [
+			"fighter/pikmin/model/w/c08/light_model.numatb",
+			"fighter/pikmin/model/w/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/w/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/w/c08/metamon_model.numatb",
+			"fighter/pikmin/model/w/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/w/c01/model.nuanmb": [
+			"fighter/pikmin/model/w/c08/model.nuanmb",
+			"fighter/pikmin/model/w/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/w/c01/model.nuhlpb": [
+			"fighter/pikmin/model/w/c08/model.nuhlpb",
+			"fighter/pikmin/model/w/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/w/c01/model.numatb": [
+			"fighter/pikmin/model/w/c08/model.numatb",
+			"fighter/pikmin/model/w/c09/model.numatb"
+		],
+		"fighter/pikmin/model/w/c01/model.numdlb": [
+			"fighter/pikmin/model/w/c08/model.numdlb",
+			"fighter/pikmin/model/w/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/w/c01/model.numshb": [
+			"fighter/pikmin/model/w/c08/model.numshb",
+			"fighter/pikmin/model/w/c09/model.numshb"
+		],
+		"fighter/pikmin/model/w/c01/model.numshexb": [
+			"fighter/pikmin/model/w/c08/model.numshexb",
+			"fighter/pikmin/model/w/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/w/c01/model.nusktb": [
+			"fighter/pikmin/model/w/c08/model.nusktb",
+			"fighter/pikmin/model/w/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/w/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/w/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/w/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/w/c01/model.xmb": [
+			"fighter/pikmin/model/w/c08/model.xmb",
+			"fighter/pikmin/model/w/c09/model.xmb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_001_col.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_col.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_001_nor.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_001_prm.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_002_col.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_col.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_002_nor.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/w/c01/skin_pikminw_002_prm.nutexb": [
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/dark_model.numatb": [
+			"fighter/pikmin/model/win1/c08/dark_model.numatb",
+			"fighter/pikmin/model/win1/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/win1/c01/light_model.numatb": [
+			"fighter/pikmin/model/win1/c08/light_model.numatb",
+			"fighter/pikmin/model/win1/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/win1/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/win1/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win1/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/win1/c01/model.nuanmb": [
+			"fighter/pikmin/model/win1/c08/model.nuanmb",
+			"fighter/pikmin/model/win1/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/win1/c01/model.nuhlpb": [
+			"fighter/pikmin/model/win1/c08/model.nuhlpb",
+			"fighter/pikmin/model/win1/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/win1/c01/model.numatb": [
+			"fighter/pikmin/model/win1/c08/model.numatb",
+			"fighter/pikmin/model/win1/c09/model.numatb"
+		],
+		"fighter/pikmin/model/win1/c01/model.numdlb": [
+			"fighter/pikmin/model/win1/c08/model.numdlb",
+			"fighter/pikmin/model/win1/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/win1/c01/model.numshb": [
+			"fighter/pikmin/model/win1/c08/model.numshb",
+			"fighter/pikmin/model/win1/c09/model.numshb"
+		],
+		"fighter/pikmin/model/win1/c01/model.numshexb": [
+			"fighter/pikmin/model/win1/c08/model.numshexb",
+			"fighter/pikmin/model/win1/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/win1/c01/model.nusktb": [
+			"fighter/pikmin/model/win1/c08/model.nusktb",
+			"fighter/pikmin/model/win1/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/win1/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/win1/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win1/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/win1/c01/model.xmb": [
+			"fighter/pikmin/model/win1/c08/model.xmb",
+			"fighter/pikmin/model/win1/c09/model.xmb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminr_001_col.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminr_001_nor.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminr_001_prm.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_001_col.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_001_nor.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_001_prm.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/win1/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/dark_model.numatb": [
+			"fighter/pikmin/model/win2/c08/dark_model.numatb",
+			"fighter/pikmin/model/win2/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/win2/c01/light_model.numatb": [
+			"fighter/pikmin/model/win2/c08/light_model.numatb",
+			"fighter/pikmin/model/win2/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/win2/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/win2/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win2/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/win2/c01/model.nuanmb": [
+			"fighter/pikmin/model/win2/c08/model.nuanmb",
+			"fighter/pikmin/model/win2/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/win2/c01/model.nuhlpb": [
+			"fighter/pikmin/model/win2/c08/model.nuhlpb",
+			"fighter/pikmin/model/win2/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/win2/c01/model.numatb": [
+			"fighter/pikmin/model/win2/c08/model.numatb",
+			"fighter/pikmin/model/win2/c09/model.numatb"
+		],
+		"fighter/pikmin/model/win2/c01/model.numdlb": [
+			"fighter/pikmin/model/win2/c08/model.numdlb",
+			"fighter/pikmin/model/win2/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/win2/c01/model.numshb": [
+			"fighter/pikmin/model/win2/c08/model.numshb",
+			"fighter/pikmin/model/win2/c09/model.numshb"
+		],
+		"fighter/pikmin/model/win2/c01/model.numshexb": [
+			"fighter/pikmin/model/win2/c08/model.numshexb",
+			"fighter/pikmin/model/win2/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/win2/c01/model.nusktb": [
+			"fighter/pikmin/model/win2/c08/model.nusktb",
+			"fighter/pikmin/model/win2/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/win2/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/win2/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win2/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/win2/c01/model.xmb": [
+			"fighter/pikmin/model/win2/c08/model.xmb",
+			"fighter/pikmin/model/win2/c09/model.xmb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminb_001_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminb_001_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminb_001_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_001_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_001_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_001_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_002_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_002_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminv_002_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_001_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_001_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_001_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_002_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_002_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminw_002_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/win2/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/dark_model.numatb": [
+			"fighter/pikmin/model/win3/c08/dark_model.numatb",
+			"fighter/pikmin/model/win3/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/win3/c01/light_model.numatb": [
+			"fighter/pikmin/model/win3/c08/light_model.numatb",
+			"fighter/pikmin/model/win3/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/win3/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/win3/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win3/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/win3/c01/model.nuanmb": [
+			"fighter/pikmin/model/win3/c08/model.nuanmb",
+			"fighter/pikmin/model/win3/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/win3/c01/model.nuhlpb": [
+			"fighter/pikmin/model/win3/c08/model.nuhlpb",
+			"fighter/pikmin/model/win3/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/win3/c01/model.numatb": [
+			"fighter/pikmin/model/win3/c08/model.numatb",
+			"fighter/pikmin/model/win3/c09/model.numatb"
+		],
+		"fighter/pikmin/model/win3/c01/model.numdlb": [
+			"fighter/pikmin/model/win3/c08/model.numdlb",
+			"fighter/pikmin/model/win3/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/win3/c01/model.numshb": [
+			"fighter/pikmin/model/win3/c08/model.numshb",
+			"fighter/pikmin/model/win3/c09/model.numshb"
+		],
+		"fighter/pikmin/model/win3/c01/model.numshexb": [
+			"fighter/pikmin/model/win3/c08/model.numshexb",
+			"fighter/pikmin/model/win3/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/win3/c01/model.nusktb": [
+			"fighter/pikmin/model/win3/c08/model.nusktb",
+			"fighter/pikmin/model/win3/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/win3/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/win3/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win3/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/win3/c01/model.xmb": [
+			"fighter/pikmin/model/win3/c08/model.xmb",
+			"fighter/pikmin/model/win3/c09/model.xmb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminb_001_col.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminb_001_nor.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminb_001_prm.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminr_001_col.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminr_001_nor.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminr_001_prm.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_001_col.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_col.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_001_nor.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_001_prm.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/win3/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/dark_model.numatb": [
+			"fighter/pikmin/model/y/c08/dark_model.numatb",
+			"fighter/pikmin/model/y/c09/dark_model.numatb"
+		],
+		"fighter/pikmin/model/y/c01/light_model.numatb": [
+			"fighter/pikmin/model/y/c08/light_model.numatb",
+			"fighter/pikmin/model/y/c09/light_model.numatb"
+		],
+		"fighter/pikmin/model/y/c01/metamon_model.numatb": [
+			"fighter/pikmin/model/y/c08/metamon_model.numatb",
+			"fighter/pikmin/model/y/c09/metamon_model.numatb"
+		],
+		"fighter/pikmin/model/y/c01/model.nuanmb": [
+			"fighter/pikmin/model/y/c08/model.nuanmb",
+			"fighter/pikmin/model/y/c09/model.nuanmb"
+		],
+		"fighter/pikmin/model/y/c01/model.nuhlpb": [
+			"fighter/pikmin/model/y/c08/model.nuhlpb",
+			"fighter/pikmin/model/y/c09/model.nuhlpb"
+		],
+		"fighter/pikmin/model/y/c01/model.numatb": [
+			"fighter/pikmin/model/y/c08/model.numatb",
+			"fighter/pikmin/model/y/c09/model.numatb"
+		],
+		"fighter/pikmin/model/y/c01/model.numdlb": [
+			"fighter/pikmin/model/y/c08/model.numdlb",
+			"fighter/pikmin/model/y/c09/model.numdlb"
+		],
+		"fighter/pikmin/model/y/c01/model.numshb": [
+			"fighter/pikmin/model/y/c08/model.numshb",
+			"fighter/pikmin/model/y/c09/model.numshb"
+		],
+		"fighter/pikmin/model/y/c01/model.numshexb": [
+			"fighter/pikmin/model/y/c08/model.numshexb",
+			"fighter/pikmin/model/y/c09/model.numshexb"
+		],
+		"fighter/pikmin/model/y/c01/model.nusktb": [
+			"fighter/pikmin/model/y/c08/model.nusktb",
+			"fighter/pikmin/model/y/c09/model.nusktb"
+		],
+		"fighter/pikmin/model/y/c01/model.nusrcmdlb": [
+			"fighter/pikmin/model/y/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/y/c09/model.nusrcmdlb"
+		],
+		"fighter/pikmin/model/y/c01/model.xmb": [
+			"fighter/pikmin/model/y/c08/model.xmb",
+			"fighter/pikmin/model/y/c09/model.xmb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_001_col.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_col.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_001_nor.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_nor.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_001_prm.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_prm.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_002_col.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_col.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_002_nor.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_nor.nutexb"
+		],
+		"fighter/pikmin/model/y/c01/skin_pikminy_002_prm.nutexb": [
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_prm.nutexb"
+		],
+		"sound/bank/fighter/se_pikmin_c01.nus3bank": [
+			"sound/bank/fighter/se_pikmin_c08.nus3bank",
+			"sound/bank/fighter/se_pikmin_c09.nus3bank"
+		],
+		"sound/bank/fighter/se_pikmin_c01.tonelabel": [
+			"sound/bank/fighter/se_pikmin_c08.tonelabel",
+			"sound/bank/fighter/se_pikmin_c09.tonelabel"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_c01.nus3audio": [
+			"sound/bank/fighter_voice/vc_pikmin_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_c09.nus3audio"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_c01.nus3bank": [
+			"sound/bank/fighter_voice/vc_pikmin_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_c09.nus3bank"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_c01.tonelabel": [
+			"sound/bank/fighter_voice/vc_pikmin_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_c09.tonelabel"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_cheer_c01.nus3audio": [
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.nus3audio"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_cheer_c01.nus3bank": [
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.nus3bank"
+		],
+		"sound/bank/fighter_voice/vc_pikmin_cheer_c01.tonelabel": [
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.tonelabel"
+		]
+	},
+	"share-to-added": {
+		"camera/fighter/pikmin/c01/d04finalstartr.nuanmb": [
+			"camera/fighter/pikmin/c08/d04finalstartr.nuanmb",
+			"camera/fighter/pikmin/c09/d04finalstartr.nuanmb"
+		],
+		"camera/fighter/pikmin/c01/j02win1.nuanmb": [
+			"camera/fighter/pikmin/c08/j02win1.nuanmb",
+			"camera/fighter/pikmin/c09/j02win1.nuanmb"
+		],
+		"camera/fighter/pikmin/c01/j02win2.nuanmb": [
+			"camera/fighter/pikmin/c08/j02win2.nuanmb",
+			"camera/fighter/pikmin/c09/j02win2.nuanmb"
+		],
+		"camera/fighter/pikmin/c01/j02win3.nuanmb": [
+			"camera/fighter/pikmin/c08/j02win3.nuanmb",
+			"camera/fighter/pikmin/c09/j02win3.nuanmb"
+		],
+		"fighter/pikmin/motion/b/c01/flip.prc": [
+			"fighter/pikmin/motion/b/c08/flip.prc",
+			"fighter/pikmin/motion/b/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/b/c01/update.prc": [
+			"fighter/pikmin/motion/b/c08/update.prc",
+			"fighter/pikmin/motion/b/c09/update.prc"
+		],
+		"fighter/pikmin/motion/body/c01/a00itemhandgrip.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a00itemhandgrip.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandgrip.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a00itemhandhave.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a00itemhandhave.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandhave.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a00itemhandpickup.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a00itemhandpickup.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandpickup.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a00itemhandsmash.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a00itemhandsmash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandsmash.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a00waititem.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a00waititem.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00waititem.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a01turn.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a01turn.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01turn.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a02dash.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a02dash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02dash.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a02turndash.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a02turndash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turndash.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a02turnrun.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a02turnrun.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turnrun.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a02turnrunbrake.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a02turnrunbrake.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turnrunbrake.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a04damagefall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a04damagefall.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04damagefall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a04landingfallspecial.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a04landingfallspecial.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04landingfallspecial.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a05squatwaititem.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a05squatwaititem.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05squatwaititem.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a06stepairpose.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a06stepairpose.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepairpose.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a06stepback.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a06stepback.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepback.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a06stepfall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a06stepfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepfall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a06stepjump.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a06stepjump.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepjump.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/a06steppose.nuanmb": [
+			"fighter/pikmin/motion/body/c08/a06steppose.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06steppose.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b00guard.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b00guard.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guard.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b00guardoff.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b00guardoff.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guardoff.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b00guardon.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b00guardon.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guardon.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b00justshieldoff.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b00justshieldoff.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00justshieldoff.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b01guarddamage.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b01guarddamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/b01guarddamage.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b02escapeair.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b02escapeair.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapeair.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b02escapeb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b02escapeb.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapeb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b02escapef.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b02escapef.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapef.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b02escapen.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b02escapen.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapen.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/b02rebound.nuanmb": [
+			"fighter/pikmin/motion/body/c08/b02rebound.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02rebound.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c03attacks4charge.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/c03attacks4charge.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c05landingairb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c05landingairb.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c05landingairf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c05landingairf.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c05landingairhi.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c05landingairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairhi.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c05landingairlw.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c05landingairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairlw.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/c05landingairn.nuanmb": [
+			"fighter/pikmin/motion/body/c08/c05landingairn.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairn.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/d04final.nuanmb": [
+			"fighter/pikmin/motion/body/c08/d04final.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04final.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/d04finalend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/d04finalend.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/d04finalstartl.nuanmb": [
+			"fighter/pikmin/motion/body/c08/d04finalstartl.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalstartl.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/d04finalstartr.nuanmb": [
+			"fighter/pikmin/motion/body/c08/d04finalstartr.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalstartr.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/e02capturewaithi.nuanmb": [
+			"fighter/pikmin/motion/body/c08/e02capturewaithi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e02capturewaithi.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/e03capturejump.nuanmb": [
+			"fighter/pikmin/motion/body/c08/e03capturejump.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturejump.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/e03capturewaitlw.nuanmb": [
+			"fighter/pikmin/motion/body/c08/e03capturewaitlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturewaitlw.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downattacku.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downattacku.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downattacku.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downbacku.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downbacku.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downbacku.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downboundu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downboundu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downboundu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downdamageu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downdamageu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downdamageu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downdamageu3.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downdamageu3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downdamageu3.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downeatu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downeatu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downeatu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downforwardu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downforwardu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downforwardu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downspotu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downspotu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downspotu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downstandu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downstandu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downstandu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f03downwaitu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f03downwaitu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downwaitu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downattackd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downattackd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downattackd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downbackd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downbackd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downbackd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downboundd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downboundd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downboundd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downdamaged.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downdamaged.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downdamaged.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downdamaged3.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downdamaged3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downdamaged3.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downeatd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downeatd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downeatd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downforwardd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downforwardd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downforwardd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downstandd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downstandd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downstandd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f04downwaitd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f04downwaitd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downwaitd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passive.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passive.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passive.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passiveceil.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passiveceil.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passiveceil.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passivestandb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passivestandb.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivestandb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passivestandf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passivestandf.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivestandf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passivewall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passivewall.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivewall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f05passivewalljump.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f05passivewalljump.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivewalljump.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f06furafura.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f06furafura.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafura.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f06furafuraend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f06furafuraend.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafuraend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f06furafurastartd.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f06furafurastartd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafurastartd.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f06furafurastartu.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f06furafurastartu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafurastartu.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f07sleepend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f07sleepend.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleepend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f07sleeploop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f07sleeploop.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleeploop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f07sleepstart.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f07sleepstart.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleepstart.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f08swallowed.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f08swallowed.nuanmb",
+			"fighter/pikmin/motion/body/c09/f08swallowed.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/f09camerahit.nuanmb": [
+			"fighter/pikmin/motion/body/c08/f09camerahit.nuanmb",
+			"fighter/pikmin/motion/body/c09/f09camerahit.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/flip.prc": [
+			"fighter/pikmin/motion/body/c08/flip.prc",
+			"fighter/pikmin/motion/body/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/body/c01/g00ceildamage.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00ceildamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00ceildamage.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00missfoot.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00missfoot.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00missfoot.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00ottotto.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00ottotto.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00ottotto.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00ottottowait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00ottottowait.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00ottottowait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00pass.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00pass.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00pass.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00stopceil.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00stopceil.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00stopceil.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00stopwall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00stopwall.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00stopwall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g00walldamage.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g00walldamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00walldamage.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g01cliffcatch.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g01cliffcatch.nuanmb",
+			"fighter/pikmin/motion/body/c09/g01cliffcatch.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g01cliffwait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g01cliffwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/g01cliffwait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g02cliffattack.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g02cliffattack.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffattack.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g02cliffclimb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g02cliffclimb.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffclimb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g02cliffescape.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g02cliffescape.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffescape.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g02cliffjump1.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g02cliffjump1.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffjump1.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g02cliffjump2.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g02cliffjump2.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffjump2.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slip.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slip.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slip.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipattack.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipattack.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipattack.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipdown.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipdown.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipescapeb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipescapeb.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipescapeb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipescapef.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipescapef.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipescapef.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipstand.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipstand.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipstand.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/g03slipwait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/g03slipwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipwait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h00lighteat.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h00lighteat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lighteat.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h00lightget.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h00lightget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightget.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h00lightwalkeat.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h00lightwalkeat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightwalkeat.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h00lightwalkget.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h00lightwalkget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightwalkget.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowdash.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowdash.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowdrop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowdrop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowdrop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowhi.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowhi.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h01lightthrowlw.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h01lightthrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowlw.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h02lightthrowairb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h02lightthrowairb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h02lightthrowairf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h02lightthrowairf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h02lightthrowairhi.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h02lightthrowairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairhi.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h02lightthrowairlw.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h02lightthrowairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairlw.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavyget.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavyget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavyget.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavythrowb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavythrowb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavythrowf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavythrowf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavythrowhi.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavythrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowhi.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavythrowlw.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavythrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowlw.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h03heavywalk.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h03heavywalk.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavywalk.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h04swing1.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h04swing1.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing1.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h04swing3.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h04swing3.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing3.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h04swing4.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h04swing4.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing4.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h04swing4charge.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h04swing4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing4charge.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h04swingdash.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h04swingdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swingdash.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h05itemhammerair.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h05itemhammerair.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammerair.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h05itemhammermove.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h05itemhammermove.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammermove.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h05itemhammerwait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h05itemhammerwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammerwait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h06swing4bat.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h06swing4bat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h06swing4bat.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h07itemscrew.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h07itemscrew.nuanmb",
+			"fighter/pikmin/motion/body/c09/h07itemscrew.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h07itemscrewfall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h07itemscrewfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h07itemscrewfall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h08itemdragoonget.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h08itemdragoonget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h08itemdragoonget.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h08itemdragoonride.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h08itemdragoonride.nuanmb",
+			"fighter/pikmin/motion/body/c09/h08itemdragoonride.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h10itemlegsjumpsquat.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h10itemlegsjumpsquat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegsjumpsquat.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h10itemlegslanding.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h10itemlegslanding.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegslanding.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h10itemlegswalkb.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h10itemlegswalkb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegswalkb.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h10itemlegswalkf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h10itemlegswalkf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegswalkf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshoot.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshoot.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshoot.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshootair.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshootair.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootair.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshootairloop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshootairloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootairloop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshootloop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshootloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootloop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshootloopupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshootloopupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootloopupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h11itemshootupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h11itemshootupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeairend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeairend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeairfire.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeairfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairfire.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeairrapid.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeairrapid.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairrapid.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeairstart.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeairstart.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairstart.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopeendupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopeendupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeendupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopefall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopefall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopefire.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopefire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefire.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopefireupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopefireupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefireupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscoperapid.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscoperapid.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscoperapid.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscoperapidupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscoperapidupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscoperapidupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopestart.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopestart.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopestart.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopestartupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopestartupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopestartupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopewait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopewait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopewait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h12itemscopewaitupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h12itemscopewaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopewaitupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h13itemassist.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h13itemassist.nuanmb",
+			"fighter/pikmin/motion/body/c09/h13itemassist.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h14gekikarawait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h14gekikarawait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h14gekikarawait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h14gekikarawaitface.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h14gekikarawaitface.nuanmb",
+			"fighter/pikmin/motion/body/c09/h14gekikarawaitface.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h15itemgrasspull.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h15itemgrasspull.nuanmb",
+			"fighter/pikmin/motion/body/c09/h15itemgrasspull.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisairend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisairfire.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairfire.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisairloop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairloop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisfall.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisfall.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisfire.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisfire.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisloop.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisloop.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesisturn.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesisturn.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisturn.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesiswait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesiswait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesiswait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/h16itemgenesiswaitupper.nuanmb": [
+			"fighter/pikmin/motion/body/c08/h16itemgenesiswaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesiswaitupper.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swim.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swim.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swim.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimend.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimend.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimend.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimf.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimf.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimf.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimrise.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimrise.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimrise.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimturn.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimturn.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimturn.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimup.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimup.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimup.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i00swimupdamage.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i00swimupdamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimupdamage.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i01swimdrown.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i01swimdrown.nuanmb",
+			"fighter/pikmin/motion/body/c09/i01swimdrown.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/i01swimdrownout.nuanmb": [
+			"fighter/pikmin/motion/body/c08/i01swimdrownout.nuanmb",
+			"fighter/pikmin/motion/body/c09/i01swimdrownout.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/ik.prc": [
+			"fighter/pikmin/motion/body/c08/ik.prc",
+			"fighter/pikmin/motion/body/c09/ik.prc"
+		],
+		"fighter/pikmin/motion/body/c01/j01appealsl.nuanmb": [
+			"fighter/pikmin/motion/body/c08/j01appealsl.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appealsl.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/j01appealsr.nuanmb": [
+			"fighter/pikmin/motion/body/c08/j01appealsr.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appealsr.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchairl.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchairl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchairl.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchairr.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchairr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchairr.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchendl.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchendl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchendl.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchendr.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchendr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchendr.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchl.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchl.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00laddercatchr.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00laddercatchr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchr.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00ladderdown.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00ladderdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderdown.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00ladderup.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00ladderup.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderup.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/k00ladderwait.nuanmb": [
+			"fighter/pikmin/motion/body/c08/k00ladderwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderwait.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/l00share.nuanmb": [
+			"fighter/pikmin/motion/body/c08/l00share.nuanmb",
+			"fighter/pikmin/motion/body/c09/l00share.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/l02share_cliff.nuanmb": [
+			"fighter/pikmin/motion/body/c08/l02share_cliff.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_cliff.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/l02share_finish.nuanmb": [
+			"fighter/pikmin/motion/body/c08/l02share_finish.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_finish.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/l02share_fistdown.nuanmb": [
+			"fighter/pikmin/motion/body/c08/l02share_fistdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_fistdown.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/l02share_sleep.nuanmb": [
+			"fighter/pikmin/motion/body/c08/l02share_sleep.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_sleep.nuanmb"
+		],
+		"fighter/pikmin/motion/body/c01/motion_list.bin": [
+			"fighter/pikmin/motion/body/c08/motion_list.bin",
+			"fighter/pikmin/motion/body/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/body/c01/scharge.prc": [
+			"fighter/pikmin/motion/body/c08/scharge.prc",
+			"fighter/pikmin/motion/body/c09/scharge.prc"
+		],
+		"fighter/pikmin/motion/body/c01/swing.prc": [
+			"fighter/pikmin/motion/body/c08/swing.prc",
+			"fighter/pikmin/motion/body/c09/swing.prc"
+		],
+		"fighter/pikmin/motion/body/c01/swingblend.prc": [
+			"fighter/pikmin/motion/body/c08/swingblend.prc",
+			"fighter/pikmin/motion/body/c09/swingblend.prc"
+		],
+		"fighter/pikmin/motion/chain/c01/update.prc": [
+			"fighter/pikmin/motion/chain/c08/update.prc",
+			"fighter/pikmin/motion/chain/c09/update.prc"
+		],
+		"fighter/pikmin/motion/chainreverse/c01/update.prc": [
+			"fighter/pikmin/motion/chainreverse/c08/update.prc",
+			"fighter/pikmin/motion/chainreverse/c09/update.prc"
+		],
+		"fighter/pikmin/motion/dolfin/c01/d04final.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/d04final.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04final.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/d04finalend.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/d04finalend.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalend.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/d04finalexplosion.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/d04finalexplosion.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalexplosion.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/d04finalstart.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/d04finalstart.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalstart.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/j00entryl.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/j00entryl.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/j00entryl.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/j00entryr.nuanmb": [
+			"fighter/pikmin/motion/dolfin/c08/j00entryr.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/j00entryr.nuanmb"
+		],
+		"fighter/pikmin/motion/dolfin/c01/motion_list.bin": [
+			"fighter/pikmin/motion/dolfin/c08/motion_list.bin",
+			"fighter/pikmin/motion/dolfin/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/dolfin/c01/update.prc": [
+			"fighter/pikmin/motion/dolfin/c08/update.prc",
+			"fighter/pikmin/motion/dolfin/c09/update.prc"
+		],
+		"fighter/pikmin/motion/pikmin/c01/airdamage.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/airdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/airdamage.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/airdeath.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/airdeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/airdeath.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c03attacks4charge.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4charge.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c03attacks4sjump.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4sjump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4sjump.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c03attacks4slanding.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4slanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4slanding.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c03attacks4swait.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4swait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4swait.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attackhi4.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attackhi4charge.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4charge.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attackhi4fall.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4fall.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attackhi4landing.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4landing.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attacklw4.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attacklw4charge.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4charge.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c04attacklw4wait.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4wait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4wait.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c05attackairb.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c05attackairb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairb.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c05attackairf.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c05attackairf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairf.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c05attackairhi.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c05attackairhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairhi.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/c05attackairlw.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/c05attackairlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairlw.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d00spnlanding.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d00spnlanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spnlanding.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d00spntakenout.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d00spntakenout.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spntakenout.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d00spntakenoutstart.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d00spntakenoutstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spntakenoutstart.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d01spsgrabattack.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d01spsgrabattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsgrabattack.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d01spslanding.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d01spslanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spslanding.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d01spsremved.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d01spsremved.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsremved.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d01spsthrown.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d01spsthrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsthrown.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d01spsthrownstart.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d01spsthrownstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsthrownstart.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d02sphicliffwait.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d02sphicliffwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d02sphicliffwait.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d02sphiconnect.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d02sphiconnect.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d02sphiconnect.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d03splwcomp.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d03splwcomp.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d03splwcomp.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/d03splwrespond.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/d03splwrespond.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d03splwrespond.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/damage.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/damage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/damage.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/death.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/death.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/death.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/drowndeath.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/drowndeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/drowndeath.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchattack.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchattack.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchcut.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchcut.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchcut.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchdash.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchdash.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchdash.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchfailurewait.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchfailurewait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchfailurewait.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchreturn.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchreturn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchreturn.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchreturnend.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchreturnend.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchreturnend.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchstart.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchstart.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e00catchwait.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e00catchwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchwait.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e01throwb.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e01throwb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwb.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e01throwf.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e01throwf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwf.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e01throwhi.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e01throwhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwhi.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/e01throwlw.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/e01throwlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwlw.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/fall.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/fall.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/flip.prc": [
+			"fighter/pikmin/motion/pikmin/c08/flip.prc",
+			"fighter/pikmin/motion/pikmin/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/pikmin/c01/jump.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/jump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/jump.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/landing.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/landing.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/landingdamage.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/landingdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/landingdamage.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/motion_list.bin": [
+			"fighter/pikmin/motion/pikmin/c08/motion_list.bin",
+			"fighter/pikmin/motion/pikmin/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/pikmin/c01/notdrown.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/notdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/notdrown.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/run.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/run.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/run.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/sphihang.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/sphihang.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphihang.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/sphihangstart.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/sphihangstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphihangstart.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/sphiset.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/sphiset.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphiset.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/spin.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/spin.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/spin.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/swimdrown.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/swimdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/swimdrown.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/turn.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/turn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/turn.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/update.prc": [
+			"fighter/pikmin/motion/pikmin/c08/update.prc",
+			"fighter/pikmin/motion/pikmin/c09/update.prc"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait1.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait1.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait1.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait2.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait2.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait2.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait3.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait3.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait3.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait4.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait4.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait5.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait5.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait5.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/wait6.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/wait6.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait6.nuanmb"
+		],
+		"fighter/pikmin/motion/pikmin/c01/walk.nuanmb": [
+			"fighter/pikmin/motion/pikmin/c08/walk.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/walk.nuanmb"
+		],
+		"fighter/pikmin/motion/r/c01/flip.prc": [
+			"fighter/pikmin/motion/r/c08/flip.prc",
+			"fighter/pikmin/motion/r/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/r/c01/update.prc": [
+			"fighter/pikmin/motion/r/c08/update.prc",
+			"fighter/pikmin/motion/r/c09/update.prc"
+		],
+		"fighter/pikmin/motion/v/c01/flip.prc": [
+			"fighter/pikmin/motion/v/c08/flip.prc",
+			"fighter/pikmin/motion/v/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/v/c01/update.prc": [
+			"fighter/pikmin/motion/v/c08/update.prc",
+			"fighter/pikmin/motion/v/c09/update.prc"
+		],
+		"fighter/pikmin/motion/w/c01/flip.prc": [
+			"fighter/pikmin/motion/w/c08/flip.prc",
+			"fighter/pikmin/motion/w/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/w/c01/update.prc": [
+			"fighter/pikmin/motion/w/c08/update.prc",
+			"fighter/pikmin/motion/w/c09/update.prc"
+		],
+		"fighter/pikmin/motion/win1/c01/j02win1.nuanmb": [
+			"fighter/pikmin/motion/win1/c08/j02win1.nuanmb",
+			"fighter/pikmin/motion/win1/c09/j02win1.nuanmb"
+		],
+		"fighter/pikmin/motion/win1/c01/motion_list.bin": [
+			"fighter/pikmin/motion/win1/c08/motion_list.bin",
+			"fighter/pikmin/motion/win1/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/win1/c01/update.prc": [
+			"fighter/pikmin/motion/win1/c08/update.prc",
+			"fighter/pikmin/motion/win1/c09/update.prc"
+		],
+		"fighter/pikmin/motion/win2/c01/j02win2.nuanmb": [
+			"fighter/pikmin/motion/win2/c08/j02win2.nuanmb",
+			"fighter/pikmin/motion/win2/c09/j02win2.nuanmb"
+		],
+		"fighter/pikmin/motion/win2/c01/j02win2wait.nuanmb": [
+			"fighter/pikmin/motion/win2/c08/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/win2/c09/j02win2wait.nuanmb"
+		],
+		"fighter/pikmin/motion/win2/c01/motion_list.bin": [
+			"fighter/pikmin/motion/win2/c08/motion_list.bin",
+			"fighter/pikmin/motion/win2/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/win2/c01/update.prc": [
+			"fighter/pikmin/motion/win2/c08/update.prc",
+			"fighter/pikmin/motion/win2/c09/update.prc"
+		],
+		"fighter/pikmin/motion/win3/c01/j02win3.nuanmb": [
+			"fighter/pikmin/motion/win3/c08/j02win3.nuanmb",
+			"fighter/pikmin/motion/win3/c09/j02win3.nuanmb"
+		],
+		"fighter/pikmin/motion/win3/c01/motion_list.bin": [
+			"fighter/pikmin/motion/win3/c08/motion_list.bin",
+			"fighter/pikmin/motion/win3/c09/motion_list.bin"
+		],
+		"fighter/pikmin/motion/win3/c01/update.prc": [
+			"fighter/pikmin/motion/win3/c08/update.prc",
+			"fighter/pikmin/motion/win3/c09/update.prc"
+		],
+		"fighter/pikmin/motion/y/c01/flip.prc": [
+			"fighter/pikmin/motion/y/c08/flip.prc",
+			"fighter/pikmin/motion/y/c09/flip.prc"
+		],
+		"fighter/pikmin/motion/y/c01/update.prc": [
+			"fighter/pikmin/motion/y/c08/update.prc",
+			"fighter/pikmin/motion/y/c09/update.prc"
+		]
+	},
+	"new-dir-files": {
+		"fighter/pikmin/c08": [
+			"fighter/pikmin/model/b/c08/dark_model.numatb",
+			"fighter/pikmin/model/b/c08/light_model.numatb",
+			"fighter/pikmin/model/b/c08/metamon_model.numatb",
+			"fighter/pikmin/model/b/c08/model.nuanmb",
+			"fighter/pikmin/model/b/c08/model.nuhlpb",
+			"fighter/pikmin/model/b/c08/model.numatb",
+			"fighter/pikmin/model/b/c08/model.numdlb",
+			"fighter/pikmin/model/b/c08/model.numshb",
+			"fighter/pikmin/model/b/c08/model.numshexb",
+			"fighter/pikmin/model/b/c08/model.nusktb",
+			"fighter/pikmin/model/b/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/b/c08/model.xmb",
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/b/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/b/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/body/c08/alp_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c08/alp_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c08/alp_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c08/alp_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c08/alp_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c08/dark_model.numatb",
+			"fighter/pikmin/model/body/c08/def_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c08/def_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c08/def_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_001_d_col.nutexb",
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_d_col.nutexb",
+			"fighter/pikmin/model/body/c08/deyes_eye_pikmin_wd_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_nor.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_b_prm.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_001_g_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_b_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_g_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_col.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_nor.nutexb",
+			"fighter/pikmin/model/body/c08/eye_pikmin_w_prm.nutexb",
+			"fighter/pikmin/model/body/c08/leyes_eye_pikmin_001_l_col.nutexb",
+			"fighter/pikmin/model/body/c08/leyes_eye_pikmin_l_col.nutexb",
+			"fighter/pikmin/model/body/c08/light_model.numatb",
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c08/metal_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c08/metamon_model.numatb",
+			"fighter/pikmin/model/body/c08/model.nuanmb",
+			"fighter/pikmin/model/body/c08/model.nuhlpb",
+			"fighter/pikmin/model/body/c08/model.numatb",
+			"fighter/pikmin/model/body/c08/model.numdlb",
+			"fighter/pikmin/model/body/c08/model.numshb",
+			"fighter/pikmin/model/body/c08/model.numshexb",
+			"fighter/pikmin/model/body/c08/model.nusktb",
+			"fighter/pikmin/model/body/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/body/c08/model.xmb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_002_prm.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_col.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_nor.nutexb",
+			"fighter/pikmin/model/body/c08/skin_pikmin_003_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_col.nutexb",
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_nor.nutexb",
+			"fighter/pikmin/model/dolfin/c08/alp_dolfin_001_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c08/dark_model.numatb",
+			"fighter/pikmin/model/dolfin/c08/dolfinbomb_col.nutexb",
+			"fighter/pikmin/model/dolfin/c08/dolfinbomb_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c08/light_model.numatb",
+			"fighter/pikmin/model/dolfin/c08/metamon_model.numatb",
+			"fighter/pikmin/model/dolfin/c08/model.nuanmb",
+			"fighter/pikmin/model/dolfin/c08/model.nuhlpb",
+			"fighter/pikmin/model/dolfin/c08/model.numatb",
+			"fighter/pikmin/model/dolfin/c08/model.numdlb",
+			"fighter/pikmin/model/dolfin/c08/model.numshb",
+			"fighter/pikmin/model/dolfin/c08/model.numshexb",
+			"fighter/pikmin/model/dolfin/c08/model.nusktb",
+			"fighter/pikmin/model/dolfin/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/dolfin/c08/model.xmb",
+			"fighter/pikmin/model/r/c08/dark_model.numatb",
+			"fighter/pikmin/model/r/c08/light_model.numatb",
+			"fighter/pikmin/model/r/c08/metamon_model.numatb",
+			"fighter/pikmin/model/r/c08/model.nuanmb",
+			"fighter/pikmin/model/r/c08/model.nuhlpb",
+			"fighter/pikmin/model/r/c08/model.numatb",
+			"fighter/pikmin/model/r/c08/model.numdlb",
+			"fighter/pikmin/model/r/c08/model.numshb",
+			"fighter/pikmin/model/r/c08/model.numshexb",
+			"fighter/pikmin/model/r/c08/model.nusktb",
+			"fighter/pikmin/model/r/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/r/c08/model.xmb",
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/r/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/r/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/v/c08/dark_model.numatb",
+			"fighter/pikmin/model/v/c08/light_model.numatb",
+			"fighter/pikmin/model/v/c08/metamon_model.numatb",
+			"fighter/pikmin/model/v/c08/model.nuanmb",
+			"fighter/pikmin/model/v/c08/model.nuhlpb",
+			"fighter/pikmin/model/v/c08/model.numatb",
+			"fighter/pikmin/model/v/c08/model.numdlb",
+			"fighter/pikmin/model/v/c08/model.numshb",
+			"fighter/pikmin/model/v/c08/model.numshexb",
+			"fighter/pikmin/model/v/c08/model.nusktb",
+			"fighter/pikmin/model/v/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/v/c08/model.xmb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/v/c08/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/w/c08/dark_model.numatb",
+			"fighter/pikmin/model/w/c08/light_model.numatb",
+			"fighter/pikmin/model/w/c08/metamon_model.numatb",
+			"fighter/pikmin/model/w/c08/model.nuanmb",
+			"fighter/pikmin/model/w/c08/model.nuhlpb",
+			"fighter/pikmin/model/w/c08/model.numatb",
+			"fighter/pikmin/model/w/c08/model.numdlb",
+			"fighter/pikmin/model/w/c08/model.numshb",
+			"fighter/pikmin/model/w/c08/model.numshexb",
+			"fighter/pikmin/model/w/c08/model.nusktb",
+			"fighter/pikmin/model/w/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/w/c08/model.xmb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/w/c08/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/y/c08/dark_model.numatb",
+			"fighter/pikmin/model/y/c08/light_model.numatb",
+			"fighter/pikmin/model/y/c08/metamon_model.numatb",
+			"fighter/pikmin/model/y/c08/model.nuanmb",
+			"fighter/pikmin/model/y/c08/model.nuhlpb",
+			"fighter/pikmin/model/y/c08/model.numatb",
+			"fighter/pikmin/model/y/c08/model.numdlb",
+			"fighter/pikmin/model/y/c08/model.numshb",
+			"fighter/pikmin/model/y/c08/model.numshexb",
+			"fighter/pikmin/model/y/c08/model.nusktb",
+			"fighter/pikmin/model/y/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/y/c08/model.xmb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/y/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/motion/b/c08/flip.prc",
+			"fighter/pikmin/motion/b/c08/update.prc",
+			"fighter/pikmin/motion/body/c08/a00defaulteyelid.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00itemhandgrip.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00itemhandhave.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00itemhandpickup.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00itemhandsmash.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00wait1.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00wait2.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00wait3.nuanmb",
+			"fighter/pikmin/motion/body/c08/a00waititem.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01turn.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01walkbrakel.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01walkbraker.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01walkfast.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01walkmiddle.nuanmb",
+			"fighter/pikmin/motion/body/c08/a01walkslow.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02dash.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02run.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02runbrakel.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02runbraker.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02turndash.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02turnrun.nuanmb",
+			"fighter/pikmin/motion/body/c08/a02turnrunbrake.nuanmb",
+			"fighter/pikmin/motion/body/c08/a03jumpaerialb.nuanmb",
+			"fighter/pikmin/motion/body/c08/a03jumpaerialf.nuanmb",
+			"fighter/pikmin/motion/body/c08/a03jumpb.nuanmb",
+			"fighter/pikmin/motion/body/c08/a03jumpf.nuanmb",
+			"fighter/pikmin/motion/body/c08/a03jumpsquat.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04damagefall.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fall.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallaerial.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallaerialb.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallaerialf.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallb.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallf.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallspecial.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallspecialb.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04fallspecialf.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04landingfallspecial.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04runfalll.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04runfallr.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04walkfalll.nuanmb",
+			"fighter/pikmin/motion/body/c08/a04walkfallr.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05landingheavy.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05landinglight.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05squat.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05squatrv.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05squatwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/a05squatwaititem.nuanmb",
+			"fighter/pikmin/motion/body/c08/a06stepairpose.nuanmb",
+			"fighter/pikmin/motion/body/c08/a06stepback.nuanmb",
+			"fighter/pikmin/motion/body/c08/a06stepfall.nuanmb",
+			"fighter/pikmin/motion/body/c08/a06stepjump.nuanmb",
+			"fighter/pikmin/motion/body/c08/a06steppose.nuanmb",
+			"fighter/pikmin/motion/body/c08/b00guard.nuanmb",
+			"fighter/pikmin/motion/body/c08/b00guardoff.nuanmb",
+			"fighter/pikmin/motion/body/c08/b00guardon.nuanmb",
+			"fighter/pikmin/motion/body/c08/b00justshieldoff.nuanmb",
+			"fighter/pikmin/motion/body/c08/b01guarddamage.nuanmb",
+			"fighter/pikmin/motion/body/c08/b02escapeair.nuanmb",
+			"fighter/pikmin/motion/body/c08/b02escapeb.nuanmb",
+			"fighter/pikmin/motion/body/c08/b02escapef.nuanmb",
+			"fighter/pikmin/motion/body/c08/b02escapen.nuanmb",
+			"fighter/pikmin/motion/body/c08/b02rebound.nuanmb",
+			"fighter/pikmin/motion/body/c08/c00attack11.nuanmb",
+			"fighter/pikmin/motion/body/c08/c00attack12.nuanmb",
+			"fighter/pikmin/motion/body/c08/c00attackdash.nuanmb",
+			"fighter/pikmin/motion/body/c08/c01attacks3s.nuanmb",
+			"fighter/pikmin/motion/body/c08/c02attackhi3.nuanmb",
+			"fighter/pikmin/motion/body/c08/c02attacklw3.nuanmb",
+			"fighter/pikmin/motion/body/c08/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/body/c08/c03attacks4s.nuanmb",
+			"fighter/pikmin/motion/body/c08/c04attackhi4.nuanmb",
+			"fighter/pikmin/motion/body/c08/c04attackhi4charge.nuanmb",
+			"fighter/pikmin/motion/body/c08/c04attacklw4.nuanmb",
+			"fighter/pikmin/motion/body/c08/c04attacklw4charge.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05attackairb.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05attackairf.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05attackairhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05attackairlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05attackairn.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05landingairb.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05landingairf.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05landingairhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05landingairlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/c05landingairn.nuanmb",
+			"fighter/pikmin/motion/body/c08/d00specialairnfailure.nuanmb",
+			"fighter/pikmin/motion/body/c08/d00specialnfailure.nuanmb",
+			"fighter/pikmin/motion/body/c08/d00specialnstart.nuanmb",
+			"fighter/pikmin/motion/body/c08/d01specialairs.nuanmb",
+			"fighter/pikmin/motion/body/c08/d01specials.nuanmb",
+			"fighter/pikmin/motion/body/c08/d02specialairhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/d02specialairhiend.nuanmb",
+			"fighter/pikmin/motion/body/c08/d02specialairhilanding1.nuanmb",
+			"fighter/pikmin/motion/body/c08/d02specialairhiwait1.nuanmb",
+			"fighter/pikmin/motion/body/c08/d02specialhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/d03specialairlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/d03speciallw.nuanmb",
+			"fighter/pikmin/motion/body/c08/d04final.nuanmb",
+			"fighter/pikmin/motion/body/c08/d04finalend.nuanmb",
+			"fighter/pikmin/motion/body/c08/d04finalstartl.nuanmb",
+			"fighter/pikmin/motion/body/c08/d04finalstartr.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catch.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catchattack.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catchcut.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catchdash.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catchturn.nuanmb",
+			"fighter/pikmin/motion/body/c08/e00catchwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwb.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwf.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownb.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownbigb.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownbigf.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownbighi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownbiglw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwndxb.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwndxf.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwndxhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwndxlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownf.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwngirlb.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwngirlf.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwngirlhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01throwngirllw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e01thrownlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e02capturedamagehi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e02capturepulledhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e02capturewaithi.nuanmb",
+			"fighter/pikmin/motion/body/c08/e03capturecut.nuanmb",
+			"fighter/pikmin/motion/body/c08/e03capturedamagelw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e03capturejump.nuanmb",
+			"fighter/pikmin/motion/body/c08/e03capturepulledlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/e03capturewaitlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagehi1.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagehi2.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagehi3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagelw1.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagelw2.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagelw3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagen1.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagen2.nuanmb",
+			"fighter/pikmin/motion/body/c08/f00damagen3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageair1.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageair2.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageair3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflyhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflylw.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflymeteor.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflyn.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflyroll.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflyrollend.nuanmb",
+			"fighter/pikmin/motion/body/c08/f01damageflytop.nuanmb",
+			"fighter/pikmin/motion/body/c08/f02damageelec.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downattacku.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downbacku.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downboundu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downdamageu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downdamageu3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downeatu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downforwardu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downspotu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downstandu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f03downwaitu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downattackd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downbackd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downboundd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downdamaged.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downdamaged3.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downeatd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downforwardd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downstandd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f04downwaitd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passive.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passiveceil.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passivestandb.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passivestandf.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passivewall.nuanmb",
+			"fighter/pikmin/motion/body/c08/f05passivewalljump.nuanmb",
+			"fighter/pikmin/motion/body/c08/f06furafura.nuanmb",
+			"fighter/pikmin/motion/body/c08/f06furafuraend.nuanmb",
+			"fighter/pikmin/motion/body/c08/f06furafurastartd.nuanmb",
+			"fighter/pikmin/motion/body/c08/f06furafurastartu.nuanmb",
+			"fighter/pikmin/motion/body/c08/f07sleepend.nuanmb",
+			"fighter/pikmin/motion/body/c08/f07sleeploop.nuanmb",
+			"fighter/pikmin/motion/body/c08/f07sleepstart.nuanmb",
+			"fighter/pikmin/motion/body/c08/f08swallowed.nuanmb",
+			"fighter/pikmin/motion/body/c08/f09camerahit.nuanmb",
+			"fighter/pikmin/motion/body/c08/flip.prc",
+			"fighter/pikmin/motion/body/c08/g00ceildamage.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00missfoot.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00ottotto.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00ottottowait.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00pass.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00stopceil.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00stopwall.nuanmb",
+			"fighter/pikmin/motion/body/c08/g00walldamage.nuanmb",
+			"fighter/pikmin/motion/body/c08/g01cliffcatch.nuanmb",
+			"fighter/pikmin/motion/body/c08/g01cliffwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/g02cliffattack.nuanmb",
+			"fighter/pikmin/motion/body/c08/g02cliffclimb.nuanmb",
+			"fighter/pikmin/motion/body/c08/g02cliffescape.nuanmb",
+			"fighter/pikmin/motion/body/c08/g02cliffjump1.nuanmb",
+			"fighter/pikmin/motion/body/c08/g02cliffjump2.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slip.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipattack.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipdown.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipescapeb.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipescapef.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipstand.nuanmb",
+			"fighter/pikmin/motion/body/c08/g03slipwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/h00lighteat.nuanmb",
+			"fighter/pikmin/motion/body/c08/h00lightget.nuanmb",
+			"fighter/pikmin/motion/body/c08/h00lightwalkeat.nuanmb",
+			"fighter/pikmin/motion/body/c08/h00lightwalkget.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowb.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowdash.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowdrop.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowf.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/h01lightthrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/h02lightthrowairb.nuanmb",
+			"fighter/pikmin/motion/body/c08/h02lightthrowairf.nuanmb",
+			"fighter/pikmin/motion/body/c08/h02lightthrowairhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/h02lightthrowairlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavyget.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavythrowb.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavythrowf.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavythrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavythrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c08/h03heavywalk.nuanmb",
+			"fighter/pikmin/motion/body/c08/h04swing1.nuanmb",
+			"fighter/pikmin/motion/body/c08/h04swing3.nuanmb",
+			"fighter/pikmin/motion/body/c08/h04swing4.nuanmb",
+			"fighter/pikmin/motion/body/c08/h04swing4charge.nuanmb",
+			"fighter/pikmin/motion/body/c08/h04swingdash.nuanmb",
+			"fighter/pikmin/motion/body/c08/h05itemhammerair.nuanmb",
+			"fighter/pikmin/motion/body/c08/h05itemhammermove.nuanmb",
+			"fighter/pikmin/motion/body/c08/h05itemhammerwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/h06swing4bat.nuanmb",
+			"fighter/pikmin/motion/body/c08/h07itemscrew.nuanmb",
+			"fighter/pikmin/motion/body/c08/h07itemscrewfall.nuanmb",
+			"fighter/pikmin/motion/body/c08/h08itemdragoonget.nuanmb",
+			"fighter/pikmin/motion/body/c08/h08itemdragoonride.nuanmb",
+			"fighter/pikmin/motion/body/c08/h10itemlegsjumpsquat.nuanmb",
+			"fighter/pikmin/motion/body/c08/h10itemlegslanding.nuanmb",
+			"fighter/pikmin/motion/body/c08/h10itemlegswalkb.nuanmb",
+			"fighter/pikmin/motion/body/c08/h10itemlegswalkf.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshoot.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshootair.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshootairloop.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshootloop.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshootloopupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h11itemshootupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeairend.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeairfire.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeairrapid.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeairstart.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeend.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopeendupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopefall.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopefire.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopefireupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscoperapid.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscoperapidupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopestart.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopestartupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopewait.nuanmb",
+			"fighter/pikmin/motion/body/c08/h12itemscopewaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/h13itemassist.nuanmb",
+			"fighter/pikmin/motion/body/c08/h14gekikarawait.nuanmb",
+			"fighter/pikmin/motion/body/c08/h14gekikarawaitface.nuanmb",
+			"fighter/pikmin/motion/body/c08/h15itemgrasspull.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairend.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairfire.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisairloop.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisend.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisfall.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisfire.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisloop.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesisturn.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesiswait.nuanmb",
+			"fighter/pikmin/motion/body/c08/h16itemgenesiswaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swim.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimend.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimf.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimrise.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimturn.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimup.nuanmb",
+			"fighter/pikmin/motion/body/c08/i00swimupdamage.nuanmb",
+			"fighter/pikmin/motion/body/c08/i01swimdrown.nuanmb",
+			"fighter/pikmin/motion/body/c08/i01swimdrownout.nuanmb",
+			"fighter/pikmin/motion/body/c08/ik.prc",
+			"fighter/pikmin/motion/body/c08/j00entryl.nuanmb",
+			"fighter/pikmin/motion/body/c08/j00entryr.nuanmb",
+			"fighter/pikmin/motion/body/c08/j01appealhir.nuanmb",
+			"fighter/pikmin/motion/body/c08/j01appeallwl.nuanmb",
+			"fighter/pikmin/motion/body/c08/j01appeallwr.nuanmb",
+			"fighter/pikmin/motion/body/c08/j01appealsl.nuanmb",
+			"fighter/pikmin/motion/body/c08/j01appealsr.nuanmb",
+			"fighter/pikmin/motion/body/c08/j02lose.nuanmb",
+			"fighter/pikmin/motion/body/c08/j02win1.nuanmb",
+			"fighter/pikmin/motion/body/c08/j02win2.nuanmb",
+			"fighter/pikmin/motion/body/c08/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/body/c08/j02win3.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchairl.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchairr.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchendl.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchendr.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchl.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00laddercatchr.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00ladderdown.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00ladderup.nuanmb",
+			"fighter/pikmin/motion/body/c08/k00ladderwait.nuanmb",
+			"fighter/pikmin/motion/body/c08/l00share.nuanmb",
+			"fighter/pikmin/motion/body/c08/l02share_cliff.nuanmb",
+			"fighter/pikmin/motion/body/c08/l02share_finish.nuanmb",
+			"fighter/pikmin/motion/body/c08/l02share_fistdown.nuanmb",
+			"fighter/pikmin/motion/body/c08/l02share_sleep.nuanmb",
+			"fighter/pikmin/motion/body/c08/motion_list.bin",
+			"fighter/pikmin/motion/body/c08/scharge.prc",
+			"fighter/pikmin/motion/body/c08/swing.prc",
+			"fighter/pikmin/motion/body/c08/swingblend.prc",
+			"fighter/pikmin/motion/body/c08/update.prc",
+			"fighter/pikmin/motion/chain/c08/update.prc",
+			"fighter/pikmin/motion/chainreverse/c08/update.prc",
+			"fighter/pikmin/motion/dolfin/c08/d04final.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/d04finalend.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/d04finalexplosion.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/d04finalstart.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/j00entryl.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/j00entryr.nuanmb",
+			"fighter/pikmin/motion/dolfin/c08/motion_list.bin",
+			"fighter/pikmin/motion/dolfin/c08/update.prc",
+			"fighter/pikmin/motion/pikmin/c08/airdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/airdeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4sjump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4slanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c03attacks4swait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attackhi4landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c04attacklw4wait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c05attackairb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c05attackairf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c05attackairhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/c05attackairlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d00spnlanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d00spntakenout.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d00spntakenoutstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d01spsgrabattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d01spslanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d01spsremved.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d01spsthrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d01spsthrownstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d02sphicliffwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d02sphiconnect.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d03splwcomp.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/d03splwrespond.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/damage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/death.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/drowndeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchcut.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchdash.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchfailurewait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchreturn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchreturnend.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e00catchwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e01throwb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e01throwf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e01throwhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/e01throwlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/flip.prc",
+			"fighter/pikmin/motion/pikmin/c08/jump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/landingdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/motion_list.bin",
+			"fighter/pikmin/motion/pikmin/c08/notdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/run.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/sphihang.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/sphihangstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/sphiset.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/spin.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/swimdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/turn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/update.prc",
+			"fighter/pikmin/motion/pikmin/c08/wait1.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/wait2.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/wait3.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/wait4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/wait5.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/wait6.nuanmb",
+			"fighter/pikmin/motion/pikmin/c08/walk.nuanmb",
+			"fighter/pikmin/motion/r/c08/flip.prc",
+			"fighter/pikmin/motion/r/c08/update.prc",
+			"fighter/pikmin/motion/v/c08/flip.prc",
+			"fighter/pikmin/motion/v/c08/update.prc",
+			"fighter/pikmin/motion/w/c08/flip.prc",
+			"fighter/pikmin/motion/w/c08/update.prc",
+			"fighter/pikmin/motion/win1/c08/j02win1.nuanmb",
+			"fighter/pikmin/motion/win1/c08/motion_list.bin",
+			"fighter/pikmin/motion/win1/c08/update.prc",
+			"fighter/pikmin/motion/win2/c08/j02win2.nuanmb",
+			"fighter/pikmin/motion/win2/c08/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/win2/c08/motion_list.bin",
+			"fighter/pikmin/motion/win2/c08/update.prc",
+			"fighter/pikmin/motion/win3/c08/j02win3.nuanmb",
+			"fighter/pikmin/motion/win3/c08/motion_list.bin",
+			"fighter/pikmin/motion/win3/c08/update.prc",
+			"fighter/pikmin/motion/y/c08/flip.prc",
+			"fighter/pikmin/motion/y/c08/update.prc",
+			"sound/bank/fighter/se_pikmin_c08.nus3audio",
+			"sound/bank/fighter/se_pikmin_c08.nus3bank",
+			"sound/bank/fighter/se_pikmin_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c08.tonelabel"
+		],
+		"fighter/pikmin/c09": [
+			"fighter/pikmin/model/b/c09/dark_model.numatb",
+			"fighter/pikmin/model/b/c09/light_model.numatb",
+			"fighter/pikmin/model/b/c09/metamon_model.numatb",
+			"fighter/pikmin/model/b/c09/model.nuanmb",
+			"fighter/pikmin/model/b/c09/model.nuhlpb",
+			"fighter/pikmin/model/b/c09/model.numatb",
+			"fighter/pikmin/model/b/c09/model.numdlb",
+			"fighter/pikmin/model/b/c09/model.numshb",
+			"fighter/pikmin/model/b/c09/model.numshexb",
+			"fighter/pikmin/model/b/c09/model.nusktb",
+			"fighter/pikmin/model/b/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/b/c09/model.xmb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/b/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c09/alp_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c09/dark_model.numatb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/def_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_001_d_col.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_d_col.nutexb",
+			"fighter/pikmin/model/body/c09/deyes_eye_pikmin_wd_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_nor.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_b_prm.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_001_g_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_b_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_g_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_col.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_nor.nutexb",
+			"fighter/pikmin/model/body/c09/eye_pikmin_w_prm.nutexb",
+			"fighter/pikmin/model/body/c09/leyes_eye_pikmin_001_l_col.nutexb",
+			"fighter/pikmin/model/body/c09/leyes_eye_pikmin_l_col.nutexb",
+			"fighter/pikmin/model/body/c09/light_model.numatb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/metal_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/metamon_model.numatb",
+			"fighter/pikmin/model/body/c09/model.nuanmb",
+			"fighter/pikmin/model/body/c09/model.nuhlpb",
+			"fighter/pikmin/model/body/c09/model.numatb",
+			"fighter/pikmin/model/body/c09/model.numdlb",
+			"fighter/pikmin/model/body/c09/model.numshb",
+			"fighter/pikmin/model/body/c09/model.numshexb",
+			"fighter/pikmin/model/body/c09/model.nusktb",
+			"fighter/pikmin/model/body/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/body/c09/model.xmb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_002_prm.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_col.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_nor.nutexb",
+			"fighter/pikmin/model/body/c09/skin_pikmin_003_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_col.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_nor.nutexb",
+			"fighter/pikmin/model/dolfin/c09/alp_dolfin_001_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c09/dark_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/dolfinbomb_col.nutexb",
+			"fighter/pikmin/model/dolfin/c09/dolfinbomb_prm.nutexb",
+			"fighter/pikmin/model/dolfin/c09/light_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/metamon_model.numatb",
+			"fighter/pikmin/model/dolfin/c09/model.nuanmb",
+			"fighter/pikmin/model/dolfin/c09/model.nuhlpb",
+			"fighter/pikmin/model/dolfin/c09/model.numatb",
+			"fighter/pikmin/model/dolfin/c09/model.numdlb",
+			"fighter/pikmin/model/dolfin/c09/model.numshb",
+			"fighter/pikmin/model/dolfin/c09/model.numshexb",
+			"fighter/pikmin/model/dolfin/c09/model.nusktb",
+			"fighter/pikmin/model/dolfin/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/dolfin/c09/model.xmb",
+			"fighter/pikmin/model/r/c09/dark_model.numatb",
+			"fighter/pikmin/model/r/c09/light_model.numatb",
+			"fighter/pikmin/model/r/c09/metamon_model.numatb",
+			"fighter/pikmin/model/r/c09/model.nuanmb",
+			"fighter/pikmin/model/r/c09/model.nuhlpb",
+			"fighter/pikmin/model/r/c09/model.numatb",
+			"fighter/pikmin/model/r/c09/model.numdlb",
+			"fighter/pikmin/model/r/c09/model.numshb",
+			"fighter/pikmin/model/r/c09/model.numshexb",
+			"fighter/pikmin/model/r/c09/model.nusktb",
+			"fighter/pikmin/model/r/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/r/c09/model.xmb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/r/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/v/c09/dark_model.numatb",
+			"fighter/pikmin/model/v/c09/light_model.numatb",
+			"fighter/pikmin/model/v/c09/metamon_model.numatb",
+			"fighter/pikmin/model/v/c09/model.nuanmb",
+			"fighter/pikmin/model/v/c09/model.nuhlpb",
+			"fighter/pikmin/model/v/c09/model.numatb",
+			"fighter/pikmin/model/v/c09/model.numdlb",
+			"fighter/pikmin/model/v/c09/model.numshb",
+			"fighter/pikmin/model/v/c09/model.numshexb",
+			"fighter/pikmin/model/v/c09/model.nusktb",
+			"fighter/pikmin/model/v/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/v/c09/model.xmb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/v/c09/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/w/c09/dark_model.numatb",
+			"fighter/pikmin/model/w/c09/light_model.numatb",
+			"fighter/pikmin/model/w/c09/metamon_model.numatb",
+			"fighter/pikmin/model/w/c09/model.nuanmb",
+			"fighter/pikmin/model/w/c09/model.nuhlpb",
+			"fighter/pikmin/model/w/c09/model.numatb",
+			"fighter/pikmin/model/w/c09/model.numdlb",
+			"fighter/pikmin/model/w/c09/model.numshb",
+			"fighter/pikmin/model/w/c09/model.numshexb",
+			"fighter/pikmin/model/w/c09/model.nusktb",
+			"fighter/pikmin/model/w/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/w/c09/model.xmb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/w/c09/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/y/c09/dark_model.numatb",
+			"fighter/pikmin/model/y/c09/light_model.numatb",
+			"fighter/pikmin/model/y/c09/metamon_model.numatb",
+			"fighter/pikmin/model/y/c09/model.nuanmb",
+			"fighter/pikmin/model/y/c09/model.nuhlpb",
+			"fighter/pikmin/model/y/c09/model.numatb",
+			"fighter/pikmin/model/y/c09/model.numdlb",
+			"fighter/pikmin/model/y/c09/model.numshb",
+			"fighter/pikmin/model/y/c09/model.numshexb",
+			"fighter/pikmin/model/y/c09/model.nusktb",
+			"fighter/pikmin/model/y/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/y/c09/model.xmb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/y/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/motion/b/c09/flip.prc",
+			"fighter/pikmin/motion/b/c09/update.prc",
+			"fighter/pikmin/motion/body/c09/a00defaulteyelid.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandgrip.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandhave.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandpickup.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00itemhandsmash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00wait1.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00wait2.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00wait3.nuanmb",
+			"fighter/pikmin/motion/body/c09/a00waititem.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01turn.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01walkbrakel.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01walkbraker.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01walkfast.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01walkmiddle.nuanmb",
+			"fighter/pikmin/motion/body/c09/a01walkslow.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02dash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02run.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02runbrakel.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02runbraker.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turndash.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turnrun.nuanmb",
+			"fighter/pikmin/motion/body/c09/a02turnrunbrake.nuanmb",
+			"fighter/pikmin/motion/body/c09/a03jumpaerialb.nuanmb",
+			"fighter/pikmin/motion/body/c09/a03jumpaerialf.nuanmb",
+			"fighter/pikmin/motion/body/c09/a03jumpb.nuanmb",
+			"fighter/pikmin/motion/body/c09/a03jumpf.nuanmb",
+			"fighter/pikmin/motion/body/c09/a03jumpsquat.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04damagefall.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fall.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallaerial.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallaerialb.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallaerialf.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallb.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallf.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallspecial.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallspecialb.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04fallspecialf.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04landingfallspecial.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04runfalll.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04runfallr.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04walkfalll.nuanmb",
+			"fighter/pikmin/motion/body/c09/a04walkfallr.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05landingheavy.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05landinglight.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05squat.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05squatrv.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05squatwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/a05squatwaititem.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepairpose.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepback.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06stepjump.nuanmb",
+			"fighter/pikmin/motion/body/c09/a06steppose.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guard.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guardoff.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00guardon.nuanmb",
+			"fighter/pikmin/motion/body/c09/b00justshieldoff.nuanmb",
+			"fighter/pikmin/motion/body/c09/b01guarddamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapeair.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapeb.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapef.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02escapen.nuanmb",
+			"fighter/pikmin/motion/body/c09/b02rebound.nuanmb",
+			"fighter/pikmin/motion/body/c09/c00attack11.nuanmb",
+			"fighter/pikmin/motion/body/c09/c00attack12.nuanmb",
+			"fighter/pikmin/motion/body/c09/c00attackdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/c01attacks3s.nuanmb",
+			"fighter/pikmin/motion/body/c09/c02attackhi3.nuanmb",
+			"fighter/pikmin/motion/body/c09/c02attacklw3.nuanmb",
+			"fighter/pikmin/motion/body/c09/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/c03attacks4s.nuanmb",
+			"fighter/pikmin/motion/body/c09/c04attackhi4.nuanmb",
+			"fighter/pikmin/motion/body/c09/c04attackhi4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/c04attacklw4.nuanmb",
+			"fighter/pikmin/motion/body/c09/c04attacklw4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05attackairb.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05attackairf.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05attackairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05attackairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05attackairn.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairb.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairf.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/c05landingairn.nuanmb",
+			"fighter/pikmin/motion/body/c09/d00specialairnfailure.nuanmb",
+			"fighter/pikmin/motion/body/c09/d00specialnfailure.nuanmb",
+			"fighter/pikmin/motion/body/c09/d00specialnstart.nuanmb",
+			"fighter/pikmin/motion/body/c09/d01specialairs.nuanmb",
+			"fighter/pikmin/motion/body/c09/d01specials.nuanmb",
+			"fighter/pikmin/motion/body/c09/d02specialairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/d02specialairhiend.nuanmb",
+			"fighter/pikmin/motion/body/c09/d02specialairhilanding1.nuanmb",
+			"fighter/pikmin/motion/body/c09/d02specialairhiwait1.nuanmb",
+			"fighter/pikmin/motion/body/c09/d02specialhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/d03specialairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/d03speciallw.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04final.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalend.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalstartl.nuanmb",
+			"fighter/pikmin/motion/body/c09/d04finalstartr.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catch.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catchattack.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catchcut.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catchdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catchturn.nuanmb",
+			"fighter/pikmin/motion/body/c09/e00catchwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwb.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwf.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownb.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownbigb.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownbigf.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownbighi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownbiglw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwndxb.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwndxf.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwndxhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwndxlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownf.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwngirlb.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwngirlf.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwngirlhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01throwngirllw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e01thrownlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e02capturedamagehi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e02capturepulledhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e02capturewaithi.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturecut.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturedamagelw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturejump.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturepulledlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/e03capturewaitlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagehi1.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagehi2.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagehi3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagelw1.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagelw2.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagelw3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagen1.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagen2.nuanmb",
+			"fighter/pikmin/motion/body/c09/f00damagen3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageair1.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageair2.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageair3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflyhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflylw.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflymeteor.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflyn.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflyroll.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflyrollend.nuanmb",
+			"fighter/pikmin/motion/body/c09/f01damageflytop.nuanmb",
+			"fighter/pikmin/motion/body/c09/f02damageelec.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downattacku.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downbacku.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downboundu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downdamageu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downdamageu3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downeatu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downforwardu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downspotu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downstandu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f03downwaitu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downattackd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downbackd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downboundd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downdamaged.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downdamaged3.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downeatd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downforwardd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downstandd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f04downwaitd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passive.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passiveceil.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivestandb.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivestandf.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivewall.nuanmb",
+			"fighter/pikmin/motion/body/c09/f05passivewalljump.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafura.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafuraend.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafurastartd.nuanmb",
+			"fighter/pikmin/motion/body/c09/f06furafurastartu.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleepend.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleeploop.nuanmb",
+			"fighter/pikmin/motion/body/c09/f07sleepstart.nuanmb",
+			"fighter/pikmin/motion/body/c09/f08swallowed.nuanmb",
+			"fighter/pikmin/motion/body/c09/f09camerahit.nuanmb",
+			"fighter/pikmin/motion/body/c09/flip.prc",
+			"fighter/pikmin/motion/body/c09/g00ceildamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00missfoot.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00ottotto.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00ottottowait.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00pass.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00stopceil.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00stopwall.nuanmb",
+			"fighter/pikmin/motion/body/c09/g00walldamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/g01cliffcatch.nuanmb",
+			"fighter/pikmin/motion/body/c09/g01cliffwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffattack.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffclimb.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffescape.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffjump1.nuanmb",
+			"fighter/pikmin/motion/body/c09/g02cliffjump2.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slip.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipattack.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipescapeb.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipescapef.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipstand.nuanmb",
+			"fighter/pikmin/motion/body/c09/g03slipwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lighteat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightwalkeat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h00lightwalkget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowdrop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h01lightthrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h02lightthrowairlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavyget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowhi.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavythrowlw.nuanmb",
+			"fighter/pikmin/motion/body/c09/h03heavywalk.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing1.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing3.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing4.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swing4charge.nuanmb",
+			"fighter/pikmin/motion/body/c09/h04swingdash.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammerair.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammermove.nuanmb",
+			"fighter/pikmin/motion/body/c09/h05itemhammerwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h06swing4bat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h07itemscrew.nuanmb",
+			"fighter/pikmin/motion/body/c09/h07itemscrewfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h08itemdragoonget.nuanmb",
+			"fighter/pikmin/motion/body/c09/h08itemdragoonride.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegsjumpsquat.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegslanding.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegswalkb.nuanmb",
+			"fighter/pikmin/motion/body/c09/h10itemlegswalkf.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshoot.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootair.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootairloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootloopupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h11itemshootupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairrapid.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeairstart.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopeendupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopefireupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscoperapid.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscoperapidupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopestart.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopestartupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopewait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h12itemscopewaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/h13itemassist.nuanmb",
+			"fighter/pikmin/motion/body/c09/h14gekikarawait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h14gekikarawaitface.nuanmb",
+			"fighter/pikmin/motion/body/c09/h15itemgrasspull.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisairloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisend.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisfall.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisfire.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisloop.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesisturn.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesiswait.nuanmb",
+			"fighter/pikmin/motion/body/c09/h16itemgenesiswaitupper.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swim.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimend.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimf.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimrise.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimturn.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimup.nuanmb",
+			"fighter/pikmin/motion/body/c09/i00swimupdamage.nuanmb",
+			"fighter/pikmin/motion/body/c09/i01swimdrown.nuanmb",
+			"fighter/pikmin/motion/body/c09/i01swimdrownout.nuanmb",
+			"fighter/pikmin/motion/body/c09/ik.prc",
+			"fighter/pikmin/motion/body/c09/j00entryl.nuanmb",
+			"fighter/pikmin/motion/body/c09/j00entryr.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appealhir.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appeallwl.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appeallwr.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appealsl.nuanmb",
+			"fighter/pikmin/motion/body/c09/j01appealsr.nuanmb",
+			"fighter/pikmin/motion/body/c09/j02lose.nuanmb",
+			"fighter/pikmin/motion/body/c09/j02win1.nuanmb",
+			"fighter/pikmin/motion/body/c09/j02win2.nuanmb",
+			"fighter/pikmin/motion/body/c09/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/body/c09/j02win3.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchairl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchairr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchendl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchendr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchl.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00laddercatchr.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderup.nuanmb",
+			"fighter/pikmin/motion/body/c09/k00ladderwait.nuanmb",
+			"fighter/pikmin/motion/body/c09/l00share.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_cliff.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_finish.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_fistdown.nuanmb",
+			"fighter/pikmin/motion/body/c09/l02share_sleep.nuanmb",
+			"fighter/pikmin/motion/body/c09/motion_list.bin",
+			"fighter/pikmin/motion/body/c09/scharge.prc",
+			"fighter/pikmin/motion/body/c09/swing.prc",
+			"fighter/pikmin/motion/body/c09/swingblend.prc",
+			"fighter/pikmin/motion/body/c09/update.prc",
+			"fighter/pikmin/motion/chain/c09/update.prc",
+			"fighter/pikmin/motion/chainreverse/c09/update.prc",
+			"fighter/pikmin/motion/dolfin/c09/d04final.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalend.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalexplosion.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/d04finalstart.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/j00entryl.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/j00entryr.nuanmb",
+			"fighter/pikmin/motion/dolfin/c09/motion_list.bin",
+			"fighter/pikmin/motion/dolfin/c09/update.prc",
+			"fighter/pikmin/motion/pikmin/c09/airdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/airdeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4sjump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4slanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c03attacks4swait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attackhi4landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4charge.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c04attacklw4wait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/c05attackairlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spnlanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spntakenout.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d00spntakenoutstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsgrabattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spslanding.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsremved.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsthrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d01spsthrownstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d02sphicliffwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d02sphiconnect.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d03splwcomp.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/d03splwrespond.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/damage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/death.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/drowndeath.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchattack.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchcut.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchdash.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchfailurewait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchreturn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchreturnend.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e00catchwait.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwb.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwf.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwhi.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/e01throwlw.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/fall.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/flip.prc",
+			"fighter/pikmin/motion/pikmin/c09/jump.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/landing.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/landingdamage.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/motion_list.bin",
+			"fighter/pikmin/motion/pikmin/c09/notdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/run.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphihang.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphihangstart.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/sphiset.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/spin.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/swimdrown.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/turn.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/update.prc",
+			"fighter/pikmin/motion/pikmin/c09/wait1.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait2.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait3.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait4.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait5.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/wait6.nuanmb",
+			"fighter/pikmin/motion/pikmin/c09/walk.nuanmb",
+			"fighter/pikmin/motion/r/c09/flip.prc",
+			"fighter/pikmin/motion/r/c09/update.prc",
+			"fighter/pikmin/motion/v/c09/flip.prc",
+			"fighter/pikmin/motion/v/c09/update.prc",
+			"fighter/pikmin/motion/w/c09/flip.prc",
+			"fighter/pikmin/motion/w/c09/update.prc",
+			"fighter/pikmin/motion/win1/c09/j02win1.nuanmb",
+			"fighter/pikmin/motion/win1/c09/motion_list.bin",
+			"fighter/pikmin/motion/win1/c09/update.prc",
+			"fighter/pikmin/motion/win2/c09/j02win2.nuanmb",
+			"fighter/pikmin/motion/win2/c09/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/win2/c09/motion_list.bin",
+			"fighter/pikmin/motion/win2/c09/update.prc",
+			"fighter/pikmin/motion/win3/c09/j02win3.nuanmb",
+			"fighter/pikmin/motion/win3/c09/motion_list.bin",
+			"fighter/pikmin/motion/win3/c09/update.prc",
+			"fighter/pikmin/motion/y/c09/flip.prc",
+			"fighter/pikmin/motion/y/c09/update.prc",
+			"sound/bank/fighter/se_pikmin_c09.nus3audio",
+			"sound/bank/fighter/se_pikmin_c09.nus3bank",
+			"sound/bank/fighter/se_pikmin_c09.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_c09.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_c09.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_c09.tonelabel",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.nus3audio",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.nus3bank",
+			"sound/bank/fighter_voice/vc_pikmin_cheer_c09.tonelabel"
+		],
+		"fighter/pikmin/camera/c08": [
+			"camera/fighter/pikmin/c08/d04finalstartr.nuanmb",
+			"camera/fighter/pikmin/c08/j02win1.nuanmb",
+			"camera/fighter/pikmin/c08/j02win2.nuanmb",
+			"camera/fighter/pikmin/c08/j02win3.nuanmb"
+		],
+		"fighter/pikmin/camera/c09": [
+			"camera/fighter/pikmin/c09/d04finalstartr.nuanmb",
+			"camera/fighter/pikmin/c09/j02win1.nuanmb",
+			"camera/fighter/pikmin/c09/j02win2.nuanmb",
+			"camera/fighter/pikmin/c09/j02win3.nuanmb"
+		],
+		"fighter/pikmin/kirbycopy/c08": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/dark_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/light_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metal_copypikmin_001_prm.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/metamon_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nuanmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nuhlpb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numshb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.numshexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nusktb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.nusrcmdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/model.xmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c08/skin_copypikmin_001_prm.nutexb",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c08/flip.prc",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c08/motion_list.bin",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c08/swing.prc",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c08/update.prc",
+			"fighter/kirby/motion/copy_pikmin_head/c08/update.prc"
+		],
+		"fighter/pikmin/kirbycopy/c09": [
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/dark_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/light_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metal_copypikmin_001_prm.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/metamon_model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nuanmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nuhlpb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numatb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numshb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.numshexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nusktb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.nusrcmdlb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/model.xmb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_col.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_nor.nutexb",
+			"fighter/kirby/model/copy_pikmin_fitkirby/c09/skin_copypikmin_001_prm.nutexb",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c09/flip.prc",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c09/motion_list.bin",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c09/swing.prc",
+			"fighter/kirby/motion/copy_pikmin_fitkirby/c09/update.prc",
+			"fighter/kirby/motion/copy_pikmin_head/c09/update.prc"
+		],
+		"fighter/pikmin/movie/c08": [],
+		"fighter/pikmin/movie/c09": [],
+		"fighter/pikmin/result/c08": [
+			"fighter/pikmin/model/win1/c08/dark_model.numatb",
+			"fighter/pikmin/model/win1/c08/light_model.numatb",
+			"fighter/pikmin/model/win1/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win1/c08/model.nuanmb",
+			"fighter/pikmin/model/win1/c08/model.nuhlpb",
+			"fighter/pikmin/model/win1/c08/model.numatb",
+			"fighter/pikmin/model/win1/c08/model.numdlb",
+			"fighter/pikmin/model/win1/c08/model.numshb",
+			"fighter/pikmin/model/win1/c08/model.numshexb",
+			"fighter/pikmin/model/win1/c08/model.nusktb",
+			"fighter/pikmin/model/win1/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win1/c08/model.xmb",
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win1/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/dark_model.numatb",
+			"fighter/pikmin/model/win2/c08/light_model.numatb",
+			"fighter/pikmin/model/win2/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win2/c08/model.nuanmb",
+			"fighter/pikmin/model/win2/c08/model.nuhlpb",
+			"fighter/pikmin/model/win2/c08/model.numatb",
+			"fighter/pikmin/model/win2/c08/model.numdlb",
+			"fighter/pikmin/model/win2/c08/model.numshb",
+			"fighter/pikmin/model/win2/c08/model.numshexb",
+			"fighter/pikmin/model/win2/c08/model.nusktb",
+			"fighter/pikmin/model/win2/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win2/c08/model.xmb",
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win3/c08/dark_model.numatb",
+			"fighter/pikmin/model/win3/c08/light_model.numatb",
+			"fighter/pikmin/model/win3/c08/metamon_model.numatb",
+			"fighter/pikmin/model/win3/c08/model.nuanmb",
+			"fighter/pikmin/model/win3/c08/model.nuhlpb",
+			"fighter/pikmin/model/win3/c08/model.numatb",
+			"fighter/pikmin/model/win3/c08/model.numdlb",
+			"fighter/pikmin/model/win3/c08/model.numshb",
+			"fighter/pikmin/model/win3/c08/model.numshexb",
+			"fighter/pikmin/model/win3/c08/model.nusktb",
+			"fighter/pikmin/model/win3/c08/model.nusrcmdlb",
+			"fighter/pikmin/model/win3/c08/model.xmb",
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win3/c08/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/motion/win1/c08/j02win1.nuanmb",
+			"fighter/pikmin/motion/win1/c08/motion_list.bin",
+			"fighter/pikmin/motion/win1/c08/update.prc",
+			"fighter/pikmin/motion/win2/c08/j02win2.nuanmb",
+			"fighter/pikmin/motion/win2/c08/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/win2/c08/motion_list.bin",
+			"fighter/pikmin/motion/win2/c08/update.prc",
+			"fighter/pikmin/motion/win3/c08/j02win3.nuanmb",
+			"fighter/pikmin/motion/win3/c08/motion_list.bin",
+			"fighter/pikmin/motion/win3/c08/update.prc"
+		],
+		"fighter/pikmin/result/c09": [
+			"fighter/pikmin/model/win1/c09/dark_model.numatb",
+			"fighter/pikmin/model/win1/c09/light_model.numatb",
+			"fighter/pikmin/model/win1/c09/metamon_model.numatb",
+			"fighter/pikmin/model/win1/c09/model.nuanmb",
+			"fighter/pikmin/model/win1/c09/model.nuhlpb",
+			"fighter/pikmin/model/win1/c09/model.numatb",
+			"fighter/pikmin/model/win1/c09/model.numdlb",
+			"fighter/pikmin/model/win1/c09/model.numshb",
+			"fighter/pikmin/model/win1/c09/model.numshexb",
+			"fighter/pikmin/model/win1/c09/model.nusktb",
+			"fighter/pikmin/model/win1/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/win1/c09/model.xmb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win1/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/dark_model.numatb",
+			"fighter/pikmin/model/win2/c09/light_model.numatb",
+			"fighter/pikmin/model/win2/c09/metamon_model.numatb",
+			"fighter/pikmin/model/win2/c09/model.nuanmb",
+			"fighter/pikmin/model/win2/c09/model.nuhlpb",
+			"fighter/pikmin/model/win2/c09/model.numatb",
+			"fighter/pikmin/model/win2/c09/model.numdlb",
+			"fighter/pikmin/model/win2/c09/model.numshb",
+			"fighter/pikmin/model/win2/c09/model.numshexb",
+			"fighter/pikmin/model/win2/c09/model.nusktb",
+			"fighter/pikmin/model/win2/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/win2/c09/model.xmb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminv_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_001_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminw_002_prm.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win2/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/dark_model.numatb",
+			"fighter/pikmin/model/win3/c09/light_model.numatb",
+			"fighter/pikmin/model/win3/c09/metamon_model.numatb",
+			"fighter/pikmin/model/win3/c09/model.nuanmb",
+			"fighter/pikmin/model/win3/c09/model.nuhlpb",
+			"fighter/pikmin/model/win3/c09/model.numatb",
+			"fighter/pikmin/model/win3/c09/model.numdlb",
+			"fighter/pikmin/model/win3/c09/model.numshb",
+			"fighter/pikmin/model/win3/c09/model.numshexb",
+			"fighter/pikmin/model/win3/c09/model.nusktb",
+			"fighter/pikmin/model/win3/c09/model.nusrcmdlb",
+			"fighter/pikmin/model/win3/c09/model.xmb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminb_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminr_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_001_prm.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_col.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_nor.nutexb",
+			"fighter/pikmin/model/win3/c09/skin_pikminy_002_prm.nutexb",
+			"fighter/pikmin/motion/win1/c09/j02win1.nuanmb",
+			"fighter/pikmin/motion/win1/c09/motion_list.bin",
+			"fighter/pikmin/motion/win1/c09/update.prc",
+			"fighter/pikmin/motion/win2/c09/j02win2.nuanmb",
+			"fighter/pikmin/motion/win2/c09/j02win2wait.nuanmb",
+			"fighter/pikmin/motion/win2/c09/motion_list.bin",
+			"fighter/pikmin/motion/win2/c09/update.prc",
+			"fighter/pikmin/motion/win3/c09/j02win3.nuanmb",
+			"fighter/pikmin/motion/win3/c09/motion_list.bin",
+			"fighter/pikmin/motion/win3/c09/update.prc"
+		]
+	}
+}

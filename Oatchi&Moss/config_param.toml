@@ -1,0 +1,34 @@
+kind = "pikmin"
+slots = [8,9,10,11,12,13,14,15]
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value =  104
+
+[[param_float]]
+param = "air_speed_x_stable"
+subparam = ""
+value = 0.83
+
+[[param_float]]
+param = "jump_y"
+subparam = ""
+value =  40.0
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value =  2.2
+
+[[param_float]]
+param = "shield_radius"
+subparam = ""
+value =  10
+
+[[param_float]]
+param = "air_speed_x_stable"
+subparam = ""
+value = 0.65
+
+

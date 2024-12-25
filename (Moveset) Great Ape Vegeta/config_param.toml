@@ -1,0 +1,57 @@
+kind = "donkey"
+slots = [80, 81, 82, 83, 84, 85, 86, 87]
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value =  135.0
+
+[[param_float]]
+param = "walk_accel_mul"
+subparam = ""
+value =  0.084
+
+[[param_float]]
+param = "walk_accel_add"
+subparam = ""
+value =  0.0315
+
+[[param_float]]
+param = "walk_speed_max"
+subparam = ""
+value =  0.767
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value =  1.87
+
+[[param_float]]
+param = "run_accel_mul"
+subparam = ""
+value =  0.10593
+
+[[param_float]]
+param = "run_accel_add"
+subparam = ""
+value =  0.033
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value =  1.34
+
+[[param_float]]
+param = "air_accel_x_mul"
+subparam = ""
+value =  0.03
+
+[[param_float]]
+param = "air_accel_x_add"
+subparam = ""
+value =  0.01
+
+[[param_float]]
+param = "air_accel_x_stable"
+subparam = ""
+value =  0.83
