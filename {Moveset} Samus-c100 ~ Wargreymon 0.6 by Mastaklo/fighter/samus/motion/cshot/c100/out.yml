@@ -1,0 +1,43 @@
+---
+motion_path: "0x0000000000"
+list:
+  charge:
+    game_script: game_charge
+    flags:
+      turn: false
+      loop: true
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: false
+      unk_100: false
+      unk_200: false
+      unk_400: false
+    blend_frames: 0
+    animations: []
+    scripts:
+      - sound_charge
+      - effect_charge
+    extra: ~
+  shoot:
+    game_script: game_shoot_wargreymon
+    flags:
+      turn: false
+      loop: true
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: false
+      unk_100: false
+      unk_200: false
+      unk_400: false
+    blend_frames: 0
+    animations: []
+    scripts:
+      - sound_shoot
+      - effect_shoot
+    extra: ~

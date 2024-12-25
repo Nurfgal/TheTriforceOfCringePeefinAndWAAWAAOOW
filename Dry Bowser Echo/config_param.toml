@@ -1,0 +1,7 @@
+kind = "koopa"
+slots = [8,9,10,11,12,13,14,15]
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value =  107

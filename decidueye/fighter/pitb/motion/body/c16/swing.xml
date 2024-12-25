@@ -1,0 +1,1767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list size="29" hash="swingbones">
+    <struct index="0">
+      <hash40 hash="name">s_hairc1</hash40>
+      <hash40 hash="start_bonename">s_hairc1</hash40>
+      <hash40 hash="end_bonename">s_hairc1</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">2</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">5</float>
+          <float hash="minangley">-2</float>
+          <float hash="maxangley">2</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">0.5</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="1">
+      <hash40 hash="name">s_hairf1</hash40>
+      <hash40 hash="start_bonename">s_hairf1</hash40>
+      <hash40 hash="end_bonename">s_hairf1</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">2</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">10</float>
+          <float hash="minangley">-2</float>
+          <float hash="maxangley">2</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">0.5</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="2">
+      <hash40 hash="name">s_shirttailbl1</hash40>
+      <hash40 hash="start_bonename">s_shirttailbl1</hash40>
+      <hash40 hash="end_bonename">s_shirttailbl3</hash40>
+      <list size="3" hash="params">
+        <struct index="0">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-20</float>
+          <float hash="maxangley">20</float>
+          <float hash="collisionsizetip">0.2</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">50</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">12</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.5</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl1</hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">50</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-10</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-40</float>
+          <float hash="maxangley">40</float>
+          <float hash="collisionsizetip">0.2</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">3</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="2" hash="collisions">
+            <hash40 index="0">planelegl1</hash40>
+            <hash40 index="1">spherekneel</hash40>
+          </list>
+        </struct>
+        <struct index="2">
+          <float hash="airresistance">100</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-10</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.3</float>
+          <float hash="collisionsizeroot">0.3</float>
+          <float hash="frictionrate">0.8</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.8</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="2" hash="collisions">
+            <hash40 index="0">planelegl1</hash40>
+            <hash40 index="1">spherekneel</hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="3">
+      <hash40 hash="name">s_shirttailbr1</hash40>
+      <hash40 hash="start_bonename">s_shirttailbr1</hash40>
+      <hash40 hash="end_bonename">s_shirttailbr2</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-20</float>
+          <float hash="maxangley">20</float>
+          <float hash="collisionsizetip">0.2</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">2</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.5</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">50</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-10</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.3</float>
+          <float hash="collisionsizeroot">0.3</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">8</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="4">
+      <hash40 hash="name">s_shirttailfl1</hash40>
+      <hash40 hash="start_bonename">s_shirttailfl1</hash40>
+      <hash40 hash="end_bonename">s_shirttailfl2</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-30</float>
+          <float hash="maxangley">30</float>
+          <float hash="collisionsizetip">0.15</float>
+          <float hash="collisionsizeroot">0.15</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">2</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.5</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl3</hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">30</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.2</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">0.5</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">8</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl3</hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="5">
+      <hash40 hash="name">s_shirttaill1</hash40>
+      <hash40 hash="start_bonename">s_shirttaill1</hash40>
+      <hash40 hash="end_bonename">s_shirttaill3</hash40>
+      <list size="3" hash="params">
+        <struct index="0">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-5</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-30</float>
+          <float hash="maxangley">30</float>
+          <float hash="collisionsizetip">0.4</float>
+          <float hash="collisionsizeroot">0.4</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">50</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">12</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.5</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl2</hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">50</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-10</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-40</float>
+          <float hash="maxangley">40</float>
+          <float hash="collisionsizetip">0.3</float>
+          <float hash="collisionsizeroot">0.3</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">3</float>
+          <float hash="localgravity">1</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl2</hash40>
+          </list>
+        </struct>
+        <struct index="2">
+          <float hash="airresistance">100</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-10</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.3</float>
+          <float hash="collisionsizeroot">0.3</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">0.5</float>
+          <float hash="localgravity">0.8</float>
+          <float hash="fallspeedscale">11</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0">planelegl2</hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="6">
+      <hash40 hash="name">scarfl</hash40>
+      <hash40 hash="start_bonename">s_scarfl1</hash40>
+      <hash40 hash="end_bonename">s_scarfl1</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">4</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">90</float>
+          <float hash="minangley">0</float>
+          <float hash="maxangley">20</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.15</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="7">
+      <hash40 hash="name">scarfr</hash40>
+      <hash40 hash="start_bonename">s_scarfr1</hash40>
+      <hash40 hash="end_bonename">s_scarfr1</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">4</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">90</float>
+          <float hash="minangley">-20</float>
+          <float hash="maxangley">20</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">1</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.15</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="8">
+      <hash40 hash="name">wingl</hash40>
+      <hash40 hash="start_bonename">s_wingl1</hash40>
+      <hash40 hash="end_bonename">s_wingl2</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">50</float>
+          <float hash="minangley">-50</float>
+          <float hash="maxangley">90</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">150</float>
+          <float hash="0x0cc10e5d3a">0</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">4</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.3</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">50</float>
+          <float hash="minangley">-50</float>
+          <float hash="maxangley">90</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">140</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">4</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.3</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="9">
+      <hash40 hash="name">wingr</hash40>
+      <hash40 hash="start_bonename">s_wingr1</hash40>
+      <hash40 hash="end_bonename">s_wingr2</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">50</float>
+          <float hash="minangley">-50</float>
+          <float hash="maxangley">90</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">150</float>
+          <float hash="0x0cc10e5d3a">0</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">4</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.3</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">5</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-50</float>
+          <float hash="maxanglez">50</float>
+          <float hash="minangley">-50</float>
+          <float hash="maxangley">90</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">140</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.1</float>
+          <float hash="fallspeedscale">4</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.3</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="10">
+      <hash40 hash="name">0x06674b9e85</hash40>
+      <hash40 hash="start_bonename">0x092024062c</hash40>
+      <hash40 hash="end_bonename">0x09b92d5796</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="11">
+      <hash40 hash="name">0x064c66cd46</hash40>
+      <hash40 hash="start_bonename">0x092262b875</hash40>
+      <hash40 hash="end_bonename">0x09bb6be9cf</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="12">
+      <hash40 hash="name">0x06557dfc07</hash40>
+      <hash40 hash="start_bonename">0x0923a0d242</hash40>
+      <hash40 hash="end_bonename">0x09baa983f8</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="13">
+      <hash40 hash="name">0x061a3c6ac0</hash40>
+      <hash40 hash="start_bonename">0x0926efc4c7</hash40>
+      <hash40 hash="end_bonename">0x09bfe6957d</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="14">
+      <hash40 hash="name">0x0603275b81</hash40>
+      <hash40 hash="start_bonename">0x09272daef0</hash40>
+      <hash40 hash="end_bonename">0x09be24ff4a</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="15">
+      <hash40 hash="name">0x06280a0842</hash40>
+      <hash40 hash="start_bonename">0x09256b10a9</hash40>
+      <hash40 hash="end_bonename">0x09bc624113</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="16">
+      <hash40 hash="name">0x0631113903</hash40>
+      <hash40 hash="start_bonename">0x0924a97a9e</hash40>
+      <hash40 hash="end_bonename">0x09bda02b24</hash40>
+      <list size="2" hash="params">
+       <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="17">
+      <hash40 hash="name">0x06b68925cc</hash40>
+      <hash40 hash="start_bonename">0x092ff53da3</hash40>
+      <hash40 hash="end_bonename">0x09b6fc6c19</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="18">
+      <hash40 hash="name">0x069d44a3e6</hash40>
+      <hash40 hash="start_bonename">0x09f46539f3</hash40>
+      <hash40 hash="end_bonename">0x096d6c6849</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="19">
+      <hash40 hash="name">0x06b669f025</hash40>
+      <hash40 hash="start_bonename">0x09f62387aa</hash40>
+      <hash40 hash="end_bonename">0x096f2ad610</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="20">
+      <hash40 hash="name">0x06af72c164</hash40>
+      <hash40 hash="start_bonename">0x09f7e1ed9d</hash40>
+      <hash40 hash="end_bonename">0x096ee8bc27</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="21">
+      <hash40 hash="name">0x06e03357a3</hash40>
+      <hash40 hash="start_bonename">0x09f2aefb18</hash40>
+      <hash40 hash="end_bonename">0x096ba7aaa2</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="22">
+      <hash40 hash="name">0x06f92866e2</hash40>
+      <hash40 hash="start_bonename">0x09f36c912f</hash40>
+      <hash40 hash="end_bonename">0x096a65c095</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="23">
+      <hash40 hash="name">0x06d2053521</hash40>
+      <hash40 hash="start_bonename">0x09f12a2f76</hash40>
+      <hash40 hash="end_bonename">0x0968237ecc</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="24">
+      <hash40 hash="name">0x06cb1e0460</hash40>
+      <hash40 hash="start_bonename">0x09f0e84541</hash40>
+      <hash40 hash="end_bonename">0x0969e114fb</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="25">
+      <hash40 hash="name">0x064c8618af</hash40>
+      <hash40 hash="start_bonename">0x09fbb4027c</hash40>
+      <hash40 hash="end_bonename">0x0962bd53c6</hash40>
+      <list size="2" hash="params">
+        <struct index="0">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">10</float>
+          <float hash="waterresistance">0</float>
+          <float hash="minanglez">-70</float>
+          <float hash="maxanglez">70</float>
+          <float hash="minangley">-70</float>
+          <float hash="maxangley">70</float>
+          <float hash="collisionsizetip">0.6</float>
+          <float hash="collisionsizeroot">0.5</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">10</float>
+          <float hash="0x0cc10e5d3a">5</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">1.5</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.8</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="26">
+      <hash40 hash="name">0x084bb6fdb6</hash40>
+      <hash40 hash="start_bonename">s_ribbonr1</hash40>
+      <hash40 hash="end_bonename">s_ribbonr3</hash40>
+      <list size="3" hash="params">
+        <struct index="0">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-30</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-30</float>
+          <float hash="maxangley">30</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-45</float>
+          <float hash="maxanglez">45</float>
+          <float hash="minangley">-45</float>
+          <float hash="maxangley">45</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="2">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-60</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="27">
+      <hash40 hash="name">0x088a2def20</hash40>
+      <hash40 hash="start_bonename">s_ribbonl1</hash40>
+      <hash40 hash="end_bonename">s_ribbonl3</hash40>
+      <list size="3" hash="params">
+        <struct index="0">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-30</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-30</float>
+          <float hash="maxangley">30</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="1">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-45</float>
+          <float hash="maxanglez">45</float>
+          <float hash="minangley">-45</float>
+          <float hash="maxangley">45</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+        <struct index="2">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-60</float>
+          <float hash="maxanglez">60</float>
+          <float hash="minangley">-60</float>
+          <float hash="maxangley">60</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">1</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+    <struct index="28">
+      <hash40 hash="name">tail1</hash40>
+      <hash40 hash="start_bonename">s_tail1</hash40>
+      <hash40 hash="end_bonename">s_tail1</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">0.2</float>
+          <float hash="waterresistance">0.7</float>
+          <float hash="minanglez">-30</float>
+          <float hash="maxanglez">30</float>
+          <float hash="minangley">-30</float>
+          <float hash="maxangley">30</float>
+          <float hash="collisionsizetip">0.5</float>
+          <float hash="collisionsizeroot">0.2</float>
+          <float hash="frictionrate">1</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">1</float>
+          <float hash="localgravity">0.5</float>
+          <float hash="fallspeedscale">0.6</float>
+          <sbyte hash="groundhit">1</sbyte>
+          <float hash="windaffect">0.2</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+    </struct>
+	<struct index="29">
+      <hash40 hash="name">0x0bba828830</hash40>
+      <hash40 hash="start_bonename">0x0bba828830</hash40>
+      <hash40 hash="end_bonename">0x0bba828830</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+	<struct index="30">
+      <hash40 hash="name">0x0e48fb834b</hash40>
+      <hash40 hash="start_bonename">0x0e48fb834b</hash40>
+      <hash40 hash="end_bonename">0x0e48fb834b</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+	<struct index="31">
+      <hash40 hash="name">0x0e9cbabc94</hash40>
+      <hash40 hash="start_bonename">0x0e9cbabc94</hash40>
+      <hash40 hash="end_bonename">0x0e9cbabc94</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+	<struct index="32">
+      <hash40 hash="name">0x0de3c872cb</hash40>
+      <hash40 hash="start_bonename">0x0de3c872cb</hash40>
+      <hash40 hash="end_bonename">0x0de3c872cb</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+	<struct index="33">
+      <hash40 hash="name">0x0d37894d14</hash40>
+      <hash40 hash="start_bonename">0x0d37894d14</hash40>
+      <hash40 hash="end_bonename">0x0d37894d14</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+	<struct index="34">
+      <hash40 hash="name">0x0da90a609a</hash40>
+      <hash40 hash="start_bonename">0x0da90a609a</hash40>
+      <hash40 hash="end_bonename">0x0da90a609a</hash40>
+      <list size="1" hash="params">
+        <struct index="0">
+          <float hash="airresistance">60</float>
+          <float hash="waterresistance">0.2</float>
+          <float hash="minanglez">0</float>
+          <float hash="maxanglez">15</float>
+          <float hash="minangley">-15</float>
+          <float hash="maxangley">5</float>
+          <float hash="collisionsizetip">0.1</float>
+          <float hash="collisionsizeroot">0.1</float>
+          <float hash="frictionrate">0.3</float>
+          <float hash="goalstrength">200</float>
+          <float hash="0x0cc10e5d3a">0.1</float>
+          <float hash="localgravity">-0.01</float>
+          <float hash="fallspeedscale">1</float>
+          <sbyte hash="groundhit">0</sbyte>
+          <float hash="windaffect">0.1</float>
+          <list size="1" hash="collisions">
+            <hash40 index="0"></hash40>
+          </list>
+        </struct>
+      </list>
+      <sbyte hash="isskirt">0</sbyte>
+      <int hash="rotateorder">0</int>
+      <sbyte hash="curverotatex">0</sbyte>
+      <sbyte hash="0x0f7316a113">0</sbyte>
+    </struct>
+
+  </list>
+  <list size="3" hash="spheres">
+    <struct index="0">
+      <hash40 hash="name">spherehip</hash40>
+      <hash40 hash="bonename">hip</hash40>
+      <float hash="cx">0</float>
+      <float hash="cy">10</float>
+      <float hash="cz">0</float>
+      <float hash="radius">11</float>
+    </struct>
+    <struct index="1">
+      <hash40 hash="name">spherelegl</hash40>
+      <hash40 hash="bonename">legl</hash40>
+      <float hash="cx">0</float>
+      <float hash="cy">-10</float>
+      <float hash="cz">0</float>
+      <float hash="radius">11</float>
+    </struct>
+    <struct index="2">
+      <hash40 hash="name">spherekneel</hash40>
+      <hash40 hash="bonename">kneel</hash40>
+      <float hash="cx">0</float>
+      <float hash="cy">-10</float>
+      <float hash="cz">0</float>
+      <float hash="radius">11</float>
+    </struct>
+  </list>
+  <list size="0" hash="ovals" />
+  <list size="0" hash="ellipsoids" />
+  <list size="0" hash="capsules" />
+  <list size="4" hash="planes">
+    <struct index="0">
+      <hash40 hash="name">planekneel1</hash40>
+      <hash40 hash="bonename">kneel</hash40>
+      <float hash="nx">0</float>
+      <float hash="ny">1</float>
+      <float hash="nz">0</float>
+      <float hash="distance">1.2</float>
+    </struct>
+    <struct index="1">
+      <hash40 hash="name">planelegl1</hash40>
+      <hash40 hash="bonename">legl</hash40>
+      <float hash="nx">0</float>
+      <float hash="ny">1</float>
+      <float hash="nz">0</float>
+      <float hash="distance">1.4</float>
+    </struct>
+    <struct index="2">
+      <hash40 hash="name">planelegl2</hash40>
+      <hash40 hash="bonename">legl</hash40>
+      <float hash="nx">0</float>
+      <float hash="ny">0</float>
+      <float hash="nz">1</float>
+      <float hash="distance">1.2</float>
+    </struct>
+    <struct index="3">
+      <hash40 hash="name">planelegl3</hash40>
+      <hash40 hash="bonename">legl</hash40>
+      <float hash="nx">0</float>
+      <float hash="ny">-1</float>
+      <float hash="nz">0.5</float>
+      <float hash="distance">1.2</float>
+    </struct>
+  </list>
+  <list size="7" hash="connections">
+    <struct index="0">
+      <hash40 hash="start_bonename">s_shirttaill1</hash40>
+      <hash40 hash="end_bonename">s_shirttailbl1</hash40>
+      <float hash="radius">0</float>
+      <float hash="length">2.5</float>
+    </struct>
+    <struct index="1">
+      <hash40 hash="start_bonename">s_shirttaill2</hash40>
+      <hash40 hash="end_bonename">s_shirttailbl2</hash40>
+      <float hash="radius">0</float>
+      <float hash="length">3.6</float>
+    </struct>
+    <struct index="2">
+      <hash40 hash="start_bonename">s_shirttailfl1</hash40>
+      <hash40 hash="end_bonename">s_shirttaill1</hash40>
+      <float hash="radius">0.1</float>
+      <float hash="length">3.7</float>
+    </struct>
+    <struct index="3">
+      <hash40 hash="start_bonename">s_shirttailfl2</hash40>
+      <hash40 hash="end_bonename">s_shirttaill2</hash40>
+      <float hash="radius">0.1</float>
+      <float hash="length">3.6</float>
+    </struct>
+    <struct index="4">
+      <hash40 hash="start_bonename">s_shirttaill3</hash40>
+      <hash40 hash="end_bonename">s_shirttailbl3</hash40>
+      <float hash="radius">0</float>
+      <float hash="length">4</float>
+    </struct>
+    <struct index="5">
+      <hash40 hash="start_bonename">s_shirttailbl3</hash40>
+      <hash40 hash="end_bonename">s_shirttailbr2</hash40>
+      <float hash="radius">0</float>
+      <float hash="length">3.6</float>
+    </struct>
+    <struct index="6">
+      <hash40 hash="start_bonename">s_shirttailbl2</hash40>
+      <hash40 hash="end_bonename">s_shirttailbr1</hash40>
+      <float hash="radius">0</float>
+      <float hash="length">3</float>
+    </struct>
+  </list>
+  <list size="0" hash="col4_0" />
+  <list size="0" hash="col5_0" />
+  <list size="1" hash="col2_0">
+    <hash40 index="0">planelegl1</hash40>
+  </list>
+  <list size="2" hash="col2_1">
+    <hash40 index="0">planelegl1</hash40>
+    <hash40 index="1">spherekneel</hash40>
+  </list>
+  <list size="2" hash="col2_2">
+    <hash40 index="0">planelegl1</hash40>
+    <hash40 index="1">spherekneel</hash40>
+  </list>
+  <list size="0" hash="col3_0" />
+  <list size="0" hash="col3_1" />
+  <list size="1" hash="col0_0">
+    <hash40 index="0">planelegl3</hash40>
+  </list>
+  <list size="1" hash="col0_1">
+    <hash40 index="0">planelegl3</hash40>
+  </list>
+  <list size="1" hash="col1_0">
+    <hash40 index="0">planelegl2</hash40>
+  </list>
+  <list size="1" hash="col1_1">
+    <hash40 index="0">planelegl2</hash40>
+  </list>
+  <list size="1" hash="col1_2">
+    <hash40 index="0">planelegl2</hash40>
+  </list>
+  <list size="0" hash="s_scarfl1col" />
+  <list size="0" hash="s_scarfr1col" />
+  <list size="0" hash="s_wingl1col" />
+  <list size="0" hash="s_wingl2col" />
+  <list size="0" hash="s_wingr1col" />
+  <list size="0" hash="s_wingr2col" />
+</struct>

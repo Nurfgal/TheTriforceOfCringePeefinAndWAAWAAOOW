@@ -1,0 +1,19 @@
+display_name="Dry Bowser (Full Replacement Version)"
+description="""
+Created by Joe T.E.
+
+Completely changes Bowser into Dry Bowser, with blue fire effects & a Giga form included for use in the Final Smash & Boss Battles.
+If you want to use Dry Bowser alongside vanilla Bowser slots, and/or other Bowser skins, use the 4 slot or Extra slot versions of this mod.
+
+The full set of color schemes are as follows:
+c00: Default *White*
+c01: Dark Dry Bones *Black*
+c02: Dry Bones *Gray*
+c03: TTYD Dull Bones *Green*
+c04: TTYD Red Bones *Red*
+c05: TTYD Dark Bones *Blue*
+c06: Normal Bowser *Orange*
+c07: Gold Dry Bowser (Mario Kart Tour alt)
+"""
+version="Release 4"
+category="Fighter"
