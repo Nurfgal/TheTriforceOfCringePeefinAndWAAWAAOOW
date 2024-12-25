@@ -1,0 +1,57 @@
+kind = "link"
+slots = [8, 9, 10, 11, 12, 13, 14, 15]
+
+[[param_float]]
+param = "walk_speed_max"
+subparam = ""
+value = 1.5
+
+[[param_float]]
+param = "ground_brake"
+subparam = ""
+value = 0.102
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value = 2.0
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value = 2.5
+
+[[param_float]]
+param = "air_accel_x_mul"
+subparam = ""
+value = 0.07
+
+[[param_float]]
+param = "air_speed_x_stable"
+subparam = ""
+value = 1.35
+
+[[param_float]]
+param = "air_brake_x"
+subparam = ""
+value = 0.01
+
+[[param_float]]
+param = "air_speed_y_stable"
+subparam = ""
+value = 1.28
+
+[[param_float]]
+param = "damage_fly_top_air_accel_y"
+subparam = ""
+value = 0.07575
+
+[[param_float]]
+param = "dive_speed_y"
+subparam = ""
+value = 2.048
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value = 77

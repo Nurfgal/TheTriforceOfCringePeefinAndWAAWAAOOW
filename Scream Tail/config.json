@@ -1,0 +1,1698 @@
+{
+	"new-dir-infos": [
+		"fighter/purin/c08",
+		"fighter/purin/camera/c08",
+		"fighter/purin/kirbycopy/c08",
+		"fighter/purin/movie/c08",
+		"fighter/purin/result/c08"
+	],
+	"new-dir-infos-base": {
+		"fighter/purin/c08/camera": "fighter/purin/c00/camera",
+		"fighter/purin/kirbycopy/c08/bodymotion": "fighter/purin/kirbycopy/c00/bodymotion",
+		"fighter/purin/kirbycopy/c08/cmn": "fighter/purin/kirbycopy/c00/cmn",
+		"fighter/purin/kirbycopy/c08/sound": "fighter/purin/kirbycopy/c00/sound",
+		"fighter/purin/c08/cmn": "fighter/purin/c00/cmn"
+	},
+	"share-to-vanilla": {
+		"fighter/kirby/model/copy_purin_parts/c00/dark_model.numatb": [
+			"fighter/kirby/model/copy_purin_parts/c08/dark_model.numatb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/light_model.numatb": [
+			"fighter/kirby/model/copy_purin_parts/c08/light_model.numatb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/metamon_model.numatb": [
+			"fighter/kirby/model/copy_purin_parts/c08/metamon_model.numatb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.nuanmb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.nuanmb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.nuhlpb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.nuhlpb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.numatb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.numatb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.numdlb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.numdlb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.numshb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.numshb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.numshexb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.numshexb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.nusktb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.nusktb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.nusrcmdlb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.nusrcmdlb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/model.xmb": [
+			"fighter/kirby/model/copy_purin_parts/c08/model.xmb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/skin_copypurin_001_col.nutexb": [
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_col.nutexb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/skin_copypurin_001_nor.nutexb": [
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_nor.nutexb"
+		],
+		"fighter/kirby/model/copy_purin_parts/c00/skin_copypurin_001_prm.nutexb": [
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_prm.nutexb"
+		],
+		"fighter/purin/model/body/c00/alp_purin_001_nor.nutexb": [
+			"fighter/purin/model/body/c08/alp_purin_001_nor.nutexb"
+		],
+		"fighter/purin/model/body/c00/dark_model.numatb": [
+			"fighter/purin/model/body/c08/dark_model.numatb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyel_purin_d_002_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyel_purin_d_003_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyel_purin_d_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyer_purin_d_002_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyer_purin_d_003_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/deyes_eyer_purin_d_col.nutexb": [
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eye_mario_w_nor.nutexb": [
+			"fighter/purin/model/body/c08/eye_mario_w_nor.nutexb"
+		],
+		"fighter/purin/model/body/c00/eye_purin_w_col.nutexb": [
+			"fighter/purin/model/body/c08/eye_purin_w_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eye_purin_w_nor.nutexb": [
+			"fighter/purin/model/body/c08/eye_purin_w_nor.nutexb"
+		],
+		"fighter/purin/model/body/c00/eye_purin_w_prm.nutexb": [
+			"fighter/purin/model/body/c08/eye_purin_w_prm.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyel_purin_g_002_col.nutexb": [
+			"fighter/purin/model/body/c08/eyel_purin_g_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyel_purin_g_003_col.nutexb": [
+			"fighter/purin/model/body/c08/eyel_purin_g_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyel_purin_g_col.nutexb": [
+			"fighter/purin/model/body/c08/eyel_purin_g_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyer_purin_g_002_col.nutexb": [
+			"fighter/purin/model/body/c08/eyer_purin_g_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyer_purin_g_003_col.nutexb": [
+			"fighter/purin/model/body/c08/eyer_purin_g_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/eyer_purin_g_col.nutexb": [
+			"fighter/purin/model/body/c08/eyer_purin_g_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyel_purin_l_002_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyel_purin_l_003_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyel_purin_l_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyer_purin_l_002_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_002_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyer_purin_l_003_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_003_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/leyes_eyer_purin_l_col.nutexb": [
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_col.nutexb"
+		],
+		"fighter/purin/model/body/c00/light_model.numatb": [
+			"fighter/purin/model/body/c08/light_model.numatb"
+		],
+		"fighter/purin/model/body/c00/metamon_model.numatb": [
+			"fighter/purin/model/body/c08/metamon_model.numatb"
+		],
+		"fighter/purin/model/body/c00/model.nuanmb": [
+			"fighter/purin/model/body/c08/model.nuanmb"
+		],
+		"fighter/purin/model/body/c00/model.nuhlpb": [
+			"fighter/purin/model/body/c08/model.nuhlpb"
+		],
+		"fighter/purin/model/body/c00/model.numshexb": [
+			"fighter/purin/model/body/c08/model.numshexb"
+		],
+		"fighter/purin/model/body/c00/model.nusrcmdlb": [
+			"fighter/purin/model/body/c08/model.nusrcmdlb"
+		],
+		"fighter/purin/model/body/c00/model.xmb": [
+			"fighter/purin/model/body/c08/model.xmb"
+		],
+		"fighter/purin/model/body/c00/skin_purin_001_nor.nutexb": [
+			"fighter/purin/model/body/c08/skin_purin_001_nor.nutexb"
+		],
+		"fighter/purin/model/body/c00/skin_purin_002_nor.nutexb": [
+			"fighter/purin/model/body/c08/skin_purin_002_nor.nutexb"
+		],
+		"fighter/purin/model/monsterball/c00/dark_model.numatb": [
+			"fighter/purin/model/monsterball/c08/dark_model.numatb"
+		],
+		"fighter/purin/model/monsterball/c00/def_mball_001_col.nutexb": [
+			"fighter/purin/model/monsterball/c08/def_mball_001_col.nutexb"
+		],
+		"fighter/purin/model/monsterball/c00/def_mball_001_nor.nutexb": [
+			"fighter/purin/model/monsterball/c08/def_mball_001_nor.nutexb"
+		],
+		"fighter/purin/model/monsterball/c00/def_mball_001_prm.nutexb": [
+			"fighter/purin/model/monsterball/c08/def_mball_001_prm.nutexb"
+		],
+		"fighter/purin/model/monsterball/c00/light_model.numatb": [
+			"fighter/purin/model/monsterball/c08/light_model.numatb"
+		],
+		"fighter/purin/model/monsterball/c00/metamon_model.numatb": [
+			"fighter/purin/model/monsterball/c08/metamon_model.numatb"
+		],
+		"fighter/purin/model/monsterball/c00/model.nuanmb": [
+			"fighter/purin/model/monsterball/c08/model.nuanmb"
+		],
+		"fighter/purin/model/monsterball/c00/model.nuhlpb": [
+			"fighter/purin/model/monsterball/c08/model.nuhlpb"
+		],
+		"fighter/purin/model/monsterball/c00/model.numatb": [
+			"fighter/purin/model/monsterball/c08/model.numatb"
+		],
+		"fighter/purin/model/monsterball/c00/model.numdlb": [
+			"fighter/purin/model/monsterball/c08/model.numdlb"
+		],
+		"fighter/purin/model/monsterball/c00/model.numshb": [
+			"fighter/purin/model/monsterball/c08/model.numshb"
+		],
+		"fighter/purin/model/monsterball/c00/model.numshexb": [
+			"fighter/purin/model/monsterball/c08/model.numshexb"
+		],
+		"fighter/purin/model/monsterball/c00/model.nusktb": [
+			"fighter/purin/model/monsterball/c08/model.nusktb"
+		],
+		"fighter/purin/model/monsterball/c00/model.nusrcmdlb": [
+			"fighter/purin/model/monsterball/c08/model.nusrcmdlb"
+		],
+		"fighter/purin/model/monsterball/c00/model.xmb": [
+			"fighter/purin/model/monsterball/c08/model.xmb"
+		],
+		"sound/bank/fighter/se_purin_c00.nus3audio": [
+			"sound/bank/fighter/se_purin_c08.nus3audio"
+		],
+		"sound/bank/fighter/se_purin_c00.nus3bank": [
+			"sound/bank/fighter/se_purin_c08.nus3bank"
+		],
+		"sound/bank/fighter/se_purin_c00.tonelabel": [
+			"sound/bank/fighter/se_purin_c08.tonelabel"
+		],
+		"sound/bank/fighter_voice/vc_purin_c00.nus3audio": [
+			"sound/bank/fighter_voice/vc_purin_c08.nus3audio"
+		],
+		"sound/bank/fighter_voice/vc_purin_c00.nus3bank": [
+			"sound/bank/fighter_voice/vc_purin_c08.nus3bank"
+		],
+		"sound/bank/fighter_voice/vc_purin_c00.tonelabel": [
+			"sound/bank/fighter_voice/vc_purin_c08.tonelabel"
+		],
+		"sound/bank/fighter_voice/vc_purin_cheer_c00.nus3audio": [
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.nus3audio"
+		],
+		"sound/bank/fighter_voice/vc_purin_cheer_c00.nus3bank": [
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.nus3bank"
+		],
+		"sound/bank/fighter_voice/vc_purin_cheer_c00.tonelabel": [
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.tonelabel"
+		]
+	},
+	"share-to-added": {
+		"camera/fighter/purin/c00/d04finalstartr.nuanmb": [
+			"camera/fighter/purin/c08/d04finalstartr.nuanmb"
+		],
+		"camera/fighter/purin/c00/j02win1.nuanmb": [
+			"camera/fighter/purin/c08/j02win1.nuanmb"
+		],
+		"camera/fighter/purin/c00/j02win2.nuanmb": [
+			"camera/fighter/purin/c08/j02win2.nuanmb"
+		],
+		"camera/fighter/purin/c00/j02win3.nuanmb": [
+			"camera/fighter/purin/c08/j02win3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00defaulteyelid.nuanmb": [
+			"fighter/purin/motion/body/c08/a00defaulteyelid.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00itemhandgrip.nuanmb": [
+			"fighter/purin/motion/body/c08/a00itemhandgrip.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00itemhandhave.nuanmb": [
+			"fighter/purin/motion/body/c08/a00itemhandhave.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00itemhandpickup.nuanmb": [
+			"fighter/purin/motion/body/c08/a00itemhandpickup.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00itemhandsmash.nuanmb": [
+			"fighter/purin/motion/body/c08/a00itemhandsmash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00wait1.nuanmb": [
+			"fighter/purin/motion/body/c08/a00wait1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00wait2.nuanmb": [
+			"fighter/purin/motion/body/c08/a00wait2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00wait3.nuanmb": [
+			"fighter/purin/motion/body/c08/a00wait3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a00waititem.nuanmb": [
+			"fighter/purin/motion/body/c08/a00waititem.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01turn.nuanmb": [
+			"fighter/purin/motion/body/c08/a01turn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01walkbrakel.nuanmb": [
+			"fighter/purin/motion/body/c08/a01walkbrakel.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01walkbraker.nuanmb": [
+			"fighter/purin/motion/body/c08/a01walkbraker.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01walkfast.nuanmb": [
+			"fighter/purin/motion/body/c08/a01walkfast.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01walkmiddle.nuanmb": [
+			"fighter/purin/motion/body/c08/a01walkmiddle.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a01walkslow.nuanmb": [
+			"fighter/purin/motion/body/c08/a01walkslow.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02dash.nuanmb": [
+			"fighter/purin/motion/body/c08/a02dash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02run.nuanmb": [
+			"fighter/purin/motion/body/c08/a02run.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02runbrakel.nuanmb": [
+			"fighter/purin/motion/body/c08/a02runbrakel.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02runbraker.nuanmb": [
+			"fighter/purin/motion/body/c08/a02runbraker.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02turndash.nuanmb": [
+			"fighter/purin/motion/body/c08/a02turndash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02turnrun.nuanmb": [
+			"fighter/purin/motion/body/c08/a02turnrun.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a02turnrunbrake.nuanmb": [
+			"fighter/purin/motion/body/c08/a02turnrunbrake.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpaerialf.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpaerialf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpaerialf2.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpaerialf2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpaerialf3.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpaerialf3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpaerialf4.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpaerialf4.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpaerialf5.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpaerialf5.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpb.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpf.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a03jumpsquat.nuanmb": [
+			"fighter/purin/motion/body/c08/a03jumpsquat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04damagefall.nuanmb": [
+			"fighter/purin/motion/body/c08/a04damagefall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fall.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallaerial.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallaerial.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallaerialb.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallaerialb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallaerialf.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallaerialf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallb.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallf.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallspecial.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallspecial.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallspecialb.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallspecialb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04fallspecialf.nuanmb": [
+			"fighter/purin/motion/body/c08/a04fallspecialf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04landingfallspecial.nuanmb": [
+			"fighter/purin/motion/body/c08/a04landingfallspecial.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04runfalll.nuanmb": [
+			"fighter/purin/motion/body/c08/a04runfalll.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04runfallr.nuanmb": [
+			"fighter/purin/motion/body/c08/a04runfallr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04walkfalll.nuanmb": [
+			"fighter/purin/motion/body/c08/a04walkfalll.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a04walkfallr.nuanmb": [
+			"fighter/purin/motion/body/c08/a04walkfallr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05landingheavy.nuanmb": [
+			"fighter/purin/motion/body/c08/a05landingheavy.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05landinglight.nuanmb": [
+			"fighter/purin/motion/body/c08/a05landinglight.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05squat.nuanmb": [
+			"fighter/purin/motion/body/c08/a05squat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05squatrv.nuanmb": [
+			"fighter/purin/motion/body/c08/a05squatrv.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05squatwait.nuanmb": [
+			"fighter/purin/motion/body/c08/a05squatwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a05squatwaititem.nuanmb": [
+			"fighter/purin/motion/body/c08/a05squatwaititem.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a06stepairpose.nuanmb": [
+			"fighter/purin/motion/body/c08/a06stepairpose.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a06stepback.nuanmb": [
+			"fighter/purin/motion/body/c08/a06stepback.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a06stepfall.nuanmb": [
+			"fighter/purin/motion/body/c08/a06stepfall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a06stepjump.nuanmb": [
+			"fighter/purin/motion/body/c08/a06stepjump.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/a06steppose.nuanmb": [
+			"fighter/purin/motion/body/c08/a06steppose.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b00guard.nuanmb": [
+			"fighter/purin/motion/body/c08/b00guard.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b00guardoff.nuanmb": [
+			"fighter/purin/motion/body/c08/b00guardoff.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b00guardon.nuanmb": [
+			"fighter/purin/motion/body/c08/b00guardon.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b00justshieldoff.nuanmb": [
+			"fighter/purin/motion/body/c08/b00justshieldoff.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b01guarddamage.nuanmb": [
+			"fighter/purin/motion/body/c08/b01guarddamage.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b02escapeair.nuanmb": [
+			"fighter/purin/motion/body/c08/b02escapeair.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b02escapeb.nuanmb": [
+			"fighter/purin/motion/body/c08/b02escapeb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b02escapef.nuanmb": [
+			"fighter/purin/motion/body/c08/b02escapef.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b02escapen.nuanmb": [
+			"fighter/purin/motion/body/c08/b02escapen.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/b02rebound.nuanmb": [
+			"fighter/purin/motion/body/c08/b02rebound.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c00attack11.nuanmb": [
+			"fighter/purin/motion/body/c08/c00attack11.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c00attack12.nuanmb": [
+			"fighter/purin/motion/body/c08/c00attack12.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c00attackdash.nuanmb": [
+			"fighter/purin/motion/body/c08/c00attackdash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c01attacks3hi.nuanmb": [
+			"fighter/purin/motion/body/c08/c01attacks3hi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c01attacks3lw.nuanmb": [
+			"fighter/purin/motion/body/c08/c01attacks3lw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c01attacks3s.nuanmb": [
+			"fighter/purin/motion/body/c08/c01attacks3s.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c02attackhi3.nuanmb": [
+			"fighter/purin/motion/body/c08/c02attackhi3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c02attacklw3.nuanmb": [
+			"fighter/purin/motion/body/c08/c02attacklw3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c03attacks4charge.nuanmb": [
+			"fighter/purin/motion/body/c08/c03attacks4charge.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c03attacks4s.nuanmb": [
+			"fighter/purin/motion/body/c08/c03attacks4s.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c04attackhi4.nuanmb": [
+			"fighter/purin/motion/body/c08/c04attackhi4.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c04attackhi4charge.nuanmb": [
+			"fighter/purin/motion/body/c08/c04attackhi4charge.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c04attacklw4.nuanmb": [
+			"fighter/purin/motion/body/c08/c04attacklw4.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c04attacklw4charge.nuanmb": [
+			"fighter/purin/motion/body/c08/c04attacklw4charge.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05attackairb.nuanmb": [
+			"fighter/purin/motion/body/c08/c05attackairb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05attackairf.nuanmb": [
+			"fighter/purin/motion/body/c08/c05attackairf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05attackairhi.nuanmb": [
+			"fighter/purin/motion/body/c08/c05attackairhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05attackairlw.nuanmb": [
+			"fighter/purin/motion/body/c08/c05attackairlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05attackairn.nuanmb": [
+			"fighter/purin/motion/body/c08/c05attackairn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05landingairb.nuanmb": [
+			"fighter/purin/motion/body/c08/c05landingairb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05landingairf.nuanmb": [
+			"fighter/purin/motion/body/c08/c05landingairf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05landingairhi.nuanmb": [
+			"fighter/purin/motion/body/c08/c05landingairhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05landingairlw.nuanmb": [
+			"fighter/purin/motion/body/c08/c05landingairlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/c05landingairn.nuanmb": [
+			"fighter/purin/motion/body/c08/c05landingairn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialairnendr.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialairnendr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialairnhold.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialairnhold.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialairnstartr.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialairnstartr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialn.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialnendr.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialnendr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialnhold.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialnhold.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d00specialnstartr.nuanmb": [
+			"fighter/purin/motion/body/c08/d00specialnstartr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d01specialairs.nuanmb": [
+			"fighter/purin/motion/body/c08/d01specialairs.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d01specials.nuanmb": [
+			"fighter/purin/motion/body/c08/d01specials.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d02specialairhir.nuanmb": [
+			"fighter/purin/motion/body/c08/d02specialairhir.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d02specialhir.nuanmb": [
+			"fighter/purin/motion/body/c08/d02specialhir.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d03specialairlwr.nuanmb": [
+			"fighter/purin/motion/body/c08/d03specialairlwr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d03speciallwr.nuanmb": [
+			"fighter/purin/motion/body/c08/d03speciallwr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04final.nuanmb": [
+			"fighter/purin/motion/body/c08/d04final.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04finalair.nuanmb": [
+			"fighter/purin/motion/body/c08/d04finalair.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04finalairendr.nuanmb": [
+			"fighter/purin/motion/body/c08/d04finalairendr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04finalairstartr.nuanmb": [
+			"fighter/purin/motion/body/c08/d04finalairstartr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04finalendr.nuanmb": [
+			"fighter/purin/motion/body/c08/d04finalendr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/d04finalstartr.nuanmb": [
+			"fighter/purin/motion/body/c08/d04finalstartr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catch.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catch.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchattack.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchattack.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchcut.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchcut.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchdash.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchdash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchpull.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchpull.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchturn.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchturn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e00catchwait.nuanmb": [
+			"fighter/purin/motion/body/c08/e00catchwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwb.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwf.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwhi.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwlw.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownb.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownbigb.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownbigb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownbigf.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownbigf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownbighi.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownbighi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownbiglw.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownbiglw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwndxb.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwndxb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwndxf.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwndxf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwndxhi.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwndxhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwndxlw.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwndxlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownf.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwngirlb.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwngirlb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwngirlf.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwngirlf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwngirlhi.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwngirlhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01throwngirllw.nuanmb": [
+			"fighter/purin/motion/body/c08/e01throwngirllw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownhi.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e01thrownlw.nuanmb": [
+			"fighter/purin/motion/body/c08/e01thrownlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e02capturedamagehi.nuanmb": [
+			"fighter/purin/motion/body/c08/e02capturedamagehi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e02capturepulledhi.nuanmb": [
+			"fighter/purin/motion/body/c08/e02capturepulledhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e02capturewaithi.nuanmb": [
+			"fighter/purin/motion/body/c08/e02capturewaithi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e03capturecut.nuanmb": [
+			"fighter/purin/motion/body/c08/e03capturecut.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e03capturedamagelw.nuanmb": [
+			"fighter/purin/motion/body/c08/e03capturedamagelw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e03capturejump.nuanmb": [
+			"fighter/purin/motion/body/c08/e03capturejump.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e03capturepulledlw.nuanmb": [
+			"fighter/purin/motion/body/c08/e03capturepulledlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/e03capturewaitlw.nuanmb": [
+			"fighter/purin/motion/body/c08/e03capturewaitlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagehi1.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagehi1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagehi2.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagehi2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagehi3.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagehi3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagelw1.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagelw1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagelw2.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagelw2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagelw3.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagelw3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagen1.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagen1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagen2.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagen2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f00damagen3.nuanmb": [
+			"fighter/purin/motion/body/c08/f00damagen3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageair1.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageair1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageair2.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageair2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageair3.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageair3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflyhi.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflyhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflylw.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflylw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflymeteor.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflymeteor.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflyn.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflyn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflyroll.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflyroll.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflyrollend.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflyrollend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f01damageflytop.nuanmb": [
+			"fighter/purin/motion/body/c08/f01damageflytop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f02damageelec.nuanmb": [
+			"fighter/purin/motion/body/c08/f02damageelec.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downattacku.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downattacku.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downbacku.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downbacku.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downboundu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downboundu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downdamageu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downdamageu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downdamageu3.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downdamageu3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downeatu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downeatu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downforwardu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downforwardu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downspotu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downspotu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downstandu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downstandu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f03downwaitu.nuanmb": [
+			"fighter/purin/motion/body/c08/f03downwaitu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downattackd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downattackd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downbackd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downbackd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downboundd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downboundd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downdamaged.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downdamaged.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downdamaged3.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downdamaged3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downeatd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downeatd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downforwardd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downforwardd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downstandd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downstandd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f04downwaitd.nuanmb": [
+			"fighter/purin/motion/body/c08/f04downwaitd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passive.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passive.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passiveceil.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passiveceil.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passivestandb.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passivestandb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passivestandf.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passivestandf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passivewall.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passivewall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f05passivewalljump.nuanmb": [
+			"fighter/purin/motion/body/c08/f05passivewalljump.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f06furafura.nuanmb": [
+			"fighter/purin/motion/body/c08/f06furafura.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f06furafuraend.nuanmb": [
+			"fighter/purin/motion/body/c08/f06furafuraend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f06furafurastartd.nuanmb": [
+			"fighter/purin/motion/body/c08/f06furafurastartd.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f06furafurastartu.nuanmb": [
+			"fighter/purin/motion/body/c08/f06furafurastartu.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f07sleepend.nuanmb": [
+			"fighter/purin/motion/body/c08/f07sleepend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f07sleeploop.nuanmb": [
+			"fighter/purin/motion/body/c08/f07sleeploop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f07sleepstart.nuanmb": [
+			"fighter/purin/motion/body/c08/f07sleepstart.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f08swallowed.nuanmb": [
+			"fighter/purin/motion/body/c08/f08swallowed.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/f09camerahit.nuanmb": [
+			"fighter/purin/motion/body/c08/f09camerahit.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/flip.prc": [
+			"fighter/purin/motion/body/c08/flip.prc"
+		],
+		"fighter/purin/motion/body/c00/g00ceildamage.nuanmb": [
+			"fighter/purin/motion/body/c08/g00ceildamage.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00missfoot.nuanmb": [
+			"fighter/purin/motion/body/c08/g00missfoot.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00ottotto.nuanmb": [
+			"fighter/purin/motion/body/c08/g00ottotto.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00ottottowait.nuanmb": [
+			"fighter/purin/motion/body/c08/g00ottottowait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00pass.nuanmb": [
+			"fighter/purin/motion/body/c08/g00pass.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00stopceil.nuanmb": [
+			"fighter/purin/motion/body/c08/g00stopceil.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00stopwall.nuanmb": [
+			"fighter/purin/motion/body/c08/g00stopwall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g00walldamage.nuanmb": [
+			"fighter/purin/motion/body/c08/g00walldamage.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g01cliffcatch.nuanmb": [
+			"fighter/purin/motion/body/c08/g01cliffcatch.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g01cliffwait.nuanmb": [
+			"fighter/purin/motion/body/c08/g01cliffwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g02cliffattack.nuanmb": [
+			"fighter/purin/motion/body/c08/g02cliffattack.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g02cliffclimb.nuanmb": [
+			"fighter/purin/motion/body/c08/g02cliffclimb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g02cliffescape.nuanmb": [
+			"fighter/purin/motion/body/c08/g02cliffescape.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g02cliffjump1.nuanmb": [
+			"fighter/purin/motion/body/c08/g02cliffjump1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g02cliffjump2.nuanmb": [
+			"fighter/purin/motion/body/c08/g02cliffjump2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slip.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slip.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipattack.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipattack.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipdown.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipdown.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipescapeb.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipescapeb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipescapef.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipescapef.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipstand.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipstand.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/g03slipwait.nuanmb": [
+			"fighter/purin/motion/body/c08/g03slipwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h00lighteat.nuanmb": [
+			"fighter/purin/motion/body/c08/h00lighteat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h00lightget.nuanmb": [
+			"fighter/purin/motion/body/c08/h00lightget.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h00lightwalkeat.nuanmb": [
+			"fighter/purin/motion/body/c08/h00lightwalkeat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h00lightwalkget.nuanmb": [
+			"fighter/purin/motion/body/c08/h00lightwalkget.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowb.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowdash.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowdash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowdrop.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowdrop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowf.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowhi.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h01lightthrowlw.nuanmb": [
+			"fighter/purin/motion/body/c08/h01lightthrowlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h02lightthrowairb.nuanmb": [
+			"fighter/purin/motion/body/c08/h02lightthrowairb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h02lightthrowairf.nuanmb": [
+			"fighter/purin/motion/body/c08/h02lightthrowairf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h02lightthrowairhi.nuanmb": [
+			"fighter/purin/motion/body/c08/h02lightthrowairhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h02lightthrowairlw.nuanmb": [
+			"fighter/purin/motion/body/c08/h02lightthrowairlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavyget.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavyget.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavythrowb.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavythrowb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavythrowf.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavythrowf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavythrowhi.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavythrowhi.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavythrowlw.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavythrowlw.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h03heavywalk.nuanmb": [
+			"fighter/purin/motion/body/c08/h03heavywalk.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h04swing1.nuanmb": [
+			"fighter/purin/motion/body/c08/h04swing1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h04swing3.nuanmb": [
+			"fighter/purin/motion/body/c08/h04swing3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h04swing4.nuanmb": [
+			"fighter/purin/motion/body/c08/h04swing4.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h04swing4charge.nuanmb": [
+			"fighter/purin/motion/body/c08/h04swing4charge.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h04swingdash.nuanmb": [
+			"fighter/purin/motion/body/c08/h04swingdash.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h05itemhammerair.nuanmb": [
+			"fighter/purin/motion/body/c08/h05itemhammerair.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h05itemhammermove.nuanmb": [
+			"fighter/purin/motion/body/c08/h05itemhammermove.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h05itemhammerwait.nuanmb": [
+			"fighter/purin/motion/body/c08/h05itemhammerwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h06swing4bat.nuanmb": [
+			"fighter/purin/motion/body/c08/h06swing4bat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h07itemscrew.nuanmb": [
+			"fighter/purin/motion/body/c08/h07itemscrew.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h07itemscrewfall.nuanmb": [
+			"fighter/purin/motion/body/c08/h07itemscrewfall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h08itemdragoonget.nuanmb": [
+			"fighter/purin/motion/body/c08/h08itemdragoonget.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h08itemdragoonride.nuanmb": [
+			"fighter/purin/motion/body/c08/h08itemdragoonride.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h10itemlegsjumpsquat.nuanmb": [
+			"fighter/purin/motion/body/c08/h10itemlegsjumpsquat.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h10itemlegslanding.nuanmb": [
+			"fighter/purin/motion/body/c08/h10itemlegslanding.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h10itemlegswalkb.nuanmb": [
+			"fighter/purin/motion/body/c08/h10itemlegswalkb.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h10itemlegswalkf.nuanmb": [
+			"fighter/purin/motion/body/c08/h10itemlegswalkf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshoot.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshoot.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshootair.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshootair.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshootairloop.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshootairloop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshootloop.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshootloop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshootloopupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshootloopupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h11itemshootupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h11itemshootupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeairend.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeairend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeairfire.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeairfire.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeairrapid.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeairrapid.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeairstart.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeairstart.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeend.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopeendupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopeendupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopefall.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopefall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopefire.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopefire.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopefireupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopefireupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscoperapid.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscoperapid.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscoperapidupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscoperapidupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopestart.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopestart.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopestartupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopestartupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopewait.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopewait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h12itemscopewaitupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h12itemscopewaitupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h13itemassist.nuanmb": [
+			"fighter/purin/motion/body/c08/h13itemassist.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h14gekikarawait.nuanmb": [
+			"fighter/purin/motion/body/c08/h14gekikarawait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h14gekikarawaitface.nuanmb": [
+			"fighter/purin/motion/body/c08/h14gekikarawaitface.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h15itemgrasspull.nuanmb": [
+			"fighter/purin/motion/body/c08/h15itemgrasspull.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisairend.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisairend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisairfire.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisairfire.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisairloop.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisairloop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisend.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisfall.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisfall.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisfire.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisfire.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisloop.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisloop.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesisturn.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesisturn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesiswait.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesiswait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/h16itemgenesiswaitupper.nuanmb": [
+			"fighter/purin/motion/body/c08/h16itemgenesiswaitupper.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swim.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swim.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimend.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimend.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimf.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimf.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimrise.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimrise.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimturn.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimturn.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimup.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimup.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i00swimupdamage.nuanmb": [
+			"fighter/purin/motion/body/c08/i00swimupdamage.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i01swimdrown.nuanmb": [
+			"fighter/purin/motion/body/c08/i01swimdrown.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/i01swimdrownout.nuanmb": [
+			"fighter/purin/motion/body/c08/i01swimdrownout.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/ik.prc": [
+			"fighter/purin/motion/body/c08/ik.prc"
+		],
+		"fighter/purin/motion/body/c00/j00entryr.nuanmb": [
+			"fighter/purin/motion/body/c08/j00entryr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j01appealhir.nuanmb": [
+			"fighter/purin/motion/body/c08/j01appealhir.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j01appeallwr.nuanmb": [
+			"fighter/purin/motion/body/c08/j01appeallwr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j01appealsr.nuanmb": [
+			"fighter/purin/motion/body/c08/j01appealsr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02lose.nuanmb": [
+			"fighter/purin/motion/body/c08/j02lose.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win1.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win1.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win1wait.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win1wait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win2.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win2.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win2wait.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win2wait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win3.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win3.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/j02win3wait.nuanmb": [
+			"fighter/purin/motion/body/c08/j02win3wait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00laddercatchairr.nuanmb": [
+			"fighter/purin/motion/body/c08/k00laddercatchairr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00laddercatchendr.nuanmb": [
+			"fighter/purin/motion/body/c08/k00laddercatchendr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00laddercatchr.nuanmb": [
+			"fighter/purin/motion/body/c08/k00laddercatchr.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00ladderdown.nuanmb": [
+			"fighter/purin/motion/body/c08/k00ladderdown.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00ladderup.nuanmb": [
+			"fighter/purin/motion/body/c08/k00ladderup.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/k00ladderwait.nuanmb": [
+			"fighter/purin/motion/body/c08/k00ladderwait.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l00share.nuanmb": [
+			"fighter/purin/motion/body/c08/l00share.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l02share_cliff.nuanmb": [
+			"fighter/purin/motion/body/c08/l02share_cliff.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l02share_finish.nuanmb": [
+			"fighter/purin/motion/body/c08/l02share_finish.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l02share_fistdown.nuanmb": [
+			"fighter/purin/motion/body/c08/l02share_fistdown.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l02share_sleep.nuanmb": [
+			"fighter/purin/motion/body/c08/l02share_sleep.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/l03adventurerun.nuanmb": [
+			"fighter/purin/motion/body/c08/l03adventurerun.nuanmb"
+		],
+		"fighter/purin/motion/body/c00/motion_list.bin": [
+			"fighter/purin/motion/body/c08/motion_list.bin"
+		],
+		"fighter/purin/motion/body/c00/scharge.prc": [
+			"fighter/purin/motion/body/c08/scharge.prc"
+		],
+		"fighter/purin/motion/body/c00/update.prc": [
+			"fighter/purin/motion/body/c08/update.prc"
+		],
+		"fighter/purin/motion/cap/c00/motion_list.bin": [
+			"fighter/purin/motion/cap/c08/motion_list.bin"
+		],
+		"fighter/purin/motion/cap/c00/update.prc": [
+			"fighter/purin/motion/cap/c08/update.prc"
+		],
+		"fighter/purin/motion/monsterball/c00/flip.prc": [
+			"fighter/purin/motion/monsterball/c08/flip.prc"
+		],
+		"fighter/purin/motion/monsterball/c00/j00entry.nuanmb": [
+			"fighter/purin/motion/monsterball/c08/j00entry.nuanmb"
+		],
+		"fighter/purin/motion/monsterball/c00/motion_list.bin": [
+			"fighter/purin/motion/monsterball/c08/motion_list.bin"
+		],
+		"fighter/purin/motion/monsterball/c00/update.prc": [
+			"fighter/purin/motion/monsterball/c08/update.prc"
+		]
+	},
+	"new-dir-files": {
+		"fighter/purin/c08": [
+			"fighter/purin/model/body/c08/alp_purin_001_col.nutexb",
+			"fighter/purin/model/body/c08/alp_purin_001_nor.nutexb",
+			"fighter/purin/model/body/c08/alp_purin_001_prm.nutexb",
+			"fighter/purin/model/body/c08/dark_model.numatb",
+			"fighter/purin/model/body/c08/deyes_eye_purin_wd_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_002_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_003_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyel_purin_d_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_002_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_003_col.nutexb",
+			"fighter/purin/model/body/c08/deyes_eyer_purin_d_col.nutexb",
+			"fighter/purin/model/body/c08/eye_mario_w_nor.nutexb",
+			"fighter/purin/model/body/c08/eye_purin_w_col.nutexb",
+			"fighter/purin/model/body/c08/eye_purin_w_nor.nutexb",
+			"fighter/purin/model/body/c08/eye_purin_w_prm.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_b_002_col.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_b_003_col.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_b_col.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_g_002_col.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_g_003_col.nutexb",
+			"fighter/purin/model/body/c08/eyel_purin_g_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_b_002_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_b_003_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_b_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_g_002_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_g_003_col.nutexb",
+			"fighter/purin/model/body/c08/eyer_purin_g_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_002_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_003_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyel_purin_l_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_002_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_003_col.nutexb",
+			"fighter/purin/model/body/c08/leyes_eyer_purin_l_col.nutexb",
+			"fighter/purin/model/body/c08/light_model.numatb",
+			"fighter/purin/model/body/c08/metamon_model.numatb",
+			"fighter/purin/model/body/c08/model.nuanmb",
+			"fighter/purin/model/body/c08/model.nuhlpb",
+			"fighter/purin/model/body/c08/model.numatb",
+			"fighter/purin/model/body/c08/model.numdlb",
+			"fighter/purin/model/body/c08/model.numshb",
+			"fighter/purin/model/body/c08/model.numshexb",
+			"fighter/purin/model/body/c08/model.nusktb",
+			"fighter/purin/model/body/c08/model.nusrcmdlb",
+			"fighter/purin/model/body/c08/model.xmb",
+			"fighter/purin/model/body/c08/skin_purin_001_col.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_001_nor.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_001_prm.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_002_col.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_002_nor.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_002_prm.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_003_col.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_003_nor.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_003_prm.nutexb",
+			"fighter/purin/model/body/c08/skin_purin_004_col.nutexb",
+			"fighter/purin/model/monsterball/c08/dark_model.numatb",
+			"fighter/purin/model/monsterball/c08/def_mball_001_col.nutexb",
+			"fighter/purin/model/monsterball/c08/def_mball_001_nor.nutexb",
+			"fighter/purin/model/monsterball/c08/def_mball_001_prm.nutexb",
+			"fighter/purin/model/monsterball/c08/light_model.numatb",
+			"fighter/purin/model/monsterball/c08/metamon_model.numatb",
+			"fighter/purin/model/monsterball/c08/model.nuanmb",
+			"fighter/purin/model/monsterball/c08/model.nuhlpb",
+			"fighter/purin/model/monsterball/c08/model.numatb",
+			"fighter/purin/model/monsterball/c08/model.numdlb",
+			"fighter/purin/model/monsterball/c08/model.numshb",
+			"fighter/purin/model/monsterball/c08/model.numshexb",
+			"fighter/purin/model/monsterball/c08/model.nusktb",
+			"fighter/purin/model/monsterball/c08/model.nusrcmdlb",
+			"fighter/purin/model/monsterball/c08/model.xmb",
+			"fighter/purin/motion/body/c08/a00defaulteyelid.nuanmb",
+			"fighter/purin/motion/body/c08/a00itemhandgrip.nuanmb",
+			"fighter/purin/motion/body/c08/a00itemhandhave.nuanmb",
+			"fighter/purin/motion/body/c08/a00itemhandpickup.nuanmb",
+			"fighter/purin/motion/body/c08/a00itemhandsmash.nuanmb",
+			"fighter/purin/motion/body/c08/a00wait1.nuanmb",
+			"fighter/purin/motion/body/c08/a00wait2.nuanmb",
+			"fighter/purin/motion/body/c08/a00wait3.nuanmb",
+			"fighter/purin/motion/body/c08/a00waititem.nuanmb",
+			"fighter/purin/motion/body/c08/a01turn.nuanmb",
+			"fighter/purin/motion/body/c08/a01walkbrakel.nuanmb",
+			"fighter/purin/motion/body/c08/a01walkbraker.nuanmb",
+			"fighter/purin/motion/body/c08/a01walkfast.nuanmb",
+			"fighter/purin/motion/body/c08/a01walkmiddle.nuanmb",
+			"fighter/purin/motion/body/c08/a01walkslow.nuanmb",
+			"fighter/purin/motion/body/c08/a02dash.nuanmb",
+			"fighter/purin/motion/body/c08/a02run.nuanmb",
+			"fighter/purin/motion/body/c08/a02runbrakel.nuanmb",
+			"fighter/purin/motion/body/c08/a02runbraker.nuanmb",
+			"fighter/purin/motion/body/c08/a02turndash.nuanmb",
+			"fighter/purin/motion/body/c08/a02turnrun.nuanmb",
+			"fighter/purin/motion/body/c08/a02turnrunbrake.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpaerialf.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpaerialf2.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpaerialf3.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpaerialf4.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpaerialf5.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpb.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpf.nuanmb",
+			"fighter/purin/motion/body/c08/a03jumpsquat.nuanmb",
+			"fighter/purin/motion/body/c08/a04damagefall.nuanmb",
+			"fighter/purin/motion/body/c08/a04fall.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallaerial.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallaerialb.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallaerialf.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallb.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallf.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallspecial.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallspecialb.nuanmb",
+			"fighter/purin/motion/body/c08/a04fallspecialf.nuanmb",
+			"fighter/purin/motion/body/c08/a04landingfallspecial.nuanmb",
+			"fighter/purin/motion/body/c08/a04runfalll.nuanmb",
+			"fighter/purin/motion/body/c08/a04runfallr.nuanmb",
+			"fighter/purin/motion/body/c08/a04walkfalll.nuanmb",
+			"fighter/purin/motion/body/c08/a04walkfallr.nuanmb",
+			"fighter/purin/motion/body/c08/a05landingheavy.nuanmb",
+			"fighter/purin/motion/body/c08/a05landinglight.nuanmb",
+			"fighter/purin/motion/body/c08/a05squat.nuanmb",
+			"fighter/purin/motion/body/c08/a05squatrv.nuanmb",
+			"fighter/purin/motion/body/c08/a05squatwait.nuanmb",
+			"fighter/purin/motion/body/c08/a05squatwaititem.nuanmb",
+			"fighter/purin/motion/body/c08/a06stepairpose.nuanmb",
+			"fighter/purin/motion/body/c08/a06stepback.nuanmb",
+			"fighter/purin/motion/body/c08/a06stepfall.nuanmb",
+			"fighter/purin/motion/body/c08/a06stepjump.nuanmb",
+			"fighter/purin/motion/body/c08/a06steppose.nuanmb",
+			"fighter/purin/motion/body/c08/b00guard.nuanmb",
+			"fighter/purin/motion/body/c08/b00guardoff.nuanmb",
+			"fighter/purin/motion/body/c08/b00guardon.nuanmb",
+			"fighter/purin/motion/body/c08/b00justshieldoff.nuanmb",
+			"fighter/purin/motion/body/c08/b01guarddamage.nuanmb",
+			"fighter/purin/motion/body/c08/b02escapeair.nuanmb",
+			"fighter/purin/motion/body/c08/b02escapeb.nuanmb",
+			"fighter/purin/motion/body/c08/b02escapef.nuanmb",
+			"fighter/purin/motion/body/c08/b02escapen.nuanmb",
+			"fighter/purin/motion/body/c08/b02rebound.nuanmb",
+			"fighter/purin/motion/body/c08/c00attack11.nuanmb",
+			"fighter/purin/motion/body/c08/c00attack12.nuanmb",
+			"fighter/purin/motion/body/c08/c00attackdash.nuanmb",
+			"fighter/purin/motion/body/c08/c01attacks3hi.nuanmb",
+			"fighter/purin/motion/body/c08/c01attacks3lw.nuanmb",
+			"fighter/purin/motion/body/c08/c01attacks3s.nuanmb",
+			"fighter/purin/motion/body/c08/c02attackhi3.nuanmb",
+			"fighter/purin/motion/body/c08/c02attacklw3.nuanmb",
+			"fighter/purin/motion/body/c08/c03attacks4charge.nuanmb",
+			"fighter/purin/motion/body/c08/c03attacks4s.nuanmb",
+			"fighter/purin/motion/body/c08/c04attackhi4.nuanmb",
+			"fighter/purin/motion/body/c08/c04attackhi4charge.nuanmb",
+			"fighter/purin/motion/body/c08/c04attacklw4.nuanmb",
+			"fighter/purin/motion/body/c08/c04attacklw4charge.nuanmb",
+			"fighter/purin/motion/body/c08/c05attackairb.nuanmb",
+			"fighter/purin/motion/body/c08/c05attackairf.nuanmb",
+			"fighter/purin/motion/body/c08/c05attackairhi.nuanmb",
+			"fighter/purin/motion/body/c08/c05attackairlw.nuanmb",
+			"fighter/purin/motion/body/c08/c05attackairn.nuanmb",
+			"fighter/purin/motion/body/c08/c05landingairb.nuanmb",
+			"fighter/purin/motion/body/c08/c05landingairf.nuanmb",
+			"fighter/purin/motion/body/c08/c05landingairhi.nuanmb",
+			"fighter/purin/motion/body/c08/c05landingairlw.nuanmb",
+			"fighter/purin/motion/body/c08/c05landingairn.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialairnendr.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialairnhold.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialairnstartr.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialn.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialnendr.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialnhold.nuanmb",
+			"fighter/purin/motion/body/c08/d00specialnstartr.nuanmb",
+			"fighter/purin/motion/body/c08/d01specialairs.nuanmb",
+			"fighter/purin/motion/body/c08/d01specials.nuanmb",
+			"fighter/purin/motion/body/c08/d02specialairhir.nuanmb",
+			"fighter/purin/motion/body/c08/d02specialhir.nuanmb",
+			"fighter/purin/motion/body/c08/d03specialairlwr.nuanmb",
+			"fighter/purin/motion/body/c08/d03speciallwr.nuanmb",
+			"fighter/purin/motion/body/c08/d04final.nuanmb",
+			"fighter/purin/motion/body/c08/d04finalair.nuanmb",
+			"fighter/purin/motion/body/c08/d04finalairendr.nuanmb",
+			"fighter/purin/motion/body/c08/d04finalairstartr.nuanmb",
+			"fighter/purin/motion/body/c08/d04finalendr.nuanmb",
+			"fighter/purin/motion/body/c08/d04finalstartr.nuanmb",
+			"fighter/purin/motion/body/c08/e00catch.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchattack.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchcut.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchdash.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchpull.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchturn.nuanmb",
+			"fighter/purin/motion/body/c08/e00catchwait.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwb.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwf.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwhi.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwlw.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownb.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownbigb.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownbigf.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownbighi.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownbiglw.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwndxb.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwndxf.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwndxhi.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwndxlw.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownf.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwngirlb.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwngirlf.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwngirlhi.nuanmb",
+			"fighter/purin/motion/body/c08/e01throwngirllw.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownhi.nuanmb",
+			"fighter/purin/motion/body/c08/e01thrownlw.nuanmb",
+			"fighter/purin/motion/body/c08/e02capturedamagehi.nuanmb",
+			"fighter/purin/motion/body/c08/e02capturepulledhi.nuanmb",
+			"fighter/purin/motion/body/c08/e02capturewaithi.nuanmb",
+			"fighter/purin/motion/body/c08/e03capturecut.nuanmb",
+			"fighter/purin/motion/body/c08/e03capturedamagelw.nuanmb",
+			"fighter/purin/motion/body/c08/e03capturejump.nuanmb",
+			"fighter/purin/motion/body/c08/e03capturepulledlw.nuanmb",
+			"fighter/purin/motion/body/c08/e03capturewaitlw.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagehi1.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagehi2.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagehi3.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagelw1.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagelw2.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagelw3.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagen1.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagen2.nuanmb",
+			"fighter/purin/motion/body/c08/f00damagen3.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageair1.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageair2.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageair3.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflyhi.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflylw.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflymeteor.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflyn.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflyroll.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflyrollend.nuanmb",
+			"fighter/purin/motion/body/c08/f01damageflytop.nuanmb",
+			"fighter/purin/motion/body/c08/f02damageelec.nuanmb",
+			"fighter/purin/motion/body/c08/f03downattacku.nuanmb",
+			"fighter/purin/motion/body/c08/f03downbacku.nuanmb",
+			"fighter/purin/motion/body/c08/f03downboundu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downdamageu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downdamageu3.nuanmb",
+			"fighter/purin/motion/body/c08/f03downeatu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downforwardu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downspotu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downstandu.nuanmb",
+			"fighter/purin/motion/body/c08/f03downwaitu.nuanmb",
+			"fighter/purin/motion/body/c08/f04downattackd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downbackd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downboundd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downdamaged.nuanmb",
+			"fighter/purin/motion/body/c08/f04downdamaged3.nuanmb",
+			"fighter/purin/motion/body/c08/f04downeatd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downforwardd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downstandd.nuanmb",
+			"fighter/purin/motion/body/c08/f04downwaitd.nuanmb",
+			"fighter/purin/motion/body/c08/f05passive.nuanmb",
+			"fighter/purin/motion/body/c08/f05passiveceil.nuanmb",
+			"fighter/purin/motion/body/c08/f05passivestandb.nuanmb",
+			"fighter/purin/motion/body/c08/f05passivestandf.nuanmb",
+			"fighter/purin/motion/body/c08/f05passivewall.nuanmb",
+			"fighter/purin/motion/body/c08/f05passivewalljump.nuanmb",
+			"fighter/purin/motion/body/c08/f06furafura.nuanmb",
+			"fighter/purin/motion/body/c08/f06furafuraend.nuanmb",
+			"fighter/purin/motion/body/c08/f06furafurastartd.nuanmb",
+			"fighter/purin/motion/body/c08/f06furafurastartu.nuanmb",
+			"fighter/purin/motion/body/c08/f07sleepend.nuanmb",
+			"fighter/purin/motion/body/c08/f07sleeploop.nuanmb",
+			"fighter/purin/motion/body/c08/f07sleepstart.nuanmb",
+			"fighter/purin/motion/body/c08/f08swallowed.nuanmb",
+			"fighter/purin/motion/body/c08/f09camerahit.nuanmb",
+			"fighter/purin/motion/body/c08/flip.prc",
+			"fighter/purin/motion/body/c08/g00ceildamage.nuanmb",
+			"fighter/purin/motion/body/c08/g00missfoot.nuanmb",
+			"fighter/purin/motion/body/c08/g00ottotto.nuanmb",
+			"fighter/purin/motion/body/c08/g00ottottowait.nuanmb",
+			"fighter/purin/motion/body/c08/g00pass.nuanmb",
+			"fighter/purin/motion/body/c08/g00stopceil.nuanmb",
+			"fighter/purin/motion/body/c08/g00stopwall.nuanmb",
+			"fighter/purin/motion/body/c08/g00walldamage.nuanmb",
+			"fighter/purin/motion/body/c08/g01cliffcatch.nuanmb",
+			"fighter/purin/motion/body/c08/g01cliffwait.nuanmb",
+			"fighter/purin/motion/body/c08/g02cliffattack.nuanmb",
+			"fighter/purin/motion/body/c08/g02cliffclimb.nuanmb",
+			"fighter/purin/motion/body/c08/g02cliffescape.nuanmb",
+			"fighter/purin/motion/body/c08/g02cliffjump1.nuanmb",
+			"fighter/purin/motion/body/c08/g02cliffjump2.nuanmb",
+			"fighter/purin/motion/body/c08/g03slip.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipattack.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipdown.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipescapeb.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipescapef.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipstand.nuanmb",
+			"fighter/purin/motion/body/c08/g03slipwait.nuanmb",
+			"fighter/purin/motion/body/c08/h00lighteat.nuanmb",
+			"fighter/purin/motion/body/c08/h00lightget.nuanmb",
+			"fighter/purin/motion/body/c08/h00lightwalkeat.nuanmb",
+			"fighter/purin/motion/body/c08/h00lightwalkget.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowb.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowdash.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowdrop.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowf.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowhi.nuanmb",
+			"fighter/purin/motion/body/c08/h01lightthrowlw.nuanmb",
+			"fighter/purin/motion/body/c08/h02lightthrowairb.nuanmb",
+			"fighter/purin/motion/body/c08/h02lightthrowairf.nuanmb",
+			"fighter/purin/motion/body/c08/h02lightthrowairhi.nuanmb",
+			"fighter/purin/motion/body/c08/h02lightthrowairlw.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavyget.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavythrowb.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavythrowf.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavythrowhi.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavythrowlw.nuanmb",
+			"fighter/purin/motion/body/c08/h03heavywalk.nuanmb",
+			"fighter/purin/motion/body/c08/h04swing1.nuanmb",
+			"fighter/purin/motion/body/c08/h04swing3.nuanmb",
+			"fighter/purin/motion/body/c08/h04swing4.nuanmb",
+			"fighter/purin/motion/body/c08/h04swing4charge.nuanmb",
+			"fighter/purin/motion/body/c08/h04swingdash.nuanmb",
+			"fighter/purin/motion/body/c08/h05itemhammerair.nuanmb",
+			"fighter/purin/motion/body/c08/h05itemhammermove.nuanmb",
+			"fighter/purin/motion/body/c08/h05itemhammerwait.nuanmb",
+			"fighter/purin/motion/body/c08/h06swing4bat.nuanmb",
+			"fighter/purin/motion/body/c08/h07itemscrew.nuanmb",
+			"fighter/purin/motion/body/c08/h07itemscrewfall.nuanmb",
+			"fighter/purin/motion/body/c08/h08itemdragoonget.nuanmb",
+			"fighter/purin/motion/body/c08/h08itemdragoonride.nuanmb",
+			"fighter/purin/motion/body/c08/h10itemlegsjumpsquat.nuanmb",
+			"fighter/purin/motion/body/c08/h10itemlegslanding.nuanmb",
+			"fighter/purin/motion/body/c08/h10itemlegswalkb.nuanmb",
+			"fighter/purin/motion/body/c08/h10itemlegswalkf.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshoot.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshootair.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshootairloop.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshootloop.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshootloopupper.nuanmb",
+			"fighter/purin/motion/body/c08/h11itemshootupper.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeairend.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeairfire.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeairrapid.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeairstart.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeend.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopeendupper.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopefall.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopefire.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopefireupper.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscoperapid.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscoperapidupper.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopestart.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopestartupper.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopewait.nuanmb",
+			"fighter/purin/motion/body/c08/h12itemscopewaitupper.nuanmb",
+			"fighter/purin/motion/body/c08/h13itemassist.nuanmb",
+			"fighter/purin/motion/body/c08/h14gekikarawait.nuanmb",
+			"fighter/purin/motion/body/c08/h14gekikarawaitface.nuanmb",
+			"fighter/purin/motion/body/c08/h15itemgrasspull.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisairend.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisairfire.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisairloop.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisend.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisfall.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisfire.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisloop.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesisturn.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesiswait.nuanmb",
+			"fighter/purin/motion/body/c08/h16itemgenesiswaitupper.nuanmb",
+			"fighter/purin/motion/body/c08/i00swim.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimend.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimf.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimrise.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimturn.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimup.nuanmb",
+			"fighter/purin/motion/body/c08/i00swimupdamage.nuanmb",
+			"fighter/purin/motion/body/c08/i01swimdrown.nuanmb",
+			"fighter/purin/motion/body/c08/i01swimdrownout.nuanmb",
+			"fighter/purin/motion/body/c08/ik.prc",
+			"fighter/purin/motion/body/c08/j00entryr.nuanmb",
+			"fighter/purin/motion/body/c08/j01appealhir.nuanmb",
+			"fighter/purin/motion/body/c08/j01appeallwr.nuanmb",
+			"fighter/purin/motion/body/c08/j01appealsr.nuanmb",
+			"fighter/purin/motion/body/c08/j02lose.nuanmb",
+			"fighter/purin/motion/body/c08/j02win1.nuanmb",
+			"fighter/purin/motion/body/c08/j02win1wait.nuanmb",
+			"fighter/purin/motion/body/c08/j02win2.nuanmb",
+			"fighter/purin/motion/body/c08/j02win2wait.nuanmb",
+			"fighter/purin/motion/body/c08/j02win3.nuanmb",
+			"fighter/purin/motion/body/c08/j02win3wait.nuanmb",
+			"fighter/purin/motion/body/c08/k00laddercatchairr.nuanmb",
+			"fighter/purin/motion/body/c08/k00laddercatchendr.nuanmb",
+			"fighter/purin/motion/body/c08/k00laddercatchr.nuanmb",
+			"fighter/purin/motion/body/c08/k00ladderdown.nuanmb",
+			"fighter/purin/motion/body/c08/k00ladderup.nuanmb",
+			"fighter/purin/motion/body/c08/k00ladderwait.nuanmb",
+			"fighter/purin/motion/body/c08/l00share.nuanmb",
+			"fighter/purin/motion/body/c08/l02share_cliff.nuanmb",
+			"fighter/purin/motion/body/c08/l02share_finish.nuanmb",
+			"fighter/purin/motion/body/c08/l02share_fistdown.nuanmb",
+			"fighter/purin/motion/body/c08/l02share_sleep.nuanmb",
+			"fighter/purin/motion/body/c08/l03adventurerun.nuanmb",
+			"fighter/purin/motion/body/c08/motion_list.bin",
+			"fighter/purin/motion/body/c08/scharge.prc",
+			"fighter/purin/motion/body/c08/swing.prc",
+			"fighter/purin/motion/body/c08/update.prc",
+			"fighter/purin/motion/cap/c08/motion_list.bin",
+			"fighter/purin/motion/cap/c08/update.prc",
+			"fighter/purin/motion/monsterball/c08/flip.prc",
+			"fighter/purin/motion/monsterball/c08/j00entry.nuanmb",
+			"fighter/purin/motion/monsterball/c08/motion_list.bin",
+			"fighter/purin/motion/monsterball/c08/update.prc",
+			"sound/bank/fighter/se_purin_c08.nus3audio",
+			"sound/bank/fighter/se_purin_c08.nus3bank",
+			"sound/bank/fighter/se_purin_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_purin_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_purin_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_purin_c08.tonelabel",
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.nus3audio",
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.nus3bank",
+			"sound/bank/fighter_voice/vc_purin_cheer_c08.tonelabel"
+		],
+		"fighter/purin/camera/c08": [
+			"camera/fighter/purin/c08/d04finalstartr.nuanmb",
+			"camera/fighter/purin/c08/j02win1.nuanmb",
+			"camera/fighter/purin/c08/j02win2.nuanmb",
+			"camera/fighter/purin/c08/j02win3.nuanmb"
+		],
+		"fighter/purin/kirbycopy/c08": [
+			"fighter/kirby/model/copy_purin_parts/c08/dark_model.numatb",
+			"fighter/kirby/model/copy_purin_parts/c08/light_model.numatb",
+			"fighter/kirby/model/copy_purin_parts/c08/metamon_model.numatb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.nuanmb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.nuhlpb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.numatb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.numdlb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.numshb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.numshexb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.nusktb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.nusrcmdlb",
+			"fighter/kirby/model/copy_purin_parts/c08/model.xmb",
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_col.nutexb",
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_nor.nutexb",
+			"fighter/kirby/model/copy_purin_parts/c08/skin_copypurin_001_prm.nutexb",
+			"fighter/kirby/motion/copy_purin_parts/c08/flip.prc",
+			"fighter/kirby/motion/copy_purin_parts/c08/update.prc"
+		],
+		"fighter/purin/movie/c08": [],
+		"fighter/purin/result/c08": []
+	}
+}
