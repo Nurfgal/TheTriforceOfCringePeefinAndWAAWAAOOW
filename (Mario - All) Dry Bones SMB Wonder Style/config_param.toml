@@ -1,17 +1,17 @@
-kind = "ness"
-slots = [32, 33, 34, 35, 36, 37, 38, 39]
+kind = "mario"
+slots = [8, 9, 10, 11, 12, 13, 14, 15]
 
 [[param_float]]
 param = "weight"
-value =  75.0
+value =  76.0
 
 [[param_int]]
 param = "jump_squat_frame"
-value =  5
+value =  2
 
 [[param_float]]
 param = "walk_accel_mul"
-value =  0.063
+value =  0.0525
 
 [[param_float]]
 param = "walk_accel_add"
@@ -19,36 +19,36 @@ value =  0.0525
 
 [[param_float]]
 param = "walk_speed_max"
-value =  1.2
+value =  0.86625
 
 [[param_float]]
 param = "run_accel_mul"
-value =  0.025
+value =  0.7645
 
 [[param_float]]
 param = "run_accel_add"
-value =  0.044
+value =  0.033
 
 [[param_float]]
 param = "run_speed_max"
-value =  2.4
+value =  1.32
 
 [[param_float]]
 param = "dash_speed"
-value =  1.234
+value =  1.452
 
 [[param_float]]
 param = "air_accel_x_mul"
-value =  0.27
+value =  0.14
 
 [[param_float]]
 param = "air_speed_x_stable"
-value =  1.5
+value =  1.51
 
 [[param_float]]
 param = "air_accel_y"
-value =  0.055
+value =  0.066
 
 [[param_float]]
 param = "air_speed_y_stable"
-value =  1.111
+value =  1.234
