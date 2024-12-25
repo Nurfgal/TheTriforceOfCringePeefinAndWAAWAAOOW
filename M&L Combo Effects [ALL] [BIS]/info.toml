@@ -1,0 +1,7 @@
+display_name = "M&L Combo FX [All] [BIS]"
+authors = "Lily Lambda"
+version = "v1.2"
+description = """
+Adds sound & visual effects to all combos
+"""
+category = "Effects"

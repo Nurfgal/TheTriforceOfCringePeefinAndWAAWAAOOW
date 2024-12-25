@@ -1,0 +1,54 @@
+kind = "ness"
+slots = [32, 33, 34, 35, 36, 37, 38, 39]
+
+[[param_float]]
+param = "weight"
+value =  75.0
+
+[[param_int]]
+param = "jump_squat_frame"
+value =  7
+
+[[param_float]]
+param = "walk_accel_mul"
+value =  0.063
+
+[[param_float]]
+param = "walk_accel_add"
+value =  0.0525
+
+[[param_float]]
+param = "walk_speed_max"
+value =  1.2
+
+[[param_float]]
+param = "run_accel_mul"
+value =  0.025
+
+[[param_float]]
+param = "run_accel_add"
+value =  0.044
+
+[[param_float]]
+param = "run_speed_max"
+value =  2.4
+
+[[param_float]]
+param = "dash_speed"
+value =  1.234
+
+[[param_float]]
+param = "air_accel_x_mul"
+value =  0.27
+
+[[param_float]]
+param = "air_speed_x_stable"
+value =  1.5
+
+[[param_float]]
+param = "air_accel_y"
+value =  0.055
+
+[[param_float]]
+param = "air_speed_y_stable"
+value =  1.111

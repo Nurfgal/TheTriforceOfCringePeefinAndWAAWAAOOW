@@ -1,0 +1,72 @@
+kind = "pacman"
+slots = [16, 17, 18, 19, 20, 21, 22, 23]
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value =  130.0
+
+[[param_float]]
+param = "walk_accel_mul"
+subparam = ""
+value =  0.084
+
+[[param_float]]
+param = "walk_accel_add"
+subparam = ""
+value =  0.02
+
+[[param_float]]
+param = "walk_speed_max"
+subparam = ""
+value =  0.75
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value = 1.9
+
+[[param_float]]
+param = "run_accel_mul"
+subparam = ""
+value =  0.10593
+
+[[param_float]]
+param = "run_accel_add"
+subparam = ""
+value =  0.033
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value =  1.4
+
+[[param_float]]
+param = "jump_y"
+subparam = ""
+value =  33.33
+
+[[param_float]]
+param = "mini_jump_y"
+subparam = ""
+value =  14.54
+
+[[param_float]]
+param = "jump_aerial_y"
+subparam = ""
+value =  33.33
+
+[[param_float]]
+param = "air_speed_y_stable"
+subparam = ""
+value =  2.5
+
+[[param_float]]
+param = "dive_speed_y"
+subparam = ""
+value =  2.5
+
+[[param_float]]
+param = "air_accel_y"
+subparam = ""
+value =  0.23
