@@ -1,0 +1,36 @@
+Figure -Scans as- Fighter -with- Hex
+Tiki - Krystal - 0x2109000003701202
+Detective Pikachu - Raichu - 0x1D01000003750D02
+Delicious - Herobrine - 0x3740000103741402
+Shovel Knight - Shadow - 0x35C0000002500A02
+Rover - Ninten - 0x018D0000024C0502
+Marie - Sandbag - 0x1F400000035E1002
+Shadow Mewtwo - Blood Falcon - 0x
+Boo - Funky Kong - 0x1D000001025C0D02
+Callie - Sans - 0x08010000025D0402
+Link (Skyward Sword) - Goku - 0x01000000034E0902
+Link (Rider) - Spamton - 0x0100000003540902
+Link (OoT) - Scout - 0x01000000034B0902
+Link (8-bit) - Vegeta - 0x01000000034F0902
+Link (Awakening) - King Bob-Omb - 0x0100000003990902
+K.K. Slider - Silver - 0x0182000002400502
+Waluigi - Waluigi, dumbass - 0x0014000002670102
+Nabiru - Dry Bowser - 0x0807000004330402
+Rathian and Cheval - Gooigi  - 0x3502010002E40F02
+Qbby - Sandbag - 0x1F400000035E1002
+Specter Knight - Kamek - 0x35C20000036D0A02
+Shiver - Sopo - 0x0807000004330402
+Frye - Sona - 0x0808000004340402
+Cat Mario - Metal Mario - 0x0000030003A60102
+Marina - Mai - 0x0000030003A60102
+Koopa Troopa - Dry Bones - 0x23000003680102
+Octoling Octopus - Mew - 0x0805030003900402
+Bokoblin - Majin Buu - 0x1410000035c0902
+Palamute - Subzero - 0x350a000004111802
+Magnamalo - Ermac - 0x35080000040f1802
+Stitches - Masked Man - 0x282000101810502
+Loot Goblin - Wargreymon - 0x38c0000003911602
+Lucha - Blaziken - 0x23c000100bd0502
+Admiral - Decidueye - 0x233000103060502
+Ankha - Zeraora - 0x270000100ff0502
+Big Man - Great Ape Vegeta - 0x809000004350402
