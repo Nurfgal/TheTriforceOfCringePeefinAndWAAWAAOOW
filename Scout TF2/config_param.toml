@@ -55,3 +55,8 @@ value = 2.048
 param = "weight"
 subparam = ""
 value = 77
+
+[[param_int]]
+param = "jump_count_max"
+subparam = ""
+value = 3
