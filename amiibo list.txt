@@ -23,14 +23,14 @@ Shiver - Sopo - 0x0807000004330402
 Frye - Sona - 0x0808000004340402
 Cat Mario - Metal Mario - 0x0000030003A60102
 Marina - Mai - 0x0000030003A60102
-Koopa Troopa - Dry Bones - 0x23000003680102
+Koopa Troopa - Dry Bones - 0x0023000003680102
 Octoling Octopus - Mew - 0x0805030003900402
-Bokoblin - Majin Buu - 0x1410000035c0902
+Bokoblin - Majin Buu - 0x01410000035c0902
 Palamute - Subzero - 0x350a000004111802
 Magnamalo - Ermac - 0x35080000040f1802
-Stitches - Masked Man - 0x282000101810502
+Stitches - Masked Man - 0x0282000101810502
 Loot Goblin - Wargreymon - 0x38c0000003911602
-Lucha - Blaziken - 0x23c000100bd0502
-Admiral - Decidueye - 0x233000103060502
-Ankha - Zeraora - 0x270000100ff0502
-Big Man - Great Ape Vegeta - 0x809000004350402
+Lucha - Blaziken - 0x023c000100bd0502
+Admiral - Decidueye - 0x0233000103060502
+Ankha - Zeraora - 0x0270000100ff0502
+Big Man - Great Ape Vegeta - 0x0809000004350402
