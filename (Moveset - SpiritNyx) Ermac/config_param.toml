@@ -1,8 +1,0 @@
-kind = "mewtwo"
-slots = [152, 153, 154, 155, 156, 157, 158, 159]
-
-[[param_float]]
-param = "shield_radius"
-subparam = ""
-value =  0
-

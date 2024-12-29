@@ -1,0 +1,7 @@
+kind = "ness"
+slots = [16, 17, 18, 19, 20, 21, 22, 23]
+
+[[param_int]]
+param = "jump_count_max"
+subparam = ""
+value = 4

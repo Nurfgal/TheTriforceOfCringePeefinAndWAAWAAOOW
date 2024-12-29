@@ -1,0 +1,79 @@
+kind = "sheik"
+slots = [8,9,10,11,12,13,14,15]
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value =  100.0
+
+[[param_float]]
+param = "walk_accel_mul"
+subparam = ""
+value =  1.54
+
+[[param_float]]
+param = "walk_accel_add"
+subparam = ""
+value =  1.67
+
+[[param_float]]
+param = "walk_speed_max"
+subparam = ""
+value =  1.3
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value =  2.3
+
+[[param_float]]
+param = "run_accel_mul"
+subparam = ""
+value =  2.75
+
+[[param_float]]
+param = "run_accel_add"
+subparam = ""
+value =  2.3
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value =  2.0
+
+[[param_float]]
+param = "air_accel_x_mul"
+subparam = ""
+value =  2.11
+
+[[param_float]]
+param = "air_accel_x_add"
+subparam = ""
+value =  2.03
+
+[[param_float]]
+param = "air_accel_x_stable"
+subparam = ""
+value =  1.6
+
+[[param_float]]
+param = "air_speed_x_stable"
+subparam = ""
+value = 1.6
+
+[[param_float]]
+param = "dive_speed_y"
+subparam = ""
+value =  3.5
+
+[[param_float]]
+param = "shield_radius"
+subparam = ""
+value =  11
+
+[[param_float]]
+param = "param_special_lw"
+subparam = "landing_frame"
+value = 0
+kinds = ["sheik"]
+slots = [8,9,10,11,12,13,14,15]

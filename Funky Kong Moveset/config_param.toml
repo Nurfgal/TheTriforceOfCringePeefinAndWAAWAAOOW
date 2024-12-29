@@ -1,0 +1,7 @@
+kind = "donkey"
+slots = [8, 9, 10, 11, 12, 13, 14, 15]
+
+[[param_int]]
+param = "jump_count_max"
+subparam = ""
+value = 4
