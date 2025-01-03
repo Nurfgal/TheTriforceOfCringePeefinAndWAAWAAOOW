@@ -1,0 +1,10 @@
+display_name="Koopa Kid - Extra Slots"
+description="""
+Created by Joe T.E.
+
+Adds 4 extra slots to Bowser Jr. (c08-c11,) & places Koopa Kid (plus 3 alt colors) onto those slots. The 3 alts are the Blue, Red, & Green Koopa Kid variants that appeared as opponents in Mario Parties 5-7, & Mario Party Advance.
+This mod may experience glitches if you use it alongside any other mods that replace Bowser Jr.'s first slot (c00.) It also would require manual editing to change which extra slots it goes over.
+This mod will not function properly if moved over the vanilla Koopaling slots (c01-c07,) or if using those slots as the base slot when using reslotting tools. Those can lead to a misaligned VS screen portrait & missing texture errors. Those can be fixed, but you'd have to do that manually.
+"""
+version="Release 3"
+category="Fighter"

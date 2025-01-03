@@ -1,0 +1,16 @@
+{
+    "new-dir-infos": [],
+    "new-dir-infos-base": {},
+    "share-to-vanilla": {},
+    "share-to-added": {},
+    "new-dir-files": {
+        "fighter/wario/c06": [
+            "fighter/wario/model/body/c06/def_ness_001_col.nutexb",
+            "fighter/wario/model/body/c06/def_ness_001_nor.nutexb",
+            "fighter/wario/model/body/c06/def_ness_001_prm.nutexb",
+            "fighter/wario/model/body/c06/def_wariob_001_col.nutexb",
+            "fighter/wario/model/body/c06/def_wariob_001_nor.nutexb",
+            "fighter/wario/model/body/c06/def_wariob_001_prm.nutexb"
+        ]
+    }
+}

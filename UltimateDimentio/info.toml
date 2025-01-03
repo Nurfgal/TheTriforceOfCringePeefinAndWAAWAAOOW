@@ -1,0 +1,7 @@
+display_name = "Dimentio Ultimate"
+authors = "Anivernage"
+version = "1.0.0"
+description = """
+Replaces Ness with Dimentio from Super Paper Mario
+"""
+category = "Fighter"

@@ -1,0 +1,13 @@
+{
+    "new-dir-infos": [],
+    "new-dir-infos-base": {},
+    "share-to-vanilla": {},
+    "share-to-added": {},
+    "new-dir-files": {
+        "fighter/wario/c04": [
+            "fighter/wario/model/body/c04/metal_wario_002_prm.nutexb",
+            "fighter/wario/model/body/c04/metal_wario_002_nrm.nutexb",
+            "fighter/wario/model/body/c04/metal_wario_002_col.nutexb"
+        ]
+    }
+}
