@@ -1,0 +1,56 @@
+{
+	"new-dir-files": {
+	    "stage/mario_past64/normal/model/ring_set": [		
+		 "stage/mario_past64/normal/model/ring_set/broken04_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_arche01_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_block01_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_block05b_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_broken02_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_floor02_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_ground03_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_ground05_col.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_ground05_nor.nutexb",
+		 "stage/mario_past64/normal/model/ring_set/dxshrine_pillar01_col.nutexb"
+		],
+	    "stage/mario_past64/normal/model/bg_set": [		
+		 "stage/mario_past64/normal/model/bg_set/Fence00_D_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_aurora01_col.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_aurora01_nor.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_aurora02_col.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_far_bg_col.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_sky06_col.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/icetop_under_col.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/Jewel01_z_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/KomonoMat00_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/Shadow_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/Snow00_D_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/SnowShadow_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/Soil00_D_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/SoilShadow_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/TreeConiferBody_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/TreeConiferLeaf_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/TreeConiferSnow_Alb.nutexb",
+		 "stage/mario_past64/normal/model/bg_set/TreeMat00_Alb.nutexb"
+		],
+	    "stage/mario_past64/battle/model/bg_set": [		
+		 "stage/mario_past64/battle/model/bg_set/Fence00_D_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_aurora01_col.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_aurora01_nor.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_aurora02_col.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_far_bg_col.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_sky06_col.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/icetop_under_col.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/Jewel01_z_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/KomonoMat00_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/Shadow_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/Snow00_D_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/SnowShadow_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/Soil00_D_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/SoilShadow_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/TreeConiferBody_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/TreeConiferLeaf_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/TreeConiferSnow_Alb.nutexb",
+		 "stage/mario_past64/battle/model/bg_set/TreeMat00_Alb.nutexb"
+		]
+	}
+}

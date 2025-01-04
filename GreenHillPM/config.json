@@ -1,0 +1,60 @@
+{
+    "new-dir-infos": [
+        "stage/sonic_greenhill/normal/model/s68_greenhill_ring",
+        "stage/sonic_greenhill/normal/model/s68_greenhill_swing",
+        "stage/sonic_greenhill/normal/motion/s68_greenhill_ring",
+        "stage/sonic_greenhill/normal/motion/s68_greenhill_swing"
+    ],
+    "new-dir-files": {
+        "stage/sonic_greenhill/normal/model/s68_greenhill_ring": [
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/bake_02_stg_basic_ind_lit.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/bake_05_stg_ashiba_lit.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/bake_06_stg_optionalparts_ind_lit.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/himawari_01_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/jimenkusaalpha_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/jimenkusa_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/kabekusa01b_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/kabekusa01_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/komonoa_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/komonob_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/komonoc_col_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.nuhlpb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.numatb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.numdlb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.numshb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.numshexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.nusktb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.nusrcmdlb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/model.xmb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/palm_01_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/palm_part02_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/palm_part_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/sonic_greenhill_ink_cube_specular.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/wall_01_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/wall_01_light_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/wall_01_up_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_ring/wall_01_up_grd_col.nutexb"
+        ],
+        "stage/sonic_greenhill/normal/model/s68_greenhill_swing": [
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/bake_06_stg_optionalparts_ind_lit.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/default_normal_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/komonob_col.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/metal_prm.nutexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.nuhlpb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.numatb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.numdlb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.numshb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.numshexb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.nusktb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.nusrcmdlb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/model.xmb",
+            "stage/sonic_greenhill/normal/model/s68_greenhill_swing/sonic_greenhill_ibl_cube_specular.nutexb"
+        ],
+        "stage/sonic_greenhill/normal/motion/s68_greenhill_ring": [
+            "stage/sonic_greenhill/normal/motion/s68_greenhill_ring/s68_greenhill_ring.nuanmb"
+        ],
+        "stage/sonic_greenhill/normal/motion/s68_greenhill_swing": [
+            "stage/sonic_greenhill/normal/motion/s68_greenhill_swing/s68_greenhill_swing.nuanmb"
+        ]
+    }
+}

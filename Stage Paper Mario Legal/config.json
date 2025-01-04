@@ -1,0 +1,21 @@
+{
+  "new-dir-files": {
+      "stage/mario_paper/normal/model/s23_paper_land": [
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_bake_lit.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_fence01_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_flower01_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_gao.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena00_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena01_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena02_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena03_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena04_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena05_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena06_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_greena07_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_stone01_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/bnsmy_m_paper_land_wall01_col.nutexb",
+		"stage/mario_paper/normal/model/s23_paper_land/mario_paper_ibl_bluesky_ira.nutexb"
+      ]
+  }
+}

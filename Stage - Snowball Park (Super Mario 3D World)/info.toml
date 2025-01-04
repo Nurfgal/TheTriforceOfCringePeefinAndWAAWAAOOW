@@ -1,0 +1,17 @@
+display_name = "Snowball Park (Super Mario 3D World)"
+authors = "Miokai"
+version = "1.0.0"
+description = """
+This mod replaces Mushroom Kingdom 64 with Snowball Park from Super Mario 3D World.
+
+
+Mod features:
+- Normal stage (NOT Wi-fi safe)
+- Omega/Battlefield stage (Wi-fi safe)
+- UI
+- Param files for custom tips and name!
+- Alt 01 version
+
+Hope you guys like the stage!
+"""
+category = "Stage"

@@ -1,0 +1,16 @@
+{
+  "new-dir-files": {
+      "stage/fe_arena/normal/model/s02_04kassya": [
+         "stage/fe_arena/normal/model/s02_04kassya/bmsmy_fearenawoodb_col.nutexb",
+"stage/fe_arena/normal/model/s02_04kassya/bmsmy_tu_co_hasira04_col.nutexb",
+"stage/fe_arena/normal/model/s02_04kassya/bmsmy_tu_co_moyou03_col.nutexb",
+"stage/fe_arena/normal/model/s02_04kassya/bnsmy_floating_bake_lit.nutexb"
+      ],
+	  "stage/fe_arena/normal/model/s02_hmdl_01turi": [
+         "stage/fe_arena/normal/model/s02_hmdl_01turi/bmsmy_fearenawoodb_col.nutexb",
+"stage/fe_arena/normal/model/s02_hmdl_01turi/bmsmy_tu_co_hasira04_col.nutexb",
+"stage/fe_arena/normal/model/s02_hmdl_01turi/bmsmy_tu_co_moyou03_col.nutexb",
+"stage/fe_arena/normal/model/s02_hmdl_01turi/bnsmy_floating_bake_lit.nutexb"
+      ]
+  }
+}

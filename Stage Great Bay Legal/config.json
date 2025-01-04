@@ -1,0 +1,23 @@
+{
+  "new-dir-files": {
+      "stage/zelda_greatbay/normal/model/kamome_set": [
+ "stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_col.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_inner_col.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_inner_nor.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_inner_prm.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_nor.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbay_labo_floor_prm.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbayring_indirect_bake_lit.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/bnsmy_greatbayring02_illu_bake_lit.nutexb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.nuhlpb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.numatb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.numdlb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.numshb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.numshexb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.nusktb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.nusrcmdlb",
+"stage/zelda_greatbay/normal/model/kamome_set/model.xmb",
+"stage/zelda_greatbay/normal/model/kamome_set/reflection_cubemap.nutexb"
+      ]
+  }
+}

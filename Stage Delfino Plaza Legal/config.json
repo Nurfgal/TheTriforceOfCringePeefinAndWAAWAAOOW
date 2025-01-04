@@ -1,0 +1,27 @@
+{
+  "new-dir-files": {
+      "stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set": [
+       "stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashiba_metalb_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashiba_metalb_nor.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashiba_metalb_prm.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashibaa_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashibaa_nor.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_ashibaa_prm.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_blocka_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_blocka_nor.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_blocka_prm.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_fuyuuasibadolphic_brick.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_mario_dolpic_mainstage_gao.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_metalb_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_metalb_nor.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_metalb_prm.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_tile_grab_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_wall_blocka_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_wall_blockb_2_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_wall_blockc_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/bnsmy_wall_brickc_col.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/mario_dolpic_ashiba_spc.nutexb",
+"stage/mario_dolpic/normal/model/dyr_xdolpicashiba_dodai1_set/mario_dolpic_stage_spc.nutexb"
+      ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "new-dir-files": {
+      "stage/dk_jungle/normal/model/stc_background_set": [
+		"stage/dk_jungle/normal/model/stc_background_set/bg_far_palmtree.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/bg_floora_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/bg_grass_lit.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/bg_lit_base.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/bg_lit_grass.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/bg_tree_lit.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/cloud_02_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/cloud_03_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/cloud_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_grass02_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_leaf01_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_leaf02_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_leaf03_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_leaf05_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/dk_lodge_leef_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/mountain_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/palm_tree_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/palm_tree02_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/palm_tree03_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/palm_tree04_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/sky_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/tree_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/tu_grdgardenniranira_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/tu_grdgardenniranira02_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/valley_col.nutexb",
+		"stage/dk_jungle/normal/model/stc_background_set/vineb_col.nutexb"
+      ]
+  }
+}

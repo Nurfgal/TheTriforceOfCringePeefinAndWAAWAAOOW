@@ -1,0 +1,35 @@
+{
+  "new-dir-files": {
+      "stage/kart_circuitx/normal/model/dyr_icon_b_set": [
+  "stage/kart_circuitx/normal/model/stc_stand_set/bmsny_main_ring_lit.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_01_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_01_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_01_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_03_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_03_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_03_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_04_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_04_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_course_05_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_default_normal.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_fence_01_a_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_fence_01_b_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_fence_01_b_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_line_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_line_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_main_body_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_main_body_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_main_body_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_01_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_01_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_02_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_holder_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_holder_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_pipe_holder_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_weld_col.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_weld_nor.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/bnsmy_weld_prm.nutexb",
+"stage/kart_circuitx/normal/model/stc_stand_set/kart_circuitx_cube_specular.nutexb"
+      ]
+  }
+}

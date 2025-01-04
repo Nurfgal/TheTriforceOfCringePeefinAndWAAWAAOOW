@@ -1,0 +1,25 @@
+display_name="Flat Zone EX"
+description="""
+Layout Edit.
+A relatively relaxed changed to Flat Zone X to make it more competitive.
+List of changes:
+-No more walk offs! The stage now uses a ring that's about the size of PS2
+-Blast zones adjusted, fixed camera zoomed out a bit. Have fun spiking people!
+-Fire stays longer (~30 seconds)
+-Secondary Sets last longer (~40-50 seconds)
+-Fire building has no platforms
+-Fire fighters no longer come out, hope the people are still okay
+-Helmet House is now a flat platform with no slopes
+-Chef has infinite HP so you can't kill him...you jerk...
+-Chef no longer cooks food; he's trying his best!
+-Oil pedestrians no longer shoryuken
+-Lion tamers removed
+-The top of the Lion cage has been removed
+
+Small thing to note: 
+-This stage will always use a fixed camera, so no way to use a normal camera, or one closer to Kirby Dreamland
+-Fire and Helmet will always use a random layout for their platforms
+"""
+version="1"
+category="Stage"
+authors="C#"

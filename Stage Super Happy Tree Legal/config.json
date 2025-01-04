@@ -1,0 +1,13 @@
+{
+  "new-dir-files": {
+    "stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set": [
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_grdoldyoshidanbcorner_col.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_grdoldyoshidanbcross_col.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_grdoldyoshidanbside_col.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_grdoldyoshiwakua_col.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_grdoldyoshiwoodb_col.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_main_ring_lit.nutexb",
+		"stage/yoshi_story/normal/model/hrc_grdoldyoshifloor_set/bnsmy_stgyoshidanb_col.nutexb"
+      ]
+  }
+}

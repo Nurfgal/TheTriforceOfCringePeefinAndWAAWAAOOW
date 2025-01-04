@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <float hash="normal_camera_vertical_angle">-7.2</float>
+  <float hash="normal_camera_look_down_vertical_angle">-25</float>
+  <float hash="fixed_camera_center_x">0</float>
+</struct>

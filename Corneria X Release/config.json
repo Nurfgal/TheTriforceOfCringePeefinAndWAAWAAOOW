@@ -1,0 +1,18 @@
+{
+    "new-dir-files": {
+        "stage/fox_corneria/normal/model/s64_dxcorneriagfox": [
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/arwing_thruster_effect_col.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_floating_plate_col.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_floating_plate_nor.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_floating_plate_prm.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_main_ring_col.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_main_ring_nor.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/bnsmy_main_ring_prm.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/fox_corneria_aw01_col.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/fox_corneria_aw01_nor.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/fox_corneria_aw01_prm.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/fox_corneria_cube_ira.nutexb",
+            "stage/fox_corneria/normal/model/s64_dxcorneriagfox/fox_corneria_cube_spc.nutexb"
+        ]
+    }
+}

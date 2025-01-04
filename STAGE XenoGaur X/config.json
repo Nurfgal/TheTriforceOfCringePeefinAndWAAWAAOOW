@@ -1,0 +1,44 @@
+{
+	"new_dir_files": {
+		"stage/xeno_gaur/normal/model/dyr_ring_r_set": [
+			"stage/xeno_gaur/normal/model/dyr_ring_r_set/xeno_gaur_daytime_spc.nutexb",
+			"stage/xeno_gaur/normal/model/dyr_ring_r_set/xeno_spring_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/dyr_ring_r_set/xeno_spring_01_nor.nutexb",
+			"stage/xeno_gaur/normal/model/dyr_ring_r_set/xeno_spring_01_prm.nutexb",
+			"stage/xeno_gaur/normal/model/dyr_ring_r_set/xeno_spring_02_col.nutexb"
+		],
+		"stage/xeno_gaur/normal/model/dys_spring_skin_set": [
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_ring_gao.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_xeno_plants_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_xeno_plants_02_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_xeno_plant_gao.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_xeno_rock_ring_r_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/bnsmy_xeno_rock_ring_r_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_gaur_daytime_spc.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_grass_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_grass_01_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_grass_shadow_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_ring_gao.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_01_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_02_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_02_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_03_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_03_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_04_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_04_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_05_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_05_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_06_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_l_06_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_01_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_01_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_02_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_02_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_03_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_03_nor.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_04_col.nutexb",
+			"stage/xeno_gaur/normal/model/ink_set/xeno_rock_ring_r_04_nor.nutexb"
+		]
+	}
+}
