@@ -1,0 +1,52 @@
+{
+	"new-dir-files": {
+		"fighter/eflame/c02": [
+		"fighter/eflame/model/body/c02/def_flame_pikmin_001_col.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_001_nor.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_001_prm.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_002_col.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_002_nor.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_002_prm.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_003_col.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_003_nor.nutexb",
+		"fighter/eflame/model/body/c02/def_flame_pikmin_003_prm.nutexb",
+		"fighter/eflame/model/body/c02/skin_pikminy_002_col.nutexb",
+		"fighter/eflame/model/body/c02/skin_pikminy_002_nor.nutexb",
+		"fighter/eflame/model/body/c02/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/elight/c02": [
+		"fighter/elight/model/body/c02/def_light_pikmin_001_col.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_001_nor.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_001_prm.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_002_col.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_002_nor.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_002_prm.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_003_col.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_003_nor.nutexb",
+		"fighter/elight/model/body/c02/def_light_pikmin_003_prm.nutexb",
+		"fighter/elight/model/body/c02/skin_pikminy_002_col.nutexb",
+		"fighter/elight/model/body/c02/skin_pikminy_002_nor.nutexb",
+		"fighter/elight/model/body/c02/skin_pikminy_002_prm.nutexb"
+		],
+		"fighter/element/c02": [
+		"fighter/element/model/diver/c02/def_diver_pikmin_001_col.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_001_nor.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_001_prm.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_002_col.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_002_nor.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_002_prm.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_003_col.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_003_nor.nutexb",
+		"fighter/element/model/diver/c02/def_diver_pikmin_003_prm.nutexb",
+		"fighter/element/model/diver/c02/def_peakmin_001_col.nutexb",
+		"fighter/element/model/diver/c02/def_peakmin_001_nor.nutexb",
+		"fighter/element/model/diver/c02/def_peakmin_001_prm.nutexb",
+		"fighter/element/model/diver/c02/alp_peakmin_001_col.nutexb",
+		"fighter/element/model/diver/c02/alp_peakmin_001_nor.nutexb",
+		"fighter/element/model/diver/c02/alp_peakmin_001_prm.nutexb",
+		"fighter/element/model/diver/c02/metal_peakmin_001_col.nutexb",
+		"fighter/element/model/diver/c02/metal_peakmin_001_nor.nutexb",
+		"fighter/element/model/diver/c02/metal_peakmin_001_prm.nutexb"
+		]
+	}
+}
