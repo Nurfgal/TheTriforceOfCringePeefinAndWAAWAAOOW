@@ -26,7 +26,7 @@ Marina - Mai - 0x0000030003A60102
 Koopa Troopa - Dry Bones - 0x0023000003680102
 Octoling Octopus - Mew - 0x0805030003900402
 Bokoblin - Majin Buu - 0x01410000035c0902
-Palamute - Subzero - 0x350a000004111802
+Palamute - Sub-Zero - 0x350a000004111802
 Magnamalo - Ermac - 0x35080000040f1802
 Stitches - Masked Man - 0x0282000101810502
 Loot Goblin - Wargreymon - 0x38c0000003911602
@@ -34,3 +34,24 @@ Lucha - Blaziken - 0x023c000100bd0502
 Admiral - Decidueye - 0x0233000103060502
 Ankha - Zeraora - 0x0270000100ff0502
 Big Man - Great Ape Vegeta - 0x0809000004350402
+Hammer Slam Bowser - Blastoise - 0x0005ff00023a0702
+Smallfry - Tandemaus - 0x08060100041C0402
+Luigi Power-Up Band - Metal Luigi - 0x00010003039CFF02
+Yoshi Power-Up Band - Birdo - 0x00030003039FFF02
+Koopa Kid - 
+Shadow Queen -
+Dimentio -
+Saria -
+Bulbasaur -
+Gengar -
+Dragapult -
+Ms. Pac-Man -
+Shovel Knight -
+Shinigami -
+Gex -
+Peter Griffin -
+LeBron James -
+SpongeBob & Patrick -
+Oatchi -
+Duracell -
+Ori -
